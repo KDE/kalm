@@ -9,9 +9,9 @@
   <summary>Breathing techniques</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0-or-later</project_license>
-  <url type="homepage">https://apps.kde.org/kalm</url>
+  <!--url type="homepage">https://apps.kde.org/kalm</url-->
   <url type="donation">https://kde.org/community/donations</url>
-  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Kalm</url>
+  <!--url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Kalm</url-->
   <developer_name>plata</developer_name>
   <description>
     <p>Kalm can teach you different breathing techniques.</p>
