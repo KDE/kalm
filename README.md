@@ -1,5 +1,5 @@
 # Kalm
-Kalm can teach you different breathing techniques..
+Kalm can teach you different breathing techniques.
 
 <a href='https://flathub.org/apps/details/org.kde.kalm'><img width='190px' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-i-en.png'/></a>
 
