@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  - SPDX-License-Identifier: CC0-1.0
+  - SPDX-FileCopyrightText: 2023 Plata Hill <plata.hill@kdemail.net>
+ -->
+<component type="desktop-application">
+  <id>org.kde.kalm</id>
+  <name>Kalm</name>
+  <summary>Breathing techniques</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <url type="homepage">https://apps.kde.org/kalm</url>
+  <url type="donation">https://kde.org/community/donations</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Kalm</url>
+  <developer_name>plata</developer_name>
+  <description>
+    <p>Kalm can teach you different breathing techniques.</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>User Interface</caption>
+      <image>https://cdn.kde.org/screenshots/kalm/ui.png</image>
+    </screenshot>
+  </screenshots>
+  <categories>
+    <category>Utility</category>
+    <category>KDE</category>
+    <category>Qt</category>
+  </categories>
+  <launchable type="desktop-id">org.kde.kalm.desktop</launchable>
+  <content_rating type="oars-1.0"/>
+</component>

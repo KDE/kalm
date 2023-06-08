@@ -1,0 +1,21 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2023 Plata Hill <plata.hill@kdemail.net>
+---
+app-id: org.kde.kalm
+runtime: org.kde.Platform
+runtime-version: 5.15-22.08
+sdk: org.kde.Sdk
+command: kalm
+copy-icon: true
+tags:
+  - nightly
+desktop-file-name-suffix: ' (Nightly)'
+finish-args:
+  - --socket=wayland
+  - --socket=fallback-x11
+modules:
+  - name: kalm
+    buildsystem: cmake-ninja
+    sources:
+      - type: dir
+        path: '.'

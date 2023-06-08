@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Kalm
+Upstream-Contact: Plata Hill <plata.hill@kdemail.net>
+
+Files: src/qtquickcontrols2.conf README.md src/KalmSettings.kcfgc src/KalmSettings.kcfg
+Copyright: Plata Hill <plata.hill@kdemail.net>
+License: CC0-1.0
+
+Files: org.kde.kalm.svg logo.png
+Copyright: Plata Hill <plata.hill@kdemail.net>
+License: CC-BY-SA-4.0

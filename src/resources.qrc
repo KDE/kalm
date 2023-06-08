@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="BoxBreathingPage.qml">qml/BoxBreathingPage.qml</file>
+        <file alias="SettingsPage.qml">qml/SettingsPage.qml</file>
+        <file alias="KalmGlobalDrawer.qml">qml/KalmGlobalDrawer.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

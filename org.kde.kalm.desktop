@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2023 Plata Hill <plata.hill@kdemail.net>
+
+[Desktop Entry]
+Name=kalm
+Comment=Breathing techniques
+Version=1.0
+Exec=kalm
+MimeType=application/x-kalm;
+Icon=org.kde.kalm
+Type=Application
+Terminal=false
+Categories=Utility;KDE;Qt;

@@ -1,0 +1,37 @@
+# SPDX-FileCopyrightText: 2023 Plata Hill <plata.hill@kdemail.net>
+# SPDX-License-Identifier: BSD-2-Clause
+
+configure_file(${CMAKE_CURRENT_SOURCE_DIR}/config-kalm.h.cmake ${CMAKE_CURRENT_BINARY_DIR}/config-kalm.h)
+
+add_executable(kalm
+    main.cpp
+    resources.qrc
+)
+
+kconfig_add_kcfg_files(kalm KalmSettings.kcfgc GENERATE_MOC)
+
+target_include_directories(kalm PRIVATE ${CMAKE_BINARY_DIR})
+target_link_libraries(kalm PUBLIC Qt::Core Qt::Qml Qt::Quick Qt::QuickControls2 KF${QT_MAJOR_VERSION}::CoreAddons KF${QT_MAJOR_VERSION}::ConfigGui KF${QT_MAJOR_VERSION}::I18n)
+
+if(ANDROID)
+    target_link_libraries(kalm PUBLIC KF${QT_MAJOR_VERSION}::Kirigami2)
+
+    kirigami_package_breeze_icons(ICONS
+        favorite
+        help-about-symbolic
+        list-add
+        settings-configure
+        tv
+        view-calendar-day
+        view-refresh
+        view-sort
+    )
+else()
+    target_link_libraries(kalm PUBLIC Qt::Widgets)
+endif()
+
+if(TARGET KF${QT_MAJOR_VERSION}::Crash)
+    target_link_libraries(kalm PRIVATE KF${QT_MAJOR_VERSION}::Crash)
+endif()
+
+install(TARGETS kalm ${KF${QT_MAJOR_VERSION}_INSTALL_TARGETS_DEFAULT_ARGS})

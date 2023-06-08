@@ -1,0 +1,7 @@
+File=KalmSettings.kcfg
+ClassName=KalmSettings
+Singleton=true
+Mutators=true
+DefaultValueGetters=true
+GenerateProperties=true
+GlobalEnums=false
