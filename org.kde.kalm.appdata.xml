@@ -16,12 +16,12 @@
   <description>
     <p>Kalm can teach you different breathing techniques.</p>
   </description>
-  <screenshots>
+  <!--screenshots>
     <screenshot type="default">
       <caption>User Interface</caption>
       <image>https://cdn.kde.org/screenshots/kalm/ui.png</image>
     </screenshot>
-  </screenshots>
+  </screenshots-->
   <categories>
     <category>Utility</category>
     <category>KDE</category>
