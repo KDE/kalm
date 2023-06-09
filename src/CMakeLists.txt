@@ -17,14 +17,9 @@ if(ANDROID)
     target_link_libraries(kalm PUBLIC KF${QT_MAJOR_VERSION}::Kirigami2)
 
     kirigami_package_breeze_icons(ICONS
-        favorite
         help-about-symbolic
-        list-add
+        media-playback-start-symbolic
         settings-configure
-        tv
-        view-calendar-day
-        view-refresh
-        view-sort
     )
 else()
     target_link_libraries(kalm PUBLIC Qt::Widgets)
