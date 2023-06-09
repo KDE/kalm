@@ -25,8 +25,6 @@ BreathingPage {
     Rectangle {
         id: rect
 
-        property double posIn: 1
-        property double posOut: 1
         property bool leftNostril: true
 
         anchors.top: parent.top
@@ -40,12 +38,18 @@ BreathingPage {
 
             loops: Animation.Infinite
 
+            PropertyAction {
+                target: gradient
+                properties: "posIn, posOut"
+                value: 1
+            }
+
             ScriptAction {
                 script: page.instructionText = i18n("in")
             }
 
             NumberAnimation {
-                target: rect
+                target: gradient
                 properties: "posIn"
                 from: 1
                 to: 0
@@ -72,7 +76,7 @@ BreathingPage {
             }
 
             NumberAnimation {
-                target: rect
+                target: gradient
                 properties: "posOut"
                 from: 1
                 to: 0
@@ -87,17 +91,10 @@ BreathingPage {
                 duration: 4000
             }
 
-            PropertyAction {
-                target: rect
-                properties: "posIn, posOut"
-                value: 1
-            }
-
         }
 
         gradient: BreathingGradient {
-            posIn: rect.posIn
-            posOut: rect.posOut
+            id: gradient
         }
 
     }
