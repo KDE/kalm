@@ -86,37 +86,9 @@ BreathingPage {
 
         }
 
-        gradient: Gradient {
-            GradientStop {
-                position: 0
-                color: "transparent"
-            }
-
-            GradientStop {
-                position: rect.posIn - 0.001
-                color: "transparent"
-            }
-
-            GradientStop {
-                position: rect.posOut === 0 ? 0 : rect.posIn + 0.001
-                color: "#002b59"
-            }
-
-            GradientStop {
-                position: rect.posOut === 0 ? 0 : rect.posOut - 0.001
-                color: "#3daee9"
-            }
-
-            GradientStop {
-                position: rect.posOut + 0.001
-                color: "transparent"
-            }
-
-            GradientStop {
-                position: 1
-                color: "transparent"
-            }
-
+        gradient: BreathingGradient {
+            posIn: rect.posIn
+            posOut: rect.posOut
         }
 
     }
