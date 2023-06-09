@@ -7,6 +7,7 @@
         <file alias="BoxBreathingPage.qml">qml/BoxBreathingPage.qml</file>
         <file alias="BoxBreathingSleepPage.qml">qml/BoxBreathingSleepPage.qml</file>
         <file alias="BreathingPage.qml">qml/BreathingPage.qml</file>
+        <file alias="FadeBehavior.qml">qml/FadeBehavior.qml</file>
         <file alias="SettingsPage.qml">qml/SettingsPage.qml</file>
         <file alias="KalmGlobalDrawer.qml">qml/KalmGlobalDrawer.qml</file>
         <file>qtquickcontrols2.conf</file>

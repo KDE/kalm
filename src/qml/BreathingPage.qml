@@ -8,6 +8,7 @@ import org.kde.kirigami 2.19 as Kirigami
 
 Kirigami.Page {
     property alias infoText: overlayText.text
+    property alias instructionText: instruction.text
 
     padding: 0
 
@@ -23,6 +24,21 @@ Kirigami.Page {
         bottomInset: 5
         z: 100
         onClicked: overlay.open()
+    }
+
+    Text {
+        id: instruction
+
+        anchors.horizontalCenter: parent.horizontalCenter
+        anchors.verticalCenter: parent.verticalCenter
+        z: 100
+        font.bold: true
+        font.pixelSize: 80
+        color: Kirigami.Theme.textColor
+
+        FadeBehavior on text {
+        }
+
     }
 
     Kirigami.OverlaySheet {

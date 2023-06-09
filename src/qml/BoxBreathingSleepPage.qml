@@ -4,13 +4,15 @@
 import QtQuick 2.15
 
 BreathingPage {
+    id: page
+
     padding: 0
     infoText: i18n("A Box Breathing variant with a longer breathe-out phase helps to relax before going to sleep.\
                 <br>\
                 <ul>\
-                <li>Breathe in through the nose as the blue area fills up (4s)</li>\
+                <li>Breathe in through your nose (4s)</li>\
                 <li>Hold (4s)</li>\
-                <li>Breathe out through the nose as the blue are is emptied (6s)</li>\
+                <li>Breathe out through your nose (6s)</li>\
                 <li>Hold (2s)</li>\
                 </ul>\
                 <br>\
@@ -30,6 +32,10 @@ BreathingPage {
 
             loops: Animation.Infinite
 
+            ScriptAction {
+                script: page.instructionText = i18n("in")
+            }
+
             NumberAnimation {
                 target: rect
                 properties: "posIn"
@@ -38,8 +44,16 @@ BreathingPage {
                 duration: 4000
             }
 
+            ScriptAction {
+                script: page.instructionText = i18n("hold")
+            }
+
             PauseAnimation {
                 duration: 4000
+            }
+
+            ScriptAction {
+                script: page.instructionText = i18n("out")
             }
 
             NumberAnimation {
@@ -48,6 +62,10 @@ BreathingPage {
                 from: 1
                 to: 0
                 duration: 6000
+            }
+
+            ScriptAction {
+                script: page.instructionText = i18n("hold")
             }
 
             PauseAnimation {
