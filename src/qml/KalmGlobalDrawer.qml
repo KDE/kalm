@@ -18,6 +18,15 @@ Kirigami.GlobalDrawer {
             }
         },
         Kirigami.Action {
+            text: i18n("Box Breathing (sleep)")
+            iconName: "media-playback-start-symbolic"
+            onTriggered: {
+                pageStack.layers.clear();
+                pageStack.clear();
+                pageStack.push("qrc:/BoxBreathingSleepPage.qml");
+            }
+        },
+        Kirigami.Action {
             text: i18n("Settings")
             iconName: "settings-configure"
             onTriggered: pageStack.layers.push("qrc:/SettingsPage.qml")
