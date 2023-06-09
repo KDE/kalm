@@ -27,6 +27,15 @@ Kirigami.GlobalDrawer {
             }
         },
         Kirigami.Action {
+            text: i18n("Nadi Shodhana")
+            iconName: "media-playback-start-symbolic"
+            onTriggered: {
+                pageStack.layers.clear();
+                pageStack.clear();
+                pageStack.push("qrc:/NadiShodhanaPage.qml");
+            }
+        },
+        Kirigami.Action {
             text: i18n("Settings")
             iconName: "settings-configure"
             onTriggered: pageStack.layers.push("qrc:/SettingsPage.qml")

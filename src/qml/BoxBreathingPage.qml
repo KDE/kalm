@@ -8,15 +8,15 @@ BreathingPage {
 
     padding: 0
     infoText: i18n("Box Breathing is used by the Navy SEALs to quickly and effectively reduce stress.\
-                        <br>\
-                        <ul>\
-                        <li>Breathe in through your nose (4s)</li>\
-                        <li>Hold (4s)</li>\
-                        <li>Breathe out through your nose (4s)</li>\
-                        <li>Hold (4s)</li>\
-                        </ul>\
-                        <br>\
-                        Repeat for at least 5-10 minutes.")
+                    <br>\
+                    <ul>\
+                    <li>Breathe in through your nose (4s).</li>\
+                    <li>Hold (4s).</li>\
+                    <li>Breathe out through your nose (4s).</li>\
+                    <li>Hold (4s).</li>\
+                    </ul>\
+                    <br>\
+                    Repeat for at least 5-10 minutes.")
 
     Rectangle {
         id: rect
@@ -98,12 +98,12 @@ BreathingPage {
             }
 
             GradientStop {
-                position: rect.posOut == 0 ? 0 : rect.posIn + 0.001
+                position: rect.posOut === 0 ? 0 : rect.posIn + 0.001
                 color: "#002b59"
             }
 
             GradientStop {
-                position: rect.posOut == 0 ? 0 : rect.posOut - 0.001
+                position: rect.posOut === 0 ? 0 : rect.posOut - 0.001
                 color: "#3daee9"
             }
 

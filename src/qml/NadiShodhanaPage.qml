@@ -7,24 +7,32 @@ BreathingPage {
     id: page
 
     padding: 0
-    infoText: i18n("A Box Breathing variant with a longer breathe-out phase helps to relax before going to sleep.\
+    infoText: i18n("Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps to keep a calm mind.\
                     <br>\
                     <ul>\
-                    <li>Breathe in through your nose (4s).</li>\
-                    <li>Hold (4s).</li>\
-                    <li>Breathe out through your nose (6s).</li>\
-                    <li>Hold (2s).</li>\
+                    <li>Place the thumb of your right hand on your right nostril, your index and middle finger between your eyebrows and ring finger on the left nostril.</li>\
+                    <li>Close your right nostril with your thumb and breathe in through your left nostril.</li>\
+                    <li>Close both nostrils with your thumb and ring finger. Hold.</li>\
+                    <li>Lift your thumb and breath out through the right nostril.</li>\
+                    <li>Close both nostrils with your thumb and ring finger. Hold.</li>\
+                    <li>Lift your thumb and breath in through your right nostril.</li>\
+                    <li>Close both nostrils with your thumb and ring finger. Hold.</li>\
+                    <li>Close your right nostril with your thumb and breathe out through your left nostril.</li>\
                     </ul>\
                     <br>\
-                    Repeat at least 6 times.")
+                    Repeat 5-10 times.")
 
     Rectangle {
         id: rect
 
         property double posIn: 1
         property double posOut: 1
+        property bool leftNostril: true
 
-        anchors.fill: parent
+        anchors.top: parent.top
+        anchors.left: parent.left
+        width: parent.width / 2
+        height: parent.height
         Component.onCompleted: animation.start()
 
         SequentialAnimation {
@@ -53,7 +61,14 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("out")
+                script: {
+                    if (rect.leftNostril)
+                        rect.anchors.left = rect.parent.horizontalCenter;
+                    else
+                        rect.anchors.left = rect.parent.left;
+                    rect.leftNostril = !rect.leftNostril;
+                    page.instructionText = i18n("out");
+                }
             }
 
             NumberAnimation {
@@ -61,7 +76,7 @@ BreathingPage {
                 properties: "posOut"
                 from: 1
                 to: 0
-                duration: 6000
+                duration: 4000
             }
 
             ScriptAction {
@@ -69,7 +84,7 @@ BreathingPage {
             }
 
             PauseAnimation {
-                duration: 2000
+                duration: 4000
             }
 
             PropertyAction {
