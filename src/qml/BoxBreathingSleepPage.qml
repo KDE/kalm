@@ -2,12 +2,19 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
 
 import QtQuick 2.15
-import QtQuick.Controls 2.15 as Controls
-import QtQuick.Layouts 1.14
-import org.kde.kirigami 2.19 as Kirigami
 
-Kirigami.Page {
+BreathingPage {
     padding: 0
+    infoText: i18n("A Box Breathing variant with a longer breathe-out phase helps to relax before going to sleep.\
+                <br>\
+                <ul>\
+                <li>Breathe in through the nose as the blue area fills up (4s)</li>\
+                <li>Hold (4s)</li>\
+                <li>Breathe out through the nose as the blue are is emptied (6s)</li>\
+                <li>Hold (2s)</li>\
+                </ul>\
+                <br>\
+                Repeat at least six times.")
 
     Rectangle {
         id: rect
@@ -92,40 +99,6 @@ Kirigami.Page {
                 color: "transparent"
             }
 
-        }
-
-    }
-
-    Controls.RoundButton {
-        visible: _settings.showInfoButton
-        icon.name: "help-about-symbolic"
-        flat: true
-        icon.height: 30
-        icon.width: 30
-        leftInset: 5
-        rightInset: 5
-        topInset: 5
-        bottomInset: 5
-        onClicked: overlay.open()
-    }
-
-    Kirigami.OverlaySheet {
-        id: overlay
-
-        Text {
-            text: i18n("A Box Breathing variant with a longer breathe-out phase helps to relax before going to sleep.\
-                        <br>\
-                        <ul>\
-                        <li>Breathe in through the nose as the blue area fills up (4s)</li>\
-                        <li>Hold (4s)</li>\
-                        <li>Breathe out through the nose as the blue are is emptied (6s)</li>\
-                        <li>Hold (2s)</li>\
-                        </ul>\
-                        <br>\
-                        Repeat at least six times.")
-            Layout.fillWidth: true
-            color: Kirigami.Theme.textColor
-            wrapMode: Text.WordWrap
         }
 
     }
