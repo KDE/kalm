@@ -74,13 +74,7 @@ BreathingPage {
 
             PropertyAction {
                 target: rect
-                property: "posIn"
-                value: 1
-            }
-
-            PropertyAction {
-                target: rect
-                property: "posOut"
+                properties: "posIn, posOut"
                 value: 1
             }
 

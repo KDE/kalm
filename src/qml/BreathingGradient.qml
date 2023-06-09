@@ -18,12 +18,12 @@ Gradient {
     }
 
     GradientStop {
-        position: posOut === 0 ? 0 : posIn + 0.001
+        position: posOut <= posIn ? 0 : posIn + 0.001
         color: "#002b59"
     }
 
     GradientStop {
-        position: posOut === 0 ? 0 : posOut - 0.001
+        position: posOut <= posIn ? 0 : posOut - 0.001
         color: "#3daee9"
     }
 
