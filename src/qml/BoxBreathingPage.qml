@@ -113,7 +113,16 @@ Kirigami.Page {
         id: overlay
 
         Text {
-            text: i18n("<ul><li>Breathe in (4s)</li><li>Hold (4s)</li><li>Breathe out (4s)</li><li>Hold (4s)</li></ul>")
+            text: i18n("Box Breathing is used by the Navy SEALs to quickly and effectively reduce stress.\
+                        <br>\
+                        <ul>\
+                        <li>Breathe in through the nose as the blue area fills up (4s)</li>\
+                        <li>Hold (4s)</li>\
+                        <li>Breathe out through the nose as the blue are is emptied (4s)</li>\
+                        <li>Hold (4s)</li>\
+                        </ul>\
+                        <br>\
+                        Repeat for at least 5-10 minutes.")
             Layout.fillWidth: true
             color: Kirigami.Theme.textColor
             wrapMode: Text.WordWrap
