@@ -4,6 +4,7 @@
 <RCC>
     <qresource prefix="/">
         <file alias="main.qml">qml/main.qml</file>
+        <file alias="478BreathingPage.qml">qml/478BreathingPage.qml</file>
         <file alias="CoordinatedBreathingPage.qml">qml/CoordinatedBreathingPage.qml</file>
         <file alias="BoxBreathingPage.qml">qml/BoxBreathingPage.qml</file>
         <file alias="BoxBreathingSleepPage.qml">qml/BoxBreathingSleepPage.qml</file>
