@@ -30,7 +30,7 @@ BreathingPage {
         onTriggered: {
             page.instructionText = (counter % 10) + 1;
             counter++;
-            if (counter === 20)
+            if (counter === _settings.breatheOutDuration)
                 stop();
 
         }
@@ -80,7 +80,7 @@ BreathingPage {
                     target: gradient
                     properties: "posOut"
                     to: 0
-                    duration: 20000
+                    duration: _settings.breatheOutDuration * 1000
                 }
 
             }

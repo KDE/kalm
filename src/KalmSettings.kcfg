@@ -4,10 +4,16 @@
       xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
       http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
   <kcfgfile name="kalmrc"/>
-  <group name="UI">
+  <group name="General">
     <entry name="showInfoButton" type="Bool">
       <label>Show info button</label>
       <default>true</default>
+    </entry>
+  </group>
+  <group name="Coordinated Breathing">
+    <entry name="breatheOutDuration" type="UInt">
+      <label>Breathe out duration</label>
+      <default>20</default> <!-- seconds -->
     </entry>
   </group>
 </kcfg>

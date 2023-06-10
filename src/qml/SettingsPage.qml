@@ -11,7 +11,7 @@ Kirigami.ScrollablePage {
     Kirigami.FormLayout {
         Kirigami.Separator {
             Kirigami.FormData.isSection: true
-            Kirigami.FormData.label: i18n("UI")
+            Kirigami.FormData.label: i18n("General")
         }
 
         RowLayout {
@@ -20,6 +20,28 @@ Kirigami.ScrollablePage {
             Controls.CheckBox {
                 checked: _settings.showInfoButton
                 onCheckedChanged: _settings.showInfoButton = checked
+            }
+
+        }
+
+        Kirigami.Separator {
+            Kirigami.FormData.isSection: true
+            Kirigami.FormData.label: i18n("Coordinated Breathing")
+        }
+
+        RowLayout {
+            Kirigami.FormData.label: i18n("Breathe out duration")
+
+            Controls.SpinBox {
+                from: 0
+                to: 120
+                editable: true
+                value: _settings.breatheOutDuration
+                onValueModified: _settings.breatheOutDuration = value
+            }
+
+            Controls.Label {
+                text: i18n("s")
             }
 
         }
