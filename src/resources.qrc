@@ -14,6 +14,7 @@
         <file alias="NadiShodhanaPage.qml">qml/NadiShodhanaPage.qml</file>
         <file alias="SettingsPage.qml">qml/SettingsPage.qml</file>
         <file alias="KalmGlobalDrawer.qml">qml/KalmGlobalDrawer.qml</file>
+        <file alias="YogicBreathingPage.qml">qml/YogicBreathingPage.qml</file>
         <file>qtquickcontrols2.conf</file>
     </qresource>
 </RCC>
