@@ -31,6 +31,7 @@ Kirigami.Page {
 
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.verticalCenter: parent.verticalCenter
+        horizontalAlignment: Text.AlignHCenter
         z: 100
         font.bold: true
         font.pixelSize: 80
