@@ -36,6 +36,15 @@ Kirigami.GlobalDrawer {
             }
         },
         Kirigami.Action {
+            text: i18n("Resonant Breathing")
+            iconName: "media-playback-start-symbolic"
+            onTriggered: {
+                pageStack.layers.clear();
+                pageStack.clear();
+                pageStack.push("qrc:/ResonantBreathingPage.qml");
+            }
+        },
+        Kirigami.Action {
             text: i18n("Nadi Shodhana")
             iconName: "media-playback-start-symbolic"
             onTriggered: {

@@ -10,6 +10,7 @@
         <file alias="BreathingGradient.qml">qml/BreathingGradient.qml</file>
         <file alias="BreathingPage.qml">qml/BreathingPage.qml</file>
         <file alias="FadeBehavior.qml">qml/FadeBehavior.qml</file>
+        <file alias="ResonantBreathingPage.qml">qml/ResonantBreathingPage.qml</file>
         <file alias="NadiShodhanaPage.qml">qml/NadiShodhanaPage.qml</file>
         <file alias="SettingsPage.qml">qml/SettingsPage.qml</file>
         <file alias="KalmGlobalDrawer.qml">qml/KalmGlobalDrawer.qml</file>
