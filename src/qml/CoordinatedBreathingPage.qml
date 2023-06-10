@@ -60,7 +60,6 @@ BreathingPage {
             NumberAnimation {
                 target: gradient
                 properties: "posIn"
-                from: 1
                 to: 0
                 duration: 4000
             }
@@ -80,7 +79,6 @@ BreathingPage {
                 NumberAnimation {
                     target: gradient
                     properties: "posOut"
-                    from: 1
                     to: 0
                     duration: 20000
                 }
