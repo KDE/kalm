@@ -9,6 +9,15 @@ Kirigami.GlobalDrawer {
     isMenu: true
     actions: [
         Kirigami.Action {
+            text: i18n("Coordinated Breathing")
+            iconName: "media-playback-start-symbolic"
+            onTriggered: {
+                pageStack.layers.clear();
+                pageStack.clear();
+                pageStack.push("qrc:/CoordinatedBreathingPage.qml");
+            }
+        },
+        Kirigami.Action {
             text: i18n("Box Breathing")
             iconName: "media-playback-start-symbolic"
             onTriggered: {
