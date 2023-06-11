@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
 
 import QtQuick 2.15
+import org.kde.kirigami 2.19 as Kirigami
 
 Gradient {
     property double posOut: 0
@@ -19,12 +20,12 @@ Gradient {
 
     GradientStop {
         position: posOut <= posIn ? 0 : posIn + 0.001
-        color: "#002b59"
+        color: Qt.darker(Kirigami.Theme.highlightColor)
     }
 
     GradientStop {
         position: posOut <= posIn ? 0 : posOut - 0.001
-        color: "#3daee9"
+        color: Kirigami.Theme.highlightColor
     }
 
     GradientStop {
