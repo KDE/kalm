@@ -12,7 +12,7 @@ sudo pacman -Syu cmake extra-cmake-modules gcc git make
 
 ### Clone and Build
 ```
-git clone https://invent.kde.org/plata/kalm.git
+git clone https://invent.kde.org/utilities/kalm.git
 cd kalm
 mkdir build
 cd build
