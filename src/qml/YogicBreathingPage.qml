@@ -11,10 +11,10 @@ BreathingPage {
                     <br>\
                     <ul>\
                     <li>Place a hand on your navel. Breathe into your belly and feel the expansion.</li>\
-                    <li>Move your hand up above your lower rips. Breathe into your mid-torso and feel the expansion.</li>\
+                    <li>Move your hand up above your lower ribs. Breathe into your mid-torso and feel the expansion.</li>\
                     <li>Move your hand up to your upper chest. Breathe in and feel your collarbones lift slightly.</li>\
                     <li>Breathe out. Feel your collarbones sink.</li>\
-                    <li>Move your hand down to your lower rips. Breathe out and feel your mid-torso retreat.</li>\
+                    <li>Move your hand down to your lower ribs. Breathe out and feel your mid-torso retreat.</li>\
                     <li>Move your hand down to your navel. Breathe out and feel your belly retreat.</li>\
                     </ul>\
                     <br>\
