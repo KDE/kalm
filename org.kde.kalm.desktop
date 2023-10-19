@@ -3,7 +3,21 @@
 
 [Desktop Entry]
 Name=kalm
+Name[ca]=Kalm
+Name[ca@valencia]=Kalm
+Name[eu]=kalm
+Name[nl]=kalm
+Name[tr]=Kalm
+Name[uk]=kalm
+Name[x-test]=xxkalmxx
 Comment=Breathing techniques
+Comment[ca]=Tècniques de respiració
+Comment[ca@valencia]=Tècniques de respiració
+Comment[eu]=Arnas teknikak
+Comment[nl]=Ademtechnieken
+Comment[tr]=Soluk alma teknikleri
+Comment[uk]=Методики дихання
+Comment[x-test]=xxBreathing techniquesxx
 Version=1.0
 Exec=kalm
 MimeType=application/x-kalm;
