@@ -50,6 +50,8 @@ int main(int argc, char *argv[])
     QCoreApplication::setOrganizationDomain(QStringLiteral("kde.org"));
     QCoreApplication::setApplicationName(QStringLiteral("Kalm"));
 
+    KLocalizedString::setApplicationDomain("kalm");
+
     const QString applicationDescription = i18n("Breathing techniques");
 
     KAboutData about(QStringLiteral("kalm"),
@@ -71,7 +73,6 @@ int main(int argc, char *argv[])
     // setup engine
     QQmlApplicationEngine engine;
     engine.rootContext()->setContextObject(new KLocalizedContext(&engine));
-    KLocalizedString::setApplicationDomain("kalm");
 
     engine.rootContext()->setContextProperty(QStringLiteral("_aboutData"), QVariant::fromValue(about));
 
