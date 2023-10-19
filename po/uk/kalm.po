@@ -1,0 +1,364 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kalm package.
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: kalm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-10-18 00:44+0000\n"
+"PO-Revision-Date: 2023-10-18 16:13+0300\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 20.12.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Юрій Чорноіван"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "yurchor@ukr.net"
+
+#: main.cpp:53
+#, kde-format
+msgid "Breathing techniques"
+msgstr "Методики дихання"
+
+#: main.cpp:56
+#, kde-format
+msgid "Kalm"
+msgstr "Kalm"
+
+#: main.cpp:60
+#, kde-format
+msgid "© 2023 KDE Community"
+msgstr "© Спільнота KDE, 2023"
+
+#: qml/478BreathingPage.qml:10
+#, kde-format
+msgid ""
+"4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to better "
+"fall asleep on a flight.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (7s).</li>                    <li>Breathe "
+"out through your mouth making a whooshing sound (8s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 4 times."
+msgstr ""
+"Дихання 4-7-8 занурює тіло у стан глибокого розслаблення, наприклад, для "
+"кращого засинання під час польоту.                    "
+"<br>                    <ul>                    <li>Вдихніть через ніс (4 с)."
+"</li>                    <li>Затримайте дихання (7 с).</"
+"li>                    <li>Видихніть через рот зі свистом (8 с).</"
+"li>                    </ul>                    <br>                    "
+"Повторіть принаймні 4 рази."
+
+#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#, kde-format
+msgid "in"
+msgstr "вдих"
+
+#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
+#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
+#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
+#: qml/NadiShodhanaPage.qml:85
+#, kde-format
+msgid "hold"
+msgstr "утримання"
+
+#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
+#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
+#: qml/ResonantBreathingPage.qml:49
+#, kde-format
+msgid "out"
+msgstr "видих"
+
+#: qml/BoxBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
+"stress.                    <br>                    <ul>                    "
+"<li>Breathe in through your nose (4s).</li>                    <li>Hold (4s)."
+"</li>                    <li>Breathe out through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    </"
+"ul>                    <br>                    Repeat for at least 5-10 "
+"minutes."
+msgstr ""
+"Квадратне дихання використовують морські десантники для швидкого і "
+"ефективного зняття стресу.                    <br>                    "
+"<ul>                    <li>Вдихніть через ніс (4 с).</"
+"li>                    <li>Затримайте дихання (4 с).</li>                    "
+"<li>Видихніть через ніс (4 с).</li>                    <li>Затримайте "
+"дихання (4 с).</li>                    </ul>                    "
+"<br>                    Повторюйте принаймні 5-10 хвилин."
+
+#: qml/BoxBreathingSleepPage.qml:10
+#, kde-format
+msgid ""
+"A Box Breathing variant with a longer breathe-out phase helps to relax "
+"before going to sleep.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    <li>Breathe "
+"out through your nose (6s).</li>                    <li>Hold (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 6 times."
+msgstr ""
+"Варіант квадратного дихання із довшою фазою видиху, який допомагає "
+"розслабитися перед сном.                    <br>                    "
+"<ul>                    <li>Вдихніть через ніс (4 с).</"
+"li>                    <li>Затримайте дихання (4 с).</li>                    "
+"<li>Видихніть через ніс (6 с).</li>                    <li>Затримайте "
+"дихання (2 с).</li>                    </ul>                    "
+"<br>                    Повторіть принаймні 6 разів."
+
+#: qml/CoordinatedBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Coordinated Breathing improves the efficiency of your breathing by "
+"amplifying the movement of the diaphragm.                    It is often "
+"used in sports or singing.                    <br>                    "
+"<ul>                    <li>Sit upright with your chin in a 90° angle to "
+"your body.</li>                    <li>Breathe in gently through your nose.</"
+"li>                    <li>Breathe out while repeatedly, silently counting "
+"to 10.</li>                    <li>When finished breathing out, continue "
+"counting but whisper. Let your voice fade out until your lungs are "
+"completely empty.</li>                    </ul>                    "
+"<br>                    Repeat at least 10-30 times."
+msgstr ""
+"Координоване дихання поліпшує ефективність вашого дихання шляхом збільшення "
+"руху діафрагми.                    Його часто використовують у спорті та "
+"співі.                    <br>                    <ul>                    "
+"<li>Сядьте прямо так, щоб ваше підборіддя утворювало кут 90° з вашим тілом.</"
+"li>                    <li>Повільно вдихніть крізь ніс.</"
+"li>                    <li>Видихайте, мовчки рахуючи до 10.</"
+"li>                    <li>Завершуючи видих, продовжуйте відлік пошепки. "
+"Стишуйте гучність голосу, аж доки ваші легені не спорожніють.</"
+"li>                    </ul>                    <br>                    "
+"Повторіть принаймні 10-30 разів."
+
+#: qml/KalmGlobalDrawer.qml:12
+#, kde-format
+msgid "4-7-8 Breathing"
+msgstr "Дихання 4-7-8"
+
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#, kde-format
+msgid "Coordinated Breathing"
+msgstr "Координоване дихання"
+
+#: qml/KalmGlobalDrawer.qml:30
+#, kde-format
+msgid "Box Breathing"
+msgstr "Квадратне дихання"
+
+#: qml/KalmGlobalDrawer.qml:39
+#, kde-format
+msgid "Box Breathing (sleep)"
+msgstr "Квадратне дихання (сон)"
+
+#: qml/KalmGlobalDrawer.qml:48
+#, kde-format
+msgid "Resonant Breathing"
+msgstr "Резонансне дихання"
+
+#: qml/KalmGlobalDrawer.qml:57
+#, kde-format
+msgid "Nadi Shodhana"
+msgstr "Наді Шодхана"
+
+#: qml/KalmGlobalDrawer.qml:66
+#, kde-format
+msgid "Yogic Breathing"
+msgstr "Йогічне дихання"
+
+#: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
+#: qml/SettingsPage.qml:9
+#, kde-format
+msgid "Settings"
+msgstr "Параметри"
+
+#: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
+#, kde-format
+msgid "About"
+msgstr "Про програму"
+
+#: qml/NadiShodhanaPage.qml:10
+#, kde-format
+msgid ""
+"Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
+"to keep a calm mind.                    <br>                    "
+"<ul>                    <li>Place the thumb of your right hand on your right "
+"nostril, your index and middle finger between your eyebrows and ring finger "
+"on the left nostril.</li>                    <li>Close your right nostril "
+"with your thumb and breathe in through your left nostril.</"
+"li>                    <li>Close both nostrils with your thumb and ring "
+"finger. Hold.</li>                    <li>Lift your thumb and breath out "
+"through the right nostril.</li>                    <li>Close both nostrils "
+"with your thumb and ring finger. Hold.</li>                    <li>Lift your "
+"thumb and breath in through your right nostril.</li>                    "
+"<li>Close both nostrils with your thumb and ring finger. Hold.</"
+"li>                    <li>Close your right nostril with your thumb and "
+"breathe out through your left nostril.</li>                    </"
+"ul>                    <br>                    Repeat 5-10 times."
+msgstr ""
+"Наді Шодхана (альтернативне дихання ніздрями) знижує кров'яний тиск та "
+"допомагає заспокоїтися.                    <br>                    "
+"<ul>                    <li>Торкніться вашим великим пальцем правої руки "
+"вашої правої ніздрі, а вашим вказівним пальцем і середнім пальцем місця між "
+"бровами, безіменним пальцем торкніться лівої ніздрі.</li>                    "
+"<li>Закрийте вашу праву ніздрю великим пальцем і вдихніть крізь ліву ніздрю."
+"</li>                    <li>Затисніть обидві ніздрі вашим великим пальцем "
+"та безіменним пальцем. Затримайте дихання.</li>                    "
+"<li>Зніміть ваш великий палець і видихніть крізь праву ніздрю.</"
+"li>                    <li>Закрийте обидві ніздрі великим і безіменним "
+"пальцем. Затримайте дихання.</li>                    <li>Зніміть великий "
+"палець і видихніть крізь праву ніздрю.</li>                    <li>Закрийте "
+"обидві ніздрі великим і безіменним пальцями. Затримайте дихання.</"
+"li>                    <li>Закрийте праву ніздрю великим пальцем і видихніть "
+"крізь ліву ніздрю.</li>                    </ul>                    "
+"<br>                    Повторіть 5-10 разів."
+
+#: qml/ResonantBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
+"and respiration.                    <br>                    "
+"<ul>                    <li>Sit upright and relaxed.</li>                    "
+"<li>Breathe in (5.5s). Expand your belly as the air fills your lungs.</"
+"li>                    <li>Breathe out (5.5s). Contract your belly as your "
+"lungs are emptied.</li>                    </ul>                    "
+"<br>                    Repeat at least 10 times."
+msgstr ""
+"Резонансне дихання розслабляє тіло поєднанням серцевого ритму, кров'яного "
+"тиску та дихання.                    <br>                    "
+"<ul>                    <li>Сядьте прямо і розслаблено.</"
+"li>                    <li>Вдихніть (5,5 с). Випніть живіт, коли повітря "
+"наповнюватиме ваші легені.</li>                    <li>Видихніть (5,5 с). "
+"Стисніть живіт одночасно зі спорожненням ваших легень.</"
+"li>                    </ul>                    <br>                    "
+"Повторіть принаймні 10 разів."
+
+#: qml/SettingsPage.qml:14
+#, kde-format
+msgid "General"
+msgstr "Загальне"
+
+#: qml/SettingsPage.qml:18
+#, kde-format
+msgid "Show info button"
+msgstr "Показувати кнопку відомостей"
+
+#: qml/SettingsPage.qml:33
+#, kde-format
+msgid "Breathe out duration"
+msgstr "Тривалість видиху"
+
+#: qml/SettingsPage.qml:44
+#, kde-format
+msgid "s"
+msgstr "с"
+
+#: qml/YogicBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Yogic Breathing is a standard pranayama technique to revitalize the "
+"body.                    <br>                    <ul>                    "
+"<li>Place a hand on your navel. Breathe into your belly and feel the "
+"expansion.</li>                    <li>Move your hand up above your lower "
+"rips. Breathe into your mid-torso and feel the expansion.</"
+"li>                    <li>Move your hand up to your upper chest. Breathe in "
+"and feel your collarbones lift slightly.</li>                    <li>Breathe "
+"out. Feel your collarbones sink.</li>                    <li>Move your hand "
+"down to your lower rips. Breathe out and feel your mid-torso retreat.</"
+"li>                    <li>Move your hand down to your navel. Breathe out "
+"and feel your belly retreat.</li>                    </"
+"ul>                    <br>                    Repeat up to 15 "
+"minutes.                    <br>                    <br>                    "
+"The steps should form a single, fluent breath.                    "
+"<br>                    At the beginning, it might be helpful to practice "
+"the three stages (belly, mid-torso, upper chest) "
+"individually                    (i.e. breathe only into your belly, then "
+"breathe out again etc.)."
+msgstr ""
+"Йогічне дихання є стандартною методикою пранаями для поновлення життєвих сил "
+"тіла.                    <br>                    <ul>                    "
+"<li>Покладіть руку на пуп. Вдихніть животом до відчуття його випинання.</"
+"li>                    <li>Підніміть руку на рівень ребер. Вдихніть "
+"серединою тулуба до відчуття випинання.</li>                    "
+"<li>Підніміть руку до рівня грудної клітини. Вдихніть до відчуття легкого "
+"підняття ключиць.</li>                    <li>Видихніть до відчуття "
+"опускання ключиць.</li>                    <li>Опустіть руку до нижніх "
+"ребер. Видихніть до відчуття стискання середини тулуба.</"
+"li>                    <li>Опустіть руку до пупа. Видихніть до відчуття "
+"стискання живота.</li>                    </ul>                    "
+"<br>                    Повторюйте до 15 хвилин.                    "
+"<br>                    <br>                    Кроки мають утворювати єдине "
+"неперервне дихання.                    <br>                    На початку "
+"може допомогти вправляння у три стадії (живіт, середина тулуба, грудна "
+"клітина) окремо                    (тобто вдихання лише животом, потім "
+"видихання, тощо)."
+
+#: qml/YogicBreathingPage.qml:47
+#, kde-format
+msgid ""
+"in\n"
+"(belly)"
+msgstr ""
+"вдих\n"
+"(живіт)"
+
+#: qml/YogicBreathingPage.qml:58
+#, kde-format
+msgid ""
+"in\n"
+"(mid-torso)"
+msgstr ""
+"вдих\n"
+"(середина тулуба)"
+
+#: qml/YogicBreathingPage.qml:69
+#, kde-format
+msgid ""
+"in\n"
+"(upper chest)"
+msgstr ""
+"вдих\n"
+"(грудна клітина)"
+
+#: qml/YogicBreathingPage.qml:84
+#, kde-format
+msgid ""
+"out\n"
+"(upper chest)"
+msgstr ""
+"видих\n"
+"(грудна клітина)"
+
+#: qml/YogicBreathingPage.qml:95
+#, kde-format
+msgid ""
+"out\n"
+"(mid-torso)"
+msgstr ""
+"видих\n"
+"(середина тулуба)"
+
+#: qml/YogicBreathingPage.qml:106
+#, kde-format
+msgid ""
+"out\n"
+"(belly)"
+msgstr ""
+"видих\n"
+"(живіт)"

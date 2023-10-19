@@ -1,0 +1,368 @@
+# Translation of kalm.po to Catalan (Valencian)
+# Copyright (C) 2023 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+# or the same license as the source of its messages in English.
+#
+# Josep M. Ferrer <txemaq@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: kalm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-10-18 00:44+0000\n"
+"PO-Revision-Date: 2023-10-18 11:17+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep M. Ferrer"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com"
+
+#: main.cpp:53
+#, kde-format
+msgid "Breathing techniques"
+msgstr "Tècniques de respiració"
+
+#: main.cpp:56
+#, kde-format
+msgid "Kalm"
+msgstr "Kalm"
+
+#: main.cpp:60
+#, kde-format
+msgid "© 2023 KDE Community"
+msgstr "© 2023 Comunitat KDE"
+
+#: qml/478BreathingPage.qml:10
+#, kde-format
+msgid ""
+"4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to better "
+"fall asleep on a flight.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (7s).</li>                    <li>Breathe "
+"out through your mouth making a whooshing sound (8s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 4 times."
+msgstr ""
+"La respiració 4-7-8 posa el cos en un estat de relaxació profunda, per "
+"exemple, per a dormir millor en un vol.                    "
+"<br>                    <ul>                    <li>Respirar pel nas (4s).</"
+"li>                    <li>Aguantar (7s).</li>                    "
+"<li>Expirar a través de la boca fent un so d'aire (8s).</li> </ul> <br> "
+"Repetiu almenys 4 vegades."
+
+#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#, kde-format
+msgid "in"
+msgstr "inspireu"
+
+#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
+#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
+#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
+#: qml/NadiShodhanaPage.qml:85
+#, kde-format
+msgid "hold"
+msgstr "aguanteu"
+
+#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
+#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
+#: qml/ResonantBreathingPage.qml:49
+#, kde-format
+msgid "out"
+msgstr "expireu"
+
+# skip-rule: kct-box
+#: qml/BoxBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
+"stress.                    <br>                    <ul>                    "
+"<li>Breathe in through your nose (4s).</li>                    <li>Hold (4s)."
+"</li>                    <li>Breathe out through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    </"
+"ul>                    <br>                    Repeat for at least 5-10 "
+"minutes."
+msgstr ""
+"La respiració de caixa és utilitzada pels SEAL de la Marina per a reduir "
+"ràpidament i eficaçment l'estrés.                    <br>                    "
+"<ul>                    <li>Inspirar a través del nas (4s).</li> "
+"<li>Aguantar (4s).</li> <li>Expirar pel nas (4s).</li> <li>Aguantar (4s).</"
+"li>                    </ul>                    <br>                    "
+"Repetir durant 5 o 10 minuts com a mínim."
+
+# skip-rule: kct-box
+#: qml/BoxBreathingSleepPage.qml:10
+#, kde-format
+msgid ""
+"A Box Breathing variant with a longer breathe-out phase helps to relax "
+"before going to sleep.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    <li>Breathe "
+"out through your nose (6s).</li>                    <li>Hold (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 6 times."
+msgstr ""
+"Una variant de respiració de caixa amb una fase de respiració més llarga "
+"ajuda a relaxar-se abans d'anar a dormir.                    "
+"<br>                    <ul>                    <li>Inspirar a través del "
+"nas (4s).</li> <li>Aguantar (4s).</li>                    <li>Expirar a "
+"través del nas (6s).</li>                    <li>Aguantar (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repetir 6 vegades com a mínim."
+
+#: qml/CoordinatedBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Coordinated Breathing improves the efficiency of your breathing by "
+"amplifying the movement of the diaphragm.                    It is often "
+"used in sports or singing.                    <br>                    "
+"<ul>                    <li>Sit upright with your chin in a 90° angle to "
+"your body.</li>                    <li>Breathe in gently through your nose.</"
+"li>                    <li>Breathe out while repeatedly, silently counting "
+"to 10.</li>                    <li>When finished breathing out, continue "
+"counting but whisper. Let your voice fade out until your lungs are "
+"completely empty.</li>                    </ul>                    "
+"<br>                    Repeat at least 10-30 times."
+msgstr ""
+"La respiració coordinada millora l'eficiència de la respiració amplificant "
+"el moviment del diafragma.                    <br>                    "
+"<ul>                    <li>Asseieu-vos en posició vertical amb la barbeta "
+"en un angle de 90° respecte al cos.</li>                    <li>Inspireu "
+"suaument a través del nas.</li>                    <li>Expireu repetidament, "
+"comptant silenciosament fins a 10.</li>                    <li>Quan acabeu "
+"d'expirar, continueu comptant però murmurant. Deixeu que la vostra veu "
+"s'esvaïsca fins que els pulmons estiguen completament buits.</"
+"li>                    </ul>                    <br>                    "
+"Repetiu almenys de 10 fins a 30 vegades."
+
+#: qml/KalmGlobalDrawer.qml:12
+#, kde-format
+msgid "4-7-8 Breathing"
+msgstr "Respiració 4-7-8"
+
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#, kde-format
+msgid "Coordinated Breathing"
+msgstr "Respiració coordinada"
+
+# skip-rule: kct-box
+#: qml/KalmGlobalDrawer.qml:30
+#, kde-format
+msgid "Box Breathing"
+msgstr "Respiració de caixa"
+
+# skip-rule: kct-box
+#: qml/KalmGlobalDrawer.qml:39
+#, kde-format
+msgid "Box Breathing (sleep)"
+msgstr "Respiració de caixa (dormint)"
+
+#: qml/KalmGlobalDrawer.qml:48
+#, kde-format
+msgid "Resonant Breathing"
+msgstr "Respiració ressonant"
+
+#: qml/KalmGlobalDrawer.qml:57
+#, kde-format
+msgid "Nadi Shodhana"
+msgstr "Nadi Shodhana"
+
+#: qml/KalmGlobalDrawer.qml:66
+#, kde-format
+msgid "Yogic Breathing"
+msgstr "Respiració iòguica"
+
+#: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
+#: qml/SettingsPage.qml:9
+#, kde-format
+msgid "Settings"
+msgstr "Configuració"
+
+#: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
+#, kde-format
+msgid "About"
+msgstr "Quant a"
+
+#: qml/NadiShodhanaPage.qml:10
+#, kde-format
+msgid ""
+"Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
+"to keep a calm mind.                    <br>                    "
+"<ul>                    <li>Place the thumb of your right hand on your right "
+"nostril, your index and middle finger between your eyebrows and ring finger "
+"on the left nostril.</li>                    <li>Close your right nostril "
+"with your thumb and breathe in through your left nostril.</"
+"li>                    <li>Close both nostrils with your thumb and ring "
+"finger. Hold.</li>                    <li>Lift your thumb and breath out "
+"through the right nostril.</li>                    <li>Close both nostrils "
+"with your thumb and ring finger. Hold.</li>                    <li>Lift your "
+"thumb and breath in through your right nostril.</li>                    "
+"<li>Close both nostrils with your thumb and ring finger. Hold.</"
+"li>                    <li>Close your right nostril with your thumb and "
+"breathe out through your left nostril.</li>                    </"
+"ul>                    <br>                    Repeat 5-10 times."
+msgstr ""
+"Nadi Shodhana (Respiració alterna de nariu) reduïx la pressió arterial i "
+"ajuda a mantindre la ment tranquil·la.                    "
+"<br>                    <ul>                    <li>Col·loqueu el polze de "
+"la mà dreta sobre el nariu dret, el dit índex i el dit del mig entre les "
+"celles i el dit anular en el nariu esquerre.</li>                    "
+"<li>Tanqueu el nariu dret amb el polze i inspireu a través del nariu "
+"esquerre.</li> <li>Tanqueu ambdós narius amb el polze i el dit anular. "
+"Aguanteu.</li>                    <li>Aixequeu el polze i expireu a través "
+"del nariu dret.</li>                    <li>Tanqueu ambdós narius amb el dit "
+"polze i el dit anular. Aguanteu.</li>                    <li>Aixequeu el "
+"polze i inspireu a través del nariu dret.</li>                    "
+"<li>Tanqueu ambdós narius amb el polze i el dit anular. Aguanteu.</"
+"li>                    <li>Tanqueu el nariu dret amb el dit polze i expireu "
+"a través del nariu esquerre.</li>                    </"
+"ul>                    <br>                    Repetiu de 5 fins a 10 "
+"vegades."
+
+#: qml/ResonantBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
+"and respiration.                    <br>                    "
+"<ul>                    <li>Sit upright and relaxed.</li>                    "
+"<li>Breathe in (5.5s). Expand your belly as the air fills your lungs.</"
+"li>                    <li>Breathe out (5.5s). Contract your belly as your "
+"lungs are emptied.</li>                    </ul>                    "
+"<br>                    Repeat at least 10 times."
+msgstr ""
+"La respiració ressonant relaxa el cos associant ritme cardíac, pressió "
+"arterial i respiració.                    <br>                    "
+"<ul>                    <li>Asseieu-vos en posició vertical i relaxada.</"
+"li>                    <li>Inspireu (5,5s). Expandiu el ventre mentre l'aire "
+"òmpliga els pulmons.</li>                    <li>Expireu (5,5s). Contraeu el "
+"ventre mentre els pulmons estan buits.</li>                    </"
+"ul>                    <br>                    Repetiu almenys 10 vegades."
+
+#: qml/SettingsPage.qml:14
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#: qml/SettingsPage.qml:18
+#, kde-format
+msgid "Show info button"
+msgstr "Mostra el botó d'informació"
+
+#: qml/SettingsPage.qml:33
+#, kde-format
+msgid "Breathe out duration"
+msgstr "Duració de l'expiració"
+
+#: qml/SettingsPage.qml:44
+#, kde-format
+msgid "s"
+msgstr "s"
+
+#: qml/YogicBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Yogic Breathing is a standard pranayama technique to revitalize the "
+"body.                    <br>                    <ul>                    "
+"<li>Place a hand on your navel. Breathe into your belly and feel the "
+"expansion.</li>                    <li>Move your hand up above your lower "
+"rips. Breathe into your mid-torso and feel the expansion.</"
+"li>                    <li>Move your hand up to your upper chest. Breathe in "
+"and feel your collarbones lift slightly.</li>                    <li>Breathe "
+"out. Feel your collarbones sink.</li>                    <li>Move your hand "
+"down to your lower rips. Breathe out and feel your mid-torso retreat.</"
+"li>                    <li>Move your hand down to your navel. Breathe out "
+"and feel your belly retreat.</li>                    </"
+"ul>                    <br>                    Repeat up to 15 "
+"minutes.                    <br>                    <br>                    "
+"The steps should form a single, fluent breath.                    "
+"<br>                    At the beginning, it might be helpful to practice "
+"the three stages (belly, mid-torso, upper chest) "
+"individually                    (i.e. breathe only into your belly, then "
+"breathe out again etc.)."
+msgstr ""
+"La respiració lòguica és una tècnica estàndard de pranaiama per a "
+"revitalitzar el cos.                    <br>                    "
+"<ul>                    <li>Poseu una mà en el melic. Respireu a dins del "
+"ventre i sentiu l'expansió.</li>                    <li>Mogueu la mà per "
+"damunt de la part inferior de les costelles. Inspireu en el tors mig i "
+"sentiu l'expansió.</li>                    <li>Mogueu la mà cap al pit "
+"superior. Inspireu i sentiu com les clavícules s'aixequen lleugerament.</"
+"li>                    <li>Expireu. Sentiu ara com s'enfonsen.</"
+"li>                    <li>Moveu la mà cap avall a les costelles inferiors. "
+"Expireu i sentiu com el tors mig retrocedix.</li>                    "
+"<li>Baixeu la mà fins al melic. Expireu i sentiu com el ventre retrocedix.</"
+"li>                    </ul>                    <br>                    "
+"Repetiu fins a 15 minuts.                    <br>                    "
+"<br>                    Els passos han de formar una respiració única i "
+"fluida.                    <br>                    Al començament, podria "
+"ser útil practicar les tres etapes (ventre, tors mig, pit superior) "
+"individualment (és a dir, respirar només a dins del ventre, després respirar "
+"de nou, etc.)."
+
+#: qml/YogicBreathingPage.qml:47
+#, kde-format
+msgid ""
+"in\n"
+"(belly)"
+msgstr ""
+"inspiració\n"
+"(ventre)"
+
+#: qml/YogicBreathingPage.qml:58
+#, kde-format
+msgid ""
+"in\n"
+"(mid-torso)"
+msgstr ""
+"inspiració\n"
+"(tors mig)"
+
+#: qml/YogicBreathingPage.qml:69
+#, kde-format
+msgid ""
+"in\n"
+"(upper chest)"
+msgstr ""
+"inspiració\n"
+"(pit superior)"
+
+#: qml/YogicBreathingPage.qml:84
+#, kde-format
+msgid ""
+"out\n"
+"(upper chest)"
+msgstr ""
+"expiració\n"
+"(pit superior)"
+
+#: qml/YogicBreathingPage.qml:95
+#, kde-format
+msgid ""
+"out\n"
+"(mid-torso)"
+msgstr ""
+"expiració\n"
+"(tors mig)"
+
+#: qml/YogicBreathingPage.qml:106
+#, kde-format
+msgid ""
+"out\n"
+"(belly)"
+msgstr ""
+"expiració\n"
+"(ventre)"

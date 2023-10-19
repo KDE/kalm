@@ -1,0 +1,362 @@
+# Copyright (C) 2023 This file is copyright:
+# This file is distributed under the same license as the kalm package.
+#
+# SPDX-FileCopyrightText: 2023 Freek de Kruijf <freekdekruijf@kde.nl>
+msgid ""
+msgstr ""
+"Project-Id-Version: kalm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-10-18 00:44+0000\n"
+"PO-Revision-Date: 2023-10-18 14:07+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.08.2\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Freek de Kruijf - 2023"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "freekdekruijf@kde.nl"
+
+#: main.cpp:53
+#, kde-format
+msgid "Breathing techniques"
+msgstr "Ademtechnieken"
+
+#: main.cpp:56
+#, kde-format
+msgid "Kalm"
+msgstr "Kalm"
+
+#: main.cpp:60
+#, kde-format
+msgid "© 2023 KDE Community"
+msgstr "© 2023 KDE-gemeenschap"
+
+#: qml/478BreathingPage.qml:10
+#, kde-format
+msgid ""
+"4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to better "
+"fall asleep on a flight.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (7s).</li>                    <li>Breathe "
+"out through your mouth making a whooshing sound (8s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 4 times."
+msgstr ""
+"4-7-8 inademingen zet het lichaam in een diepe staat van ontspanning, bijv. "
+"om beter in slaap te vallen tijdens een vlucht.                    "
+"<br>                    <ul>                    <li>Adem in door uw neus "
+"(4s).</li>                    <li>Houd de adem in (7s).</"
+"li>                    <li>Adem uit door uw mond met een suizend geluid (8s)."
+"</li>                    </ul>                    <br>                    "
+"Herhaal minstens 4 keer."
+
+#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#, kde-format
+msgid "in"
+msgstr "in"
+
+#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
+#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
+#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
+#: qml/NadiShodhanaPage.qml:85
+#, kde-format
+msgid "hold"
+msgstr "inhouden"
+
+#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
+#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
+#: qml/ResonantBreathingPage.qml:49
+#, kde-format
+msgid "out"
+msgstr "uit"
+
+#: qml/BoxBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
+"stress.                    <br>                    <ul>                    "
+"<li>Breathe in through your nose (4s).</li>                    <li>Hold (4s)."
+"</li>                    <li>Breathe out through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    </"
+"ul>                    <br>                    Repeat for at least 5-10 "
+"minutes."
+msgstr ""
+"Doos ademhaling wordt gebruikt door de mariniers om snel en effectief stress "
+"te verminderen.                    <br>                    "
+"<ul>                    <li>Adem in door uw neus (4s).</"
+"li>                    <li>Inhouden (4s).</li>                    <li>Adem "
+"uit door uw neus (4s).</li>                    <li>Inhouden (4s).</"
+"li>                    </ul>                    <br>                    "
+"Herhaal dit gedurende minstens 5-10 minuten."
+
+#: qml/BoxBreathingSleepPage.qml:10
+#, kde-format
+msgid ""
+"A Box Breathing variant with a longer breathe-out phase helps to relax "
+"before going to sleep.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    <li>Breathe "
+"out through your nose (6s).</li>                    <li>Hold (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 6 times."
+msgstr ""
+"Een variant op doos ademhaling met een langere fase uitademen helpt te "
+"ontspannen alvorens te gaan slapen.                    "
+"<br>                    <ul>                    <li>Adem in door uw neus "
+"(4s).</li>                    <li>Inhouden (4s).</li>                    "
+"<li>Adem uit door uw neus (6s).</li>                    <li>Vasthouden (2s)."
+"</li>                    </ul>                    <br>                    "
+"Herhaal minstens 6 keer."
+
+#: qml/CoordinatedBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Coordinated Breathing improves the efficiency of your breathing by "
+"amplifying the movement of the diaphragm.                    It is often "
+"used in sports or singing.                    <br>                    "
+"<ul>                    <li>Sit upright with your chin in a 90° angle to "
+"your body.</li>                    <li>Breathe in gently through your nose.</"
+"li>                    <li>Breathe out while repeatedly, silently counting "
+"to 10.</li>                    <li>When finished breathing out, continue "
+"counting but whisper. Let your voice fade out until your lungs are "
+"completely empty.</li>                    </ul>                    "
+"<br>                    Repeat at least 10-30 times."
+msgstr ""
+"Gecoördineerd ademhalen verbeterd de efficiëntie van uw ademhaling door "
+"vergroten van de beweging van het middenrif.                    Het wordt "
+"vaak gebruikt in sport of zingen.                    <br>                    "
+"<ul>                    <li>Zit rechtop met uw kin in een 90° hoek met uw "
+"lichaam.</li>                    <li>Adem zachtjes in door uw neus.</"
+"li>                    <li>Adem uit met herhaling, zachtjes tot 10 te tellen."
+"</li>                    <li>Bij het beëindigen van uitademen, ga door met "
+"tellen maar fluister. Laat uw stem zachter worden totdat uw longen volledig "
+"leeg zijn.</li>                    </ul>                    "
+"<br>                    Herhaal minstens 10-30 keer."
+
+#: qml/KalmGlobalDrawer.qml:12
+#, kde-format
+msgid "4-7-8 Breathing"
+msgstr "4-7-8 ademen"
+
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#, kde-format
+msgid "Coordinated Breathing"
+msgstr "Gecoördineerd ademen"
+
+#: qml/KalmGlobalDrawer.qml:30
+#, kde-format
+msgid "Box Breathing"
+msgstr "Doos ademhaling"
+
+#: qml/KalmGlobalDrawer.qml:39
+#, kde-format
+msgid "Box Breathing (sleep)"
+msgstr "Doos ademhaling (slapen)"
+
+#: qml/KalmGlobalDrawer.qml:48
+#, kde-format
+msgid "Resonant Breathing"
+msgstr "Resonerend ademen"
+
+#: qml/KalmGlobalDrawer.qml:57
+#, kde-format
+msgid "Nadi Shodhana"
+msgstr "Nadi Shodhana"
+
+#: qml/KalmGlobalDrawer.qml:66
+#, kde-format
+msgid "Yogic Breathing"
+msgstr "Yoga ademen"
+
+#: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
+#: qml/SettingsPage.qml:9
+#, kde-format
+msgid "Settings"
+msgstr "Instellingen"
+
+#: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
+#, kde-format
+msgid "About"
+msgstr "Info over"
+
+#: qml/NadiShodhanaPage.qml:10
+#, kde-format
+msgid ""
+"Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
+"to keep a calm mind.                    <br>                    "
+"<ul>                    <li>Place the thumb of your right hand on your right "
+"nostril, your index and middle finger between your eyebrows and ring finger "
+"on the left nostril.</li>                    <li>Close your right nostril "
+"with your thumb and breathe in through your left nostril.</"
+"li>                    <li>Close both nostrils with your thumb and ring "
+"finger. Hold.</li>                    <li>Lift your thumb and breath out "
+"through the right nostril.</li>                    <li>Close both nostrils "
+"with your thumb and ring finger. Hold.</li>                    <li>Lift your "
+"thumb and breath in through your right nostril.</li>                    "
+"<li>Close both nostrils with your thumb and ring finger. Hold.</"
+"li>                    <li>Close your right nostril with your thumb and "
+"breathe out through your left nostril.</li>                    </"
+"ul>                    <br>                    Repeat 5-10 times."
+msgstr ""
+"Nadi Shodhana (Alternerend neusgat ademen) reduceert bloeddruk en helpt bij "
+"het kalm blijven.                    <br>                    "
+"<ul>                    <li>Plaats de duim van uw rechter hand op uw rechter "
+"neusgat, uw wijs- en middelvinger tussen uw wenkbrauwen en ringvinger op het "
+"linker neusgat.</li>                    <li>Sluit uw rechter neusgat met uw "
+"duim en adem in door uw linker neusgat.</li>                    <li>Sluit "
+"beide neusgaten met uw duim en ringvinger. Inhouden.</li>                    "
+"<li>Hef uw duim op en adem uit door het rechter neusgat.</"
+"li>                    <li>Sluit beide neusgaten met uw duim en ringvinger. "
+"Vasthouden.</li>                    <li>Hef uw duim op en adem in door uw "
+"rechter neusgat.</li>                    <li>Sluit beide neusgaten met uw "
+"duim en ringvinger. Inhouden.</li>                    <li>Sluit uw rechter "
+"neusgat met uw duim en adem uit door uw linker neusgat.</"
+"li>                    </ul>                    <br>                    "
+"Herhaal 5-10 keer."
+
+#: qml/ResonantBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
+"and respiration.                    <br>                    "
+"<ul>                    <li>Sit upright and relaxed.</li>                    "
+"<li>Breathe in (5.5s). Expand your belly as the air fills your lungs.</"
+"li>                    <li>Breathe out (5.5s). Contract your belly as your "
+"lungs are emptied.</li>                    </ul>                    "
+"<br>                    Repeat at least 10 times."
+msgstr ""
+"Resonerend ademen ontspant het lichaam door het koppelen van hartritme, "
+"bloeddruk en ademhaling.                    <br>                    "
+"<ul>                    <li>Zit rechtop en ontspan.</li>                    "
+"<li>Adem in (5,5s). Zet uw buik uit als de lucht uw longen vult.</"
+"li>                    <li>Adem uit (5,5s). Raak uw buik aan als uw longen "
+"leeg zijn.</li>                    </ul>                    "
+"<br>                    Herhaal minstens 10 keer."
+
+#: qml/SettingsPage.qml:14
+#, kde-format
+msgid "General"
+msgstr "Algemeen"
+
+#: qml/SettingsPage.qml:18
+#, kde-format
+msgid "Show info button"
+msgstr "Informatieknop tonen"
+
+#: qml/SettingsPage.qml:33
+#, kde-format
+msgid "Breathe out duration"
+msgstr "Duur van uitademen"
+
+#: qml/SettingsPage.qml:44
+#, kde-format
+msgid "s"
+msgstr "s"
+
+#: qml/YogicBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Yogic Breathing is a standard pranayama technique to revitalize the "
+"body.                    <br>                    <ul>                    "
+"<li>Place a hand on your navel. Breathe into your belly and feel the "
+"expansion.</li>                    <li>Move your hand up above your lower "
+"rips. Breathe into your mid-torso and feel the expansion.</"
+"li>                    <li>Move your hand up to your upper chest. Breathe in "
+"and feel your collarbones lift slightly.</li>                    <li>Breathe "
+"out. Feel your collarbones sink.</li>                    <li>Move your hand "
+"down to your lower rips. Breathe out and feel your mid-torso retreat.</"
+"li>                    <li>Move your hand down to your navel. Breathe out "
+"and feel your belly retreat.</li>                    </"
+"ul>                    <br>                    Repeat up to 15 "
+"minutes.                    <br>                    <br>                    "
+"The steps should form a single, fluent breath.                    "
+"<br>                    At the beginning, it might be helpful to practice "
+"the three stages (belly, mid-torso, upper chest) "
+"individually                    (i.e. breathe only into your belly, then "
+"breathe out again etc.)."
+msgstr ""
+"Yoga ademen is en standaard pranayama techniek om het lichaam te "
+"revitaliseren.                    <br>                    "
+"<ul>                    <li>Plaats een hand op uw navel. Adem in in uw buik "
+"en voel het uitzetten.</li>                    <li>Verplaats uw hand omhoog "
+"boven uw lagere ribben. Adem in in uw midden lichaam en voel het uitzetten.</"
+"li>                    <li>Verplaats uw hand omhoog naar uw bovenste borst. "
+"Adem in en voel uw sleutelbenen lichtjes omhoog komen.</"
+"li>                    <li>Adem uit. Voel uw sleutelbenen omlaag gaan.</"
+"li>                    <li>Verplaats uw hand omlaag naar uw lagere ribben. "
+"Adem uit en voel uw midden lichaam zich terugtrekken.</"
+"li>                    <li>Verplaats uw hand omlaag naar uw navel. Adem uit "
+"en voel uw buik zich intrekken.</li>                    </"
+"ul>                    <br>                    Herhaal tot 15 "
+"minuten.                    <br>                    <br>                    "
+"De stappen zouden een enkele, vloeiende adem moeten zijn.                    "
+"<br>                    In het begin kan het helpen de drie stadia (buik, "
+"midden lichaam, bovenste borst) individueel te oefenen                    (d."
+"w.z. adem alleen in in uw buik, daarna opnieuw uitademen etc.)."
+
+#: qml/YogicBreathingPage.qml:47
+#, kde-format
+msgid ""
+"in\n"
+"(belly)"
+msgstr ""
+"in\n"
+"(buik)"
+
+#: qml/YogicBreathingPage.qml:58
+#, kde-format
+msgid ""
+"in\n"
+"(mid-torso)"
+msgstr ""
+"in\n"
+"(midden lichaam)"
+
+#: qml/YogicBreathingPage.qml:69
+#, kde-format
+msgid ""
+"in\n"
+"(upper chest)"
+msgstr ""
+"in\n"
+"(boven borst)"
+
+#: qml/YogicBreathingPage.qml:84
+#, kde-format
+msgid ""
+"out\n"
+"(upper chest)"
+msgstr ""
+"uit\n"
+"(boven borst)"
+
+#: qml/YogicBreathingPage.qml:95
+#, kde-format
+msgid ""
+"out\n"
+"(mid-torso)"
+msgstr ""
+"uit\n"
+"(midden lichaam)"
+
+#: qml/YogicBreathingPage.qml:106
+#, kde-format
+msgid ""
+"out\n"
+"(belly)"
+msgstr ""
+"uit\n"
+"(buik)"
