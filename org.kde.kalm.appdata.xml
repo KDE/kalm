@@ -8,16 +8,20 @@
   <name>Kalm</name>
   <name xml:lang="ca">Kalm</name>
   <name xml:lang="ca-valencia">Kalm</name>
+  <name xml:lang="es">Kalm</name>
   <name xml:lang="eu">Kalm</name>
   <name xml:lang="nl">Kalm</name>
+  <name xml:lang="sl">Kalm</name>
   <name xml:lang="tr">Kalm</name>
   <name xml:lang="uk">Kalm</name>
   <name xml:lang="x-test">xxKalmxx</name>
   <summary>Breathing techniques</summary>
   <summary xml:lang="ca">Tècniques de respiració</summary>
   <summary xml:lang="ca-valencia">Tècniques de respiració</summary>
+  <summary xml:lang="es">Técnicas de respiración</summary>
   <summary xml:lang="eu">Arnas teknikak</summary>
   <summary xml:lang="nl">Ademtechnieken</summary>
+  <summary xml:lang="sl">Dihalne tehnike</summary>
   <summary xml:lang="tr">Soluk alma teknikleri</summary>
   <summary xml:lang="uk">Методики дихання</summary>
   <summary xml:lang="x-test">xxBreathing techniquesxx</summary>
@@ -29,8 +33,10 @@
   <developer_name>plata</developer_name>
   <developer_name xml:lang="ca">plata</developer_name>
   <developer_name xml:lang="ca-valencia">plata</developer_name>
+  <developer_name xml:lang="es">plata</developer_name>
   <developer_name xml:lang="eu">plata</developer_name>
   <developer_name xml:lang="nl">plata</developer_name>
+  <developer_name xml:lang="sl">plata</developer_name>
   <developer_name xml:lang="tr">plata</developer_name>
   <developer_name xml:lang="uk">plata</developer_name>
   <developer_name xml:lang="x-test">xxplataxx</developer_name>
@@ -38,8 +44,10 @@
     <p>Kalm can teach you different breathing techniques.</p>
     <p xml:lang="ca">El Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
     <p xml:lang="ca-valencia">Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
+    <p xml:lang="es">Kalm puede enseñarle distintas técnicas de respiración.</p>
     <p xml:lang="eu">«Kalm»ek arnas teknika ezberdinak erakutsi diezazkizuke</p>
     <p xml:lang="nl">Kalm kan u verschillende ademtechnieken leren.</p>
+    <p xml:lang="sl">Kalm vas lahko nauči različnih dihalnih tehnik.</p>
     <p xml:lang="tr">Kalm, size değişik soluk alma tekniklerini öğretebilir.</p>
     <p xml:lang="uk">Kalm може навчити вас різним методикам дихання.</p>
     <p xml:lang="x-test">xxKalm can teach you different breathing techniques.xx</p>
