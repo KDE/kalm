@@ -1,57 +1,44 @@
-# Copyright (C) YEAR This file is copyright:
-# This file is distributed under the same license as the kalm package.
-#
-# Emir SARI <emir_sari@icloud.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-10-20 00:44+0000\n"
-"PO-Revision-Date: 2023-10-18 13:43+0300\n"
-"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
-"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
-"Language: tr\n"
+"PO-Revision-Date: 2023-10-19 05:31+0200\n"
+"Last-Translator: KDE Francophone <kde-francophone@kde.org>\n"
+"Language-Team: KDE Francophone <kde-francophone@kde.org>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 23.11.70\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Emir SARI"
+msgstr ""
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "emir_sari@icloud.com"
+msgstr ""
 
 #: main.cpp:55
 #, kde-format
 msgid "Breathing techniques"
-msgstr "Soluk alma teknikleri"
+msgstr ""
 
 #: main.cpp:58
 #, kde-format
 msgid "Kalm"
-msgstr "Kalm"
+msgstr ""
 
 #: main.cpp:62
 #, kde-format
 msgid "© 2023 KDE Community"
-msgstr "© 2023 KDE Topluluğu"
+msgstr ""
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid ""
-#| "4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to "
-#| "better fall asleep on a flight.                    "
-#| "<br>                    <ul>                    <li>Breathe in through "
-#| "your nose (4s).</li>                    <li>Hold (7s).</"
-#| "li>                    <li>Breathe out through your mouth making a "
-#| "whooshing sound (8s).</li>                    </ul>                    "
-#| "<br>                    Repeat at least 4 times."
+#, kde-format
 msgid ""
 "4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
 "fall asleep on a flight.                    <br>                    "
@@ -61,17 +48,13 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
-"4-7-8 Solunumu, vücudu derin bir rahatlama durumuna sokar; örneğin, bir "
-"uçuşta uykuya dalabilmek için yararlıdır.<br><ul><li>Burnunuzdan soluk alın "
-"(4 sn).</li><li>Tutun (7 sn).</li><li>Bir fuu sesi çıkararak soluğunuzu "
-"ağzınızdan verin (8 sn).</li></ul><br>En az dört kez yineleyin."
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
 #: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
 #: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
 #, kde-format
 msgid "in"
-msgstr "al"
+msgstr ""
 
 #: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
 #: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
@@ -79,14 +62,14 @@ msgstr "al"
 #: qml/NadiShodhanaPage.qml:85
 #, kde-format
 msgid "hold"
-msgstr "tut"
+msgstr ""
 
 #: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
 #: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
 #: qml/ResonantBreathingPage.qml:49
 #, kde-format
 msgid "out"
-msgstr "ver"
+msgstr ""
 
 #: qml/BoxBreathingPage.qml:10
 #, kde-format
@@ -99,11 +82,6 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
-"Kutu Solunumu, Amerikan Deniz Komandoları tarafından stresi tez ve etkili "
-"bir biçimde azaltmak izin kullanılan bir yöntemdir.<br><ul><li>Burnunuzdan "
-"soluk alın (4 sn).</li><li>Tutun (4 sn).</li><li>Burnunuzdan soluk verin (4 "
-"sn).</li><li>Tutun (4 sn).</li></ul>                    <br>En az 5-10 "
-"dakika boyunca yineleyin."
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
@@ -116,10 +94,6 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"Daha uzun soluk vermeli bir Kutu Solunumu çeşidi, uykuya dalmadan önce "
-"rahatlamanıza yardımcı olur.<br><ul><li>Burnunuzdan soluk alın (4 sn).</"
-"li><li>Tutun (4 sn).</li><li>Burnunuzdan soluk verin (6 sn).</li><li>Tutun "
-"(2 sn).</li></ul><br>En az 6 kez yineleyin."
 
 #: qml/CoordinatedBreathingPage.qml:10
 #, kde-format
@@ -135,60 +109,52 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
-"Koordine Solunum, diyaframınızı genişleterek soluğunuzun etkinliğini "
-"iyileştirir. Genelde sporda ve şarkı söylemede kullanılır."
-"<br><ul><li>Çeneniz vücudunuza 90° açı yapacak biçimde oturun.</"
-"li><li>Burnunuzdan yavaşça soluk alın.</li><li>Sessizce 10'a kadar yineli "
-"bir biçimde sayarken soluk verin.</li><li>Soluk vermeyi bitirdiğinizde "
-"saymayı sürdürün; ancak fısıldamaya başlayın. Akciğerleriniz tümüyle "
-"boşalana ve sesiniz kalmayana dek saymayı sürdürün.</li></ul><br>En az 10-30 "
-"kez yineleyin."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr "4-7-8 Solunumu"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr "Koordine Solunum"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr "Kutu Solunumu"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr "Kutu Solunumu (Uyku)"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr "Rezonans Solunum"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
-msgstr "Nadi Shodhana"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr "Yoga Solunumu"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:9
 #, kde-format
 msgid "Settings"
-msgstr "Ayarlar"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
 #, kde-format
 msgid "About"
-msgstr "Hakkında"
+msgstr ""
 
 #: qml/NadiShodhanaPage.qml:10
 #, kde-format
@@ -209,19 +175,6 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
-"Nadi Shodhana (Alternatif Burun Deliği Solunumu) kan basıncını azaltır ve "
-"zihninizi sakin tutmaya yardımcı olur.<br><ul><li>Sağ elinizin baş parmağını "
-"sağ burun deliğinize, işaret ve orta parmağınızı kaşlarınızın arasına ve "
-"yüzük parmağınızı sol burun deliğinize koyun.</li><li>Baş parmağınızla sağ "
-"burun deliğinizi kapatın ve sol burun deliğinizden soluk alın.</li><li>Baş "
-"parmağınız ve yüzük parmağınızla her iki burun deliğinizi de kapatın. Basılı "
-"tutun.</li><li>Baş parmağınızı kaldırın ve sağ burun deliğinden soluk verin."
-"</li><li>Baş parmağınız ve yüzük parmağınızla her iki burun deliğinizi de "
-"kapatın. Basılı tutun.</li><li>Baş parmağınızı kaldırın ve sağ burun "
-"deliğinizden soluk alın.</li><li>Baş parmağınız ve yüzük parmağınızla her "
-"iki burun deliğinizi de kapatın. Basılı tutun.</li><li>Baş parmağınızla sağ "
-"burun deliğinizi kapatın ve sol burun deliğinizden soluk verin.</li></"
-"ul><br> 5-10 kez yineleyin."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
@@ -234,53 +187,29 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
-"Rezonans Solunum; kalp atış hızı, kan basıncı ve solunumu birleştirerek "
-"vücudu rahatlatır.<br><ul><li>Dik ve rahat bir şekilde oturun.</li><li>Soluk "
-"alın (5,5 sn). Hava ciğerlerinize dolarken karnınızı genişletin.</"
-"li><li>Soluk verin (5,5 sn). Akciğerleriniz boşaldıkça karnınızı kasın.</"
-"li></ul><br>En az 10 kez yineleyin."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
 msgid "General"
-msgstr "Genel"
+msgstr ""
 
 #: qml/SettingsPage.qml:18
 #, kde-format
 msgid "Show info button"
-msgstr "Bilgi düğmesini göster"
+msgstr ""
 
 #: qml/SettingsPage.qml:33
 #, kde-format
 msgid "Breathe out duration"
-msgstr "Soluk verme süresi"
+msgstr ""
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgid "s"
-msgstr "sn"
+msgstr ""
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid ""
-#| "Yogic Breathing is a standard pranayama technique to revitalize the "
-#| "body.                    <br>                    <ul>                    "
-#| "<li>Place a hand on your navel. Breathe into your belly and feel the "
-#| "expansion.</li>                    <li>Move your hand up above your lower "
-#| "rips. Breathe into your mid-torso and feel the expansion.</"
-#| "li>                    <li>Move your hand up to your upper chest. Breathe "
-#| "in and feel your collarbones lift slightly.</li>                    "
-#| "<li>Breathe out. Feel your collarbones sink.</li>                    "
-#| "<li>Move your hand down to your lower rips. Breathe out and feel your mid-"
-#| "torso retreat.</li>                    <li>Move your hand down to your "
-#| "navel. Breathe out and feel your belly retreat.</li>                    </"
-#| "ul>                    <br>                    Repeat up to 15 "
-#| "minutes.                    <br>                    "
-#| "<br>                    The steps should form a single, fluent "
-#| "breath.                    <br>                    At the beginning, it "
-#| "might be helpful to practice the three stages (belly, mid-torso, upper "
-#| "chest) individually                    (i.e. breathe only into your "
-#| "belly, then breathe out again etc.)."
+#, kde-format
 msgid ""
 "Yogic Breathing is a standard pranayama technique to revitalize the "
 "body.                    <br>                    <ul>                    "
@@ -301,20 +230,6 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
-"Yoga Solunumu, vücudu canlandırmak için kullanılan standart bir pranayama "
-"tekniğidir.<br><ul><li>Elinizi göbeğinize koyun. Karnınıza soluk alın ve "
-"genişlemeyi hissedin.</li><li>Elinizi alt kaburgalarınızın üzerine doğru "
-"hareket ettirin. Gövdenizin orta kısmına soluk alın ve genişlemeyi hissedin."
-"</li><li>Elinizi göğsünüzün üst kısmına doğru hareket ettirin. Soluk alın ve "
-"köprücük kemiklerinizin hafifçe kalktığını hissedin.</li><li>Soluk verin. "
-"Köprücük kemiklerinizin çöktüğünü hissedin.</li><li>Elinizi alt "
-"kaburgalarınıza doğru hareket ettirin. Soluk alın ve gövdenizin orta "
-"kısmının geri çekildiğini hissedin.</li><li>Elinizi göbeğinize doğru hareket "
-"ettirin. Soluk verin ve karnınızın geri çekildiğini hissedin.</li></"
-"ul><br>15 dakikaya kadar yineleyin. <br><br>Adımlar tek ve akıcı bir soluk "
-"oluşturmalıdır.<br>Başlangıçta, Üç aşamayı (göbek, gövdenin ortası, göğsün "
-"üst kısmı) ayrı ayrı uygulamak yararlı olacaktır (örn. yalnızca karnınıza "
-"soluk alın, sonra yeniden soluk verin vb.)."
 
 #: qml/YogicBreathingPage.qml:47
 #, kde-format
@@ -322,8 +237,6 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
-"al\n"
-"(karın)"
 
 #: qml/YogicBreathingPage.qml:58
 #, kde-format
@@ -331,8 +244,6 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
-"al\n"
-"(orta gövde)"
 
 #: qml/YogicBreathingPage.qml:69
 #, kde-format
@@ -340,8 +251,6 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
-"al\n"
-"(üst göğüs)"
 
 #: qml/YogicBreathingPage.qml:84
 #, kde-format
@@ -349,8 +258,6 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
-"ver\n"
-"(karın)"
 
 #: qml/YogicBreathingPage.qml:95
 #, kde-format
@@ -358,8 +265,6 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
-"ver\n"
-"(orta gövde)"
 
 #: qml/YogicBreathingPage.qml:106
 #, kde-format
@@ -367,5 +272,3 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
-"ver\n"
-"(üst göğüs)"

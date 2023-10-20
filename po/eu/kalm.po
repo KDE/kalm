@@ -1,7 +1,7 @@
 # Translation for kalm.po to Euskara/Basque (eu).
 # Copyright (C) 2023 This file is copyright:
 # This file is distributed under the same license as the kalm package.
-# KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>.
+# SPDX-FileCopyrightText: 2023 KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>
 #
 # Translators:
 # SPDX-FileCopyrightText: 2023 Iñigo Salvador Azurmendi <xalba@ni.eus>
@@ -9,15 +9,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-18 00:44+0000\n"
-"PO-Revision-Date: 2023-10-19 00:06+0200\n"
+"POT-Creation-Date: 2023-10-20 00:44+0000\n"
+"PO-Revision-Date: 2023-10-19 07:48+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 23.08.2\n"
 
 #, kde-format
@@ -30,25 +30,33 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "xalba@ni.eus"
 
-#: main.cpp:53
+#: main.cpp:55
 #, kde-format
 msgid "Breathing techniques"
 msgstr "Arnas teknikak"
 
-#: main.cpp:56
+#: main.cpp:58
 #, kde-format
 msgid "Kalm"
 msgstr "Kalm"
 
-#: main.cpp:60
+#: main.cpp:62
 #, kde-format
 msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE komunitatea"
 
 #: qml/478BreathingPage.qml:10
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to "
+#| "better fall asleep on a flight.                    "
+#| "<br>                    <ul>                    <li>Breathe in through "
+#| "your nose (4s).</li>                    <li>Hold (7s).</"
+#| "li>                    <li>Breathe out through your mouth making a "
+#| "whooshing sound (8s).</li>                    </ul>                    "
+#| "<br>                    Repeat at least 4 times."
 msgid ""
-"4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to better "
+"4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
 "fall asleep on a flight.                    <br>                    "
 "<ul>                    <li>Breathe in through your nose (4s).</"
 "li>                    <li>Hold (7s).</li>                    <li>Breathe "
@@ -96,6 +104,13 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
+"AEBetako itsas armadako «SEAL»ek «Box» arnasketa erabiltzen dute estresa "
+"azkar eta eraginkortasunez murrizteko.                    "
+"<br>                    <ul>                     <li>Hartu arnasa sudurretik "
+"(4s).</li>                    <li>Eutsi (4s). </li>                    "
+"<li>Bota arnasa sudurretik (4s).</li>                    <li>Eutsi (4s).</"
+"li>                    </ul>                    <br>                    "
+"Errepikatu gutxienez 5-10 minutuz."
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
@@ -108,9 +123,16 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
+"«Box» arnasketaren aldaera bat, arnasa botatzeko fase luzeagoarekin, lotara "
+"joan aurretik erlaxatzen laguntzen du.                    "
+"<br>                    <ul>                    <li>Arnasa hartu sudurretik "
+"(4s).</li>                    <li>Eutsi (4s).</li>                    "
+"<li>Arnasa bota sudurretik (6s).</li>                    <li>Eutsi (2s).</"
+"li>                    </ul>                    <br>                    "
+"Errepikatu gutxienez 6 aldiz."
 
 #: qml/CoordinatedBreathingPage.qml:10
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "Coordinated Breathing improves the efficiency of your breathing by "
 "amplifying the movement of the diaphragm.                    It is often "
@@ -123,16 +145,16 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
-"Arnas koordinatuak zure arnasaren efizientzia hobetzen du, diafragmaren "
-"mugimendua anplifikatuz.                    Maiz erabiltzen da kirolean eta "
-"abesten.                    <br>                    <ul>                    "
-"<li>Sit upright with your chin in a 90° angle to your body.</"
-"li>                    <li>Breathe in gently through your nose.</"
-"li>                    <li>Breathe out while repeatedly, silently counting "
-"to 10.</li>                    <li>When finished breathing out, continue "
-"counting but whisper. Let your voice fade out until your lungs are "
-"completely empty.</li>                    </ul>                    "
-"<br>                    Repeat at least 10-30 times."
+"Arnas Koordinatuak zure arnasaren efizientzia hobetzen du, diafragmaren "
+"mugimendua anplifikatuz.                    Sarritan kirolean eta abesten "
+"erabiltzen da.                    <br>                    "
+"<ul>                    <li>Eseri tente kokotsa gorputzarekiko 90°ko "
+"angeluan duzula.</li>                    <li>Hartu arnasa poliki sudurretik."
+"</li>                    <li>Bota arnasa behin eta berriz, isilean 10 arte "
+"zenbatu bitartean.</li>                    <li>Arnasa botatzen bukatzean, "
+"jarraitu zenbatzen baina xuxurlatu. Utzi zure ahotsa itzaltzen birikak "
+"guztizhustu arte.</li>                    </ul>                    "
+"<br>                    Errepikatu gutxienez 10-30 aldiz."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
@@ -239,11 +261,11 @@ msgid ""
 "body.                    <br>                    <ul>                    "
 "<li>Place a hand on your navel. Breathe into your belly and feel the "
 "expansion.</li>                    <li>Move your hand up above your lower "
-"rips. Breathe into your mid-torso and feel the expansion.</"
+"ribs. Breathe into your mid-torso and feel the expansion.</"
 "li>                    <li>Move your hand up to your upper chest. Breathe in "
 "and feel your collarbones lift slightly.</li>                    <li>Breathe "
 "out. Feel your collarbones sink.</li>                    <li>Move your hand "
-"down to your lower rips. Breathe out and feel your mid-torso retreat.</"
+"down to your lower ribs. Breathe out and feel your mid-torso retreat.</"
 "li>                    <li>Move your hand down to your navel. Breathe out "
 "and feel your belly retreat.</li>                    </"
 "ul>                    <br>                    Repeat up to 15 "
