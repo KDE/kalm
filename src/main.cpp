@@ -55,7 +55,7 @@ int main(int argc, char *argv[])
                      i18n("Kalm"),
                      QStringLiteral(KALM_VERSION_STRING),
                      applicationDescription,
-                     KAboutLicense::GPL,
+                     KAboutLicense::LGPL_V2_1,
                      i18n("© 2023 KDE Community"));
     about.addAuthor("Plata Hill", QString(), QStringLiteral("plata.hill@kdemail.net"));
     KAboutData::setApplicationData(about);
