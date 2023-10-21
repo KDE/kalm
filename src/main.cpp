@@ -45,13 +45,9 @@ int main(int argc, char *argv[])
     KCrash::initialize();
 #endif
 
-    // about
-    QCoreApplication::setOrganizationName(QStringLiteral("KDE"));
-    QCoreApplication::setOrganizationDomain(QStringLiteral("kde.org"));
-    QCoreApplication::setApplicationName(QStringLiteral("Kalm"));
-
     KLocalizedString::setApplicationDomain("kalm");
 
+    // about
     const QString applicationDescription = i18n("Breathing techniques");
 
     KAboutData about(QStringLiteral("kalm"),
