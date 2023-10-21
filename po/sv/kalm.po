@@ -1,39 +1,36 @@
-# Translation of kalm.po to Catalan
-# Copyright (C) 2023 This_file_is_part_of_KDE
-# This file is distributed under the license LGPL version 2.1 or
-# version 3 or later versions approved by the membership of KDE e.V.
-# or the same license as the source of its messages in English.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kalm package.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2023.
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-10-20 00:44+0000\n"
-"PO-Revision-Date: 2023-10-20 09:11+0200\n"
-"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
-"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
-"Language: ca\n"
+"PO-Revision-Date: 2023-10-20 20:58+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 22.12.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.04.3\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Josep M. Ferrer"
+msgstr "Stefan Asserhäll"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "txemaq@gmail.com"
+msgstr "stefan.asserhall@bredband.net"
 
 #: main.cpp:55
 #, kde-format
 msgid "Breathing techniques"
-msgstr "Tècniques de respiració"
+msgstr "Andningstekniker"
 
 #: main.cpp:58
 #, kde-format
@@ -43,7 +40,7 @@ msgstr "Kalm"
 #: main.cpp:62
 #, kde-format
 msgid "© 2023 KDE Community"
-msgstr "© 2023 KDE Community"
+msgstr "© 2023 KDE-gemenskapen"
 
 #: qml/478BreathingPage.qml:10
 #, kde-format
@@ -56,19 +53,17 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
-"La respiració 4-7-8 posa el cos en un estat de relaxació profunda, per "
-"exemple, per dormir millor en un vol.                    "
-"<br>                    <ul>                    <li>Respirar pel nas (4s).</"
-"li>                    <li>Aguantar (7s).</li>                    "
-"<li>Expirar a través de la boca fent un so d'aire (8s).</li> </ul> <br> "
-"Repetiu almenys 4 vegades."
+"4-7-8 andning försätter kroppen i ett djupt avslappningstillstånd, för att "
+"exempelvis somna lättare under en flygning. <br> <ul> <li>Andas in genom "
+"näsan (4 s).</li> <li>Håll (7 s).</li> <li>Andas ut genom munnen med ett "
+"susande ljud (8 s). </li> </ul> <br> Upprepa minst fyra gånger."
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
 #: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
 #: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
 #, kde-format
 msgid "in"
-msgstr "inspireu"
+msgstr "in"
 
 #: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
 #: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
@@ -76,16 +71,15 @@ msgstr "inspireu"
 #: qml/NadiShodhanaPage.qml:85
 #, kde-format
 msgid "hold"
-msgstr "aguanteu"
+msgstr "håll"
 
 #: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
 #: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
 #: qml/ResonantBreathingPage.qml:49
 #, kde-format
 msgid "out"
-msgstr "expireu"
+msgstr "ut"
 
-# skip-rule: kct-box
 #: qml/BoxBreathingPage.qml:10
 #, kde-format
 msgid ""
@@ -97,14 +91,11 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
-"La respiració de caixa és utilitzada pels SEAL de la Marina per reduir "
-"ràpidament i eficaçment l'estrès.                    <br>                    "
-"<ul>                    <li>Inspirar a través del nas (4s).</li> "
-"<li>Aguantar (4s).</li> <li>Expirar pel nas (4s).</li> <li>Aguantar (4s).</"
-"li>                    </ul>                    <br>                    "
-"Repetir durant 5-10 minuts com a mínim."
+"Lådandning används av soldater för att snabbt och effektivt minska stress. "
+"<br> <ul> <li>Andas in genom näsan (4 s).</li> <li>Håll (4 s).</li> "
+"<li>Andas ut genom näsan (4 s).</li> <li>Håll (4 s).</li> </ul> <br> Upprepa "
+"i minst 5-10 minuter."
 
-# skip-rule: kct-box
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
 msgid ""
@@ -116,13 +107,10 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"Una variant de respiració de caixa amb una fase de respiració més llarga "
-"ajuda a relaxar-se abans d'anar a dormir.                    "
-"<br>                    <ul>                    <li>Inspirar a través del "
-"nas (4s).</li> <li>Aguantar (4s).</li>                    <li>Expirar a "
-"través del nas (6s).</li>                    <li>Aguantar (2s).</"
-"li>                    </ul>                    <br>                    "
-"Repetir 6 vegades com a mínim."
+"En variant av lådandning med en längre andningsfas hjälper till att slappna "
+"av innan man somnar. <br> <ul> <li>Andas in genom näsan (4 s).</li> <li>Håll "
+"(4 s).</li> <li>Andas ut genom näsan (6 s).</li> <li>Håll (2 s).</li> </ul> "
+"<br> Upprepa minst 6 gånger."
 
 #: qml/CoordinatedBreathingPage.qml:10
 #, kde-format
@@ -138,43 +126,38 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
-"La respiració coordinada millora l'eficiència de la respiració amplificant "
-"el moviment del diafragma.                    <br>                    "
-"<ul>                    <li>Asseieu-vos en posició vertical amb la barbeta "
-"amb un angle de 90° respecte al cos.</li>                    <li>Inspireu "
-"suaument a través del nas.</li>                    <li>Expireu repetidament, "
-"comptant silenciosament fins a 10.</li>                    <li>Quan acabeu "
-"d'expirar, continueu comptant però murmurant. Deixeu que la vostra veu "
-"s'esvaeixi fins que els pulmons estiguin completament buits.</"
-"li>                    </ul>                    <br>                    "
-"Repetiu almenys 10-30 vegades."
+"Koordinerad andning förbättrar andningens effektivitet genom att förstärka "
+"diafragmans rörelse. Den används ofta för sport eller sång. <br> <ul> "
+"<li>Sitt upprätt med hakan i en 90° vinkel mot kroppen.</li> <li>Andas "
+"försiktigt in genom näsan.</li> <li>Andas ut samtidigt upprepade gånger, "
+"räkna tyst till 10.</li> <li>När du har andats ut, fortsätt att räkna men "
+"viska. Låt din röst tona ut tills lungorna är helt tomma.</li> </ul> <br> "
+"Upprepa minst 10-30 gånger."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr "Respiració 4-7-8"
+msgstr "4-7-8 andning"
 
 #: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr "Respiració coordinada"
+msgstr "Koordinerad andning"
 
-# skip-rule: kct-box
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr "Respiració de caixa"
+msgstr "Lådandning"
 
-# skip-rule: kct-box
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr "Respiració de caixa (dormint)"
+msgstr "Lådandning (sömn)"
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr "Respiració ressonant"
+msgstr "Resonant andning"
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
@@ -184,18 +167,18 @@ msgstr "Nadi Shodhana"
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr "Respiració iòguica"
+msgstr "Yoga-andning"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:9
 #, kde-format
 msgid "Settings"
-msgstr "Configuració"
+msgstr "Inställningar"
 
 #: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
 #, kde-format
 msgid "About"
-msgstr "Quant a"
+msgstr "Om"
 
 #: qml/NadiShodhanaPage.qml:10
 #, kde-format
@@ -216,21 +199,16 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
-"Nadi Shodhana (Respiració alterna de nariu) redueix la pressió arterial i "
-"ajuda a mantenir la ment tranquil·la.                    "
-"<br>                    <ul>                    <li>Col·loqueu el polze de "
-"la mà dreta sobre el nariu dret, el dit índex i el dit del mig entre les "
-"celles i el dit anular al nariu esquerre.</li>                    "
-"<li>Tanqueu el nariu dret amb el polze i inspireu a través del nariu "
-"esquerre.</li> <li>Tanqueu ambdós narius amb el polze i el dit anular. "
-"Aguanteu.</li>                    <li>Aixequeu el polze i expireu a través "
-"del nariu dret.</li>                    <li>Tanqueu ambdós narius amb el dit "
-"polze i el dit anular. Aguanteu.</li>                    <li>Aixequeu el "
-"polze i inspireu a través del nariu dret.</li>                    "
-"<li>Tanqueu ambdós narius amb el polze i el dit anular. Aguanteu.</"
-"li>                    <li>Tanqueu el nariu dret amb el dit polze i expireu "
-"a través del nariu esquerre.</li>                    </"
-"ul>                    <br>                    Repetiu 5-10 vegades."
+"Nadi Shodhana (alternativ näsborreandning) sänker blodtrycket och hjälper "
+"till att lugna sinnena. <br> <ul> <li>Placera höger tumme på höger näsborre, "
+"pek- och långfinger mellan ögonbrynen och ringfingret på vänster näsborre.</"
+"li> <li>Stäng höger näsborre med tummen och andas in genom vänster näsborre."
+"</li> <li>Stäng båda näsborrarna med tummen och ringfingret. Håll.</li> "
+"<li>Lyft tummen och andas ut genom höger näsborre.</li> <li>Stäng båda "
+"näsborrarna med tummen och ringfingret. Håll.</li> <li>Lyft tummen och andas "
+"in genom höger näsborre.</li> <li>Stäng båda näsborrarna med tummen och "
+"ringfingret. Håll.</li> <li>Stäng höger näsborre med tummen och andas ut "
+"genom vänster näsborre.</li> </ul> <br> Upprepa 5-10 gånger."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
@@ -243,28 +221,25 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
-"La respiració ressonant relaxa el cos associant ritme cardíac, pressió "
-"arterial i respiració.                    <br>                    "
-"<ul>                    <li>Asseieu-vos en posició vertical i relaxat.</"
-"li>                    <li>Inspireu (5,5s). Expandiu el ventre mentre l'aire "
-"omple els pulmons.</li>                    <li>Expireu (5,5s). Contraieu el "
-"ventre mentre els pulmons estan buits.</li>                    </"
-"ul>                    <br>                    Repetiu almenys 10 vegades."
+"Resonant andning slappnar av kroppen genom att koppla puls, blodtryck och "
+"andning. <br> <ul> <li>Sitt upprätt och avslappnad.</li> <li>Andas in (5,5 "
+"s). Expandera magen när luften fyller lungorna.</li> <li>Andas ut (5,5 s). "
+"Dra in magen när lungorna töms.</li> </ul> <br> Upprepa minst 10 gånger."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
 msgid "General"
-msgstr "General"
+msgstr "Allmänt"
 
 #: qml/SettingsPage.qml:18
 #, kde-format
 msgid "Show info button"
-msgstr "Mostra el botó d'informació"
+msgstr "Visa informationsknapp"
 
 #: qml/SettingsPage.qml:33
 #, kde-format
 msgid "Breathe out duration"
-msgstr "Durada de l'expiració"
+msgstr "Utandningslängd"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
@@ -293,23 +268,18 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
-"La respiració iòguica és una tècnica estàndard de pranaiama per revitalitzar "
-"el cos.                    <br>                    <ul>                    "
-"<li>Poseu una mà al melic. Respireu al ventre i sentiu l'expansió.</"
-"li>                    <li>Mogueu la mà per sobre de la part inferior de les "
-"costelles. Inspireu en el tors mig i sentiu l'expansió.</"
-"li>                    <li>Mogueu la mà cap al pit superior. Inspireu i "
-"sentiu com les clavícules s'aixequen lleugerament.</li>                    "
-"<li>Expireu. Sentiu com s'enfonsen les clavícules.</li>                    "
-"<li>Moveu la mà cap avall a les costelles inferiors. Expireu i sentiu com el "
-"tors mig retrocedeix.</li>                    <li>Baixeu la mà al melic. "
-"Expireu i sentiu com el ventre retrocedeix.</li>                    </"
-"ul>                    <br>                    Repetiu fins a 15 "
-"minuts.                    <br>                    <br>                    "
-"Els passos han de formar una respiració única i fluida.                    "
-"<br>                    Al principi, podria ser útil practicar les tres "
-"etapes (ventre, tors mig, pit superior) individualment (és a dir, respirar "
-"només en el ventre, després respirar de nou, etc.)."
+"Yoga-andning är en standard teknik i pranayama för att vitalisera kroppen. "
+"<br> <ul> <li>Lägg en hand på naveln. Andas in med magen och känn "
+"utvidgningen.</li> <li>Flytta upp handen ovanför de undre revbenen. Andas in "
+"i mitten av bålen och känn utvidgningen.</li> <li>För handen upp till "
+"bröstet. Andas in och känn hur nyckelbenen lyfts något.</li> <li>Andas ut. "
+"Känn hur nyckelbenen sjunker.</li> <li>För ner handen till de undre "
+"revbenen. Andas ut och känn hur kroppens mitt dras in.</li> <li>För handen "
+"ner till naveln. Andas ut och känn hur magen dras in.</li> </ul> <br> "
+"Upprepa upp till 15 minuter. <br> <br> Stegen ska bilda ett enda, flytande "
+"andetag. <br> I början kan det vara bra att öva på de tre stegen (magen, "
+"mitten av bålen, övre bröstet) individuellt (dvs. andas bara in med magen, "
+"andas sedan ut igen etc.)."
 
 #: qml/YogicBreathingPage.qml:47
 #, kde-format
@@ -317,8 +287,8 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
-"inspiració\n"
-"(ventre)"
+"in\n"
+"(magen)"
 
 #: qml/YogicBreathingPage.qml:58
 #, kde-format
@@ -326,8 +296,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
-"inspiració\n"
-"(tors mig)"
+"in\n"
+"(mitten av bålen)"
 
 #: qml/YogicBreathingPage.qml:69
 #, kde-format
@@ -335,8 +305,8 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
-"inspiració\n"
-"(pit superior)"
+"in\n"
+"(övre bröstet)"
 
 #: qml/YogicBreathingPage.qml:84
 #, kde-format
@@ -344,8 +314,8 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
-"expiració\n"
-"(pit superior)"
+"ut\n"
+"(övre bröstet)"
 
 #: qml/YogicBreathingPage.qml:95
 #, kde-format
@@ -353,8 +323,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
-"expiració\n"
-"(tors mig)"
+"ut\n"
+"(mitten av bålen)"
 
 #: qml/YogicBreathingPage.qml:106
 #, kde-format
@@ -362,5 +332,5 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
-"expiració\n"
-"(ventre)"
+"ut\n"
+"(magen)"

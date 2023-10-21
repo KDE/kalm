@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-10-20 00:44+0000\n"
-"PO-Revision-Date: 2023-10-19 07:48+0200\n"
+"PO-Revision-Date: 2023-10-20 22:49+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -46,15 +46,7 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE komunitatea"
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid ""
-#| "4-7-8 Breathing puts the body indo a deep relaxation state, e.g. to "
-#| "better fall asleep on a flight.                    "
-#| "<br>                    <ul>                    <li>Breathe in through "
-#| "your nose (4s).</li>                    <li>Hold (7s).</"
-#| "li>                    <li>Breathe out through your mouth making a "
-#| "whooshing sound (8s).</li>                    </ul>                    "
-#| "<br>                    Repeat at least 4 times."
+#, kde-format
 msgid ""
 "4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
 "fall asleep on a flight.                    <br>                    "
@@ -66,10 +58,10 @@ msgid ""
 msgstr ""
 "4-7-8 arnasketak gorputza erlaxazio egoera sakonean ipintzen du, adib. "
 "hegaldi batean hobeto lokartzeko.                    <br>                    "
-"<ul>                    <li>Hartu arnasa sudurraren bidez (4s).</"
+"<ul>                    <li>Hartu arnasa sudurretik (4s).</"
 "li>                    <li>Eutsi (7s).</li>                    <li>Bota "
-"arnasaahotik burrunba soinua eginez (8s).</li>                    </"
-"ul>                    <br>                    Errepikatu gutxienez 4 aldiz."
+"arnasa ahotik burrunba soinua eginez (8s).</li>                   </"
+"ul>                    <br>                   Errepikatu gutxienez 4 aldiz."
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
 #: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
@@ -104,10 +96,10 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
-"AEBetako itsas armadako «SEAL»ek «Box» arnasketa erabiltzen dute estresa "
-"azkar eta eraginkortasunez murrizteko.                    "
+"Kaxa arnasketa («Box Breathing») AEBetako itsas armadako «SEAL»ek erabiltzen "
+"dute estresa azkar eta eraginkortasunez murrizteko.                    "
 "<br>                    <ul>                     <li>Hartu arnasa sudurretik "
-"(4s).</li>                    <li>Eutsi (4s). </li>                    "
+"(4s).</li>                    <li>Eutsi (4s).</li>                    "
 "<li>Bota arnasa sudurretik (4s).</li>                    <li>Eutsi (4s).</"
 "li>                    </ul>                    <br>                    "
 "Errepikatu gutxienez 5-10 minutuz."
@@ -123,13 +115,13 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"«Box» arnasketaren aldaera bat, arnasa botatzeko fase luzeagoarekin, lotara "
-"joan aurretik erlaxatzen laguntzen du.                    "
-"<br>                    <ul>                    <li>Arnasa hartu sudurretik "
-"(4s).</li>                    <li>Eutsi (4s).</li>                    "
-"<li>Arnasa bota sudurretik (6s).</li>                    <li>Eutsi (2s).</"
-"li>                    </ul>                    <br>                    "
-"Errepikatu gutxienez 6 aldiz."
+"Kaxa arnasketaren («Box Breathing»)  aldaera bat, arnasa botatzeko fase "
+"luzeagoarekin, lotara joan aurretik erlaxatzen laguntzen "
+"du.                    <br>                    <ul>                    "
+"<li>Hartu arnasa sudurretik (4s).</li>                    <li>Eutsi (4s).</"
+"li>                    <li>Bota arnasa sudurretik (6s).</"
+"li>                    <li>Eutsi (2s).</li>                    </"
+"ul>                    <br>                    Errepikatu gutxienez 6 aldiz."
 
 #: qml/CoordinatedBreathingPage.qml:10
 #, kde-format
@@ -169,7 +161,7 @@ msgstr "Arnasketa koordinatu"
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr "Kaxa arnasketa"
+msgstr "Kaxa arnasketa («Box Breathing»)"
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
@@ -189,7 +181,7 @@ msgstr "Nadi Shodhana"
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr "Yoga arnasketa"
+msgstr "Arnasketa yogikoa"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:9
@@ -221,6 +213,21 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
+"«Nadi Shodhana»k (sudur-zulo txandakatuko arnasketa) odoleko presioa "
+"murriztu eta gogoa lasai mantentzen laguntzen du.                    "
+"<br>                   <ul>                    <li>Ipini eskuin eskuko "
+"erpurua eskuin sudur-zuloan, hatz erakuslea eta luzea bekainen artean eta "
+"hatz nagia ezker sudur-zuloan.</li>                    <li>Itxi eskuin sudur-"
+"zuloa erpuruarekin eta hartu arnasa ezker sudu-zulotik</"
+"li>                   <li>Itxi bi sudur-zuloak erpuruarekin eta hatz "
+"nagiarekin. Eutsi.</li>                    <li>Altxatu erpurua eta bota "
+"arnasaeskuin sudur-zulotik.</li>                    <li>Itxi bi sudur-zuloak "
+"erpuruarekin eta hatz nagiarekin. Eutsi</li>                    <li>Altxatu "
+"erpurua eta hartu arnasa eskuin sudur-zulotik.</li>                    "
+"<li>Itxi bi sudur-zuloak erpuruarekin eta hatz nagiarekin. Eutsi.</"
+"li>                    <li>Altxatu hatz nagia ezker sudur-zulotik eta bota "
+"arnasa ezker sudur-zulotik.</li>                    </ul>                    "
+"<br>                    Errepikatu 5-10 aldiz."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
@@ -233,6 +240,13 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
+"Arnasketa erresonanteak gorputza erlaxatzen du, bihotz-maiztasuna, odol-"
+"presioa eta arnasketa akoplatuz.                    <br>                    "
+"<ul>                    <li>Eseri tente eta erlaxatuta.</"
+"li>                    <li>Hartu arnasa (5,5s). Zabaldu sabela aireak zure "
+"birikak bete ahala.</li>                    <li>Bota arnasa (5,5s). Uzkurtu "
+"sabela birikak hustu ahala.</li>                    </ul>                    "
+"<br>                    Errepikatu gutxienez 10 aldiz."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
@@ -255,7 +269,7 @@ msgid "s"
 msgstr "s"
 
 #: qml/YogicBreathingPage.qml:10
-#, kde-format
+#, fuzzy, kde-format
 msgid ""
 "Yogic Breathing is a standard pranayama technique to revitalize the "
 "body.                    <br>                    <ul>                    "
@@ -276,6 +290,24 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
+"Arnasketa Yogikoa, gorputza suspertzeko «pranayama» teknika estandar bat "
+"da.                    <br>                    <ul>                    "
+"<li>Ipini esku bat zure sabelean. Hartu arnasa sabelean eta nabaritu "
+"zabaltzea.</li>                    <li>Eraman zure eskua zure beheko "
+"saihetsetatik gora. Hartu arnasa zure ribs. Breathe into your mid-torso and "
+"feel the expansion.</li>                    <li>Move your hand up to your "
+"upper chest. Breathe in and feel your collarbones lift slightly.</"
+"li>                    <li>Breathe out. Feel your collarbones sink.</"
+"li>                    <li>Move your hand down to your lower ribs. Breathe "
+"out and feel your mid-torso retreat.</li>                    <li>Move your "
+"hand down to your navel. Breathe out and feel your belly retreat.</"
+"li>                    </ul>                    <br>                    "
+"Repeat up to 15 minutes.                    <br>                    "
+"<br>                    The steps should form a single, fluent "
+"breath.                    <br>                    At the beginning, it "
+"might be helpful to practice the three stages (belly, mid-torso, upper "
+"chest) individually                    (i.e. breathe only into your belly, "
+"then breathe out again etc.)."
 
 #: qml/YogicBreathingPage.qml:47
 #, kde-format
