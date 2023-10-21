@@ -64,10 +64,9 @@ int main(int argc, char *argv[])
 
     // command line parser
     QCommandLineParser parser;
-    parser.setApplicationDescription(applicationDescription);
-    parser.addHelpOption();
-    parser.addVersionOption();
+    about.setupCommandLine(&parser);
     parser.process(app);
+    about.processCommandLine(&parser);
 
     // setup engine
     QQmlApplicationEngine engine;
