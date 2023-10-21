@@ -14,6 +14,7 @@
 #include <KLocalizedString>
 
 #include <QCommandLineParser>
+#include <QIcon>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include <QQuickStyle>
@@ -58,6 +59,8 @@ int main(int argc, char *argv[])
                      i18n("© 2023 KDE Community"));
     about.addAuthor("Plata Hill", QString(), QStringLiteral("plata.hill@kdemail.net"));
     KAboutData::setApplicationData(about);
+
+    QGuiApplication::setWindowIcon(QIcon::fromTheme(QStringLiteral("org.kde.kalm")));
 
     // command line parser
     QCommandLineParser parser;
