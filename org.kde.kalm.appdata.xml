@@ -68,12 +68,20 @@
     <p xml:lang="uk">Kalm може навчити вас різним методикам дихання.</p>
     <p xml:lang="x-test">xxKalm can teach you different breathing techniques.xx</p>
   </description>
-  <!--screenshots>
+  <screenshots>
     <screenshot type="default">
-      <caption>User Interface</caption>
-      <image>https://cdn.kde.org/screenshots/kalm/ui.png</image>
+      <caption>General</caption>
+      <image>https://cdn.kde.org/screenshots/kalm/general.png</image>
     </screenshot>
-  </screenshots-->
+    <screenshot type="default">
+      <caption>Info</caption>
+      <image>https://cdn.kde.org/screenshots/kalm/info.png</image>
+    </screenshot>
+    <screenshot type="default">
+      <caption>Menu</caption>
+      <image>https://cdn.kde.org/screenshots/kalm/menu.png</image>
+    </screenshot>
+  </screenshots>
   <categories>
     <category>Utility</category>
     <category>KDE</category>
