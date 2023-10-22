@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-20 00:44+0000\n"
-"PO-Revision-Date: 2023-10-20 22:49+0200\n"
+"POT-Creation-Date: 2023-10-22 00:44+0000\n"
+"PO-Revision-Date: 2023-10-21 09:37+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -30,17 +30,17 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "xalba@ni.eus"
 
-#: main.cpp:55
+#: main.cpp:52
 #, kde-format
 msgid "Breathing techniques"
 msgstr "Arnas teknikak"
 
-#: main.cpp:58
+#: main.cpp:55
 #, kde-format
 msgid "Kalm"
 msgstr "Kalm"
 
-#: main.cpp:62
+#: main.cpp:59
 #, kde-format
 msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE komunitatea"
@@ -145,7 +145,7 @@ msgstr ""
 "</li>                    <li>Bota arnasa behin eta berriz, isilean 10 arte "
 "zenbatu bitartean.</li>                    <li>Arnasa botatzen bukatzean, "
 "jarraitu zenbatzen baina xuxurlatu. Utzi zure ahotsa itzaltzen birikak "
-"guztizhustu arte.</li>                    </ul>                    "
+"guztiz hustu arte.</li>                    </ul>                    "
 "<br>                    Errepikatu gutxienez 10-30 aldiz."
 
 #: qml/KalmGlobalDrawer.qml:12
@@ -221,13 +221,13 @@ msgstr ""
 "zuloa erpuruarekin eta hartu arnasa ezker sudu-zulotik</"
 "li>                   <li>Itxi bi sudur-zuloak erpuruarekin eta hatz "
 "nagiarekin. Eutsi.</li>                    <li>Altxatu erpurua eta bota "
-"arnasaeskuin sudur-zulotik.</li>                    <li>Itxi bi sudur-zuloak "
-"erpuruarekin eta hatz nagiarekin. Eutsi</li>                    <li>Altxatu "
-"erpurua eta hartu arnasa eskuin sudur-zulotik.</li>                    "
-"<li>Itxi bi sudur-zuloak erpuruarekin eta hatz nagiarekin. Eutsi.</"
-"li>                    <li>Altxatu hatz nagia ezker sudur-zulotik eta bota "
-"arnasa ezker sudur-zulotik.</li>                    </ul>                    "
-"<br>                    Errepikatu 5-10 aldiz."
+"arnasa eskuin sudur-zulotik.</li>                    <li>Itxi bi sudur-"
+"zuloak erpuruarekin eta hatz nagiarekin. Eutsi</li>                    "
+"<li>Altxatu erpurua eta hartu arnasa eskuin sudur-zulotik.</"
+"li>                    <li>Itxi bi sudur-zuloak erpuruarekin eta hatz "
+"nagiarekin. Eutsi.</li>                    <li>Altxatu hatz nagia ezker "
+"sudur-zulotik eta bota arnasa ezker sudur-zulotik.</li>                    </"
+"ul>                    <br>                    Errepikatu 5-10 aldiz."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
@@ -269,7 +269,7 @@ msgid "s"
 msgstr "s"
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "Yogic Breathing is a standard pranayama technique to revitalize the "
 "body.                    <br>                    <ul>                    "
@@ -290,24 +290,25 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
-"Arnasketa Yogikoa, gorputza suspertzeko «pranayama» teknika estandar bat "
+"Arnasketa yogikoa, gorputza suspertzeko «pranayama» teknika estandar bat "
 "da.                    <br>                    <ul>                    "
-"<li>Ipini esku bat zure sabelean. Hartu arnasa sabelean eta nabaritu "
-"zabaltzea.</li>                    <li>Eraman zure eskua zure beheko "
-"saihetsetatik gora. Hartu arnasa zure ribs. Breathe into your mid-torso and "
-"feel the expansion.</li>                    <li>Move your hand up to your "
-"upper chest. Breathe in and feel your collarbones lift slightly.</"
-"li>                    <li>Breathe out. Feel your collarbones sink.</"
-"li>                    <li>Move your hand down to your lower ribs. Breathe "
-"out and feel your mid-torso retreat.</li>                    <li>Move your "
-"hand down to your navel. Breathe out and feel your belly retreat.</"
-"li>                    </ul>                    <br>                    "
-"Repeat up to 15 minutes.                    <br>                    "
-"<br>                    The steps should form a single, fluent "
-"breath.                    <br>                    At the beginning, it "
-"might be helpful to practice the three stages (belly, mid-torso, upper "
-"chest) individually                    (i.e. breathe only into your belly, "
-"then breathe out again etc.)."
+"<li>Ipini esku bat zure zilborrean. Hartu arnasa sabelean eta hedatzea "
+"nabaritu.</li>                    <li>Eraman eskua gora, behe-saihetsetara. "
+"Hartu arnasa gorputz-enbor erdian eta hedatzea nabaritu.</"
+"li>                    <li>Eraman eskua gora zure bular-goialdera. Hartu "
+"arnasa eta lepauztaiak pixka bat altxatzen nabaritu.</li>                    "
+"<li>Bota arnasa. Lepauztaiak hondoratzen nabaritu.</li>                    "
+"<li>Eraman eskua behera, behe-saihetsetara. Bota arnasa eta gorputz-enbor "
+"erdia atzera egiten nabaritu.</li>                   </"
+"li>                    <li>Eraman eskua behera, zilborrera. Bota arnasa eta "
+"sabela atzera egiten nabaritu.</li>                    </"
+"ul>                    <br>                    Errepikatu 15 "
+"minutuz.                    <br>                    <br>                    "
+"Urratsek arnas jariakor bakar bat osatu beharko lukete.                    "
+"<br>                    Hasieran, lagungarria izan daiteke hiru etapak "
+"bereizita praktikatzea (sabela, gorputz-enbor erdia, bular-"
+"goialdea)                    (adib. sabelean arnas hartzea, eta atzera "
+"arnasa botatzea etab.)."
 
 #: qml/YogicBreathingPage.qml:47
 #, kde-format

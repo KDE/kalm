@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-10-20 00:44+0000\n"
+"POT-Creation-Date: 2023-10-22 00:44+0000\n"
 "PO-Revision-Date: 2023-10-19 05:31+0200\n"
 "Last-Translator: KDE Francophone <kde-francophone@kde.org>\n"
 "Language-Team: KDE Francophone <kde-francophone@kde.org>\n"
@@ -22,17 +22,17 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: main.cpp:55
+#: main.cpp:52
 #, kde-format
 msgid "Breathing techniques"
 msgstr ""
 
-#: main.cpp:58
+#: main.cpp:55
 #, kde-format
 msgid "Kalm"
 msgstr ""
 
-#: main.cpp:62
+#: main.cpp:59
 #, kde-format
 msgid "© 2023 KDE Community"
 msgstr ""
