@@ -27,9 +27,9 @@ sudo make install
 
 ### Flatpak
 ```
-flatpak install org.kde.Sdk/x86_64/5.15-21.08
-flatpak install org.kde.Platform/x86_64/5.15-21.08
-flatpak-builder --user --install --force-clean build org.kde.kalm.yml
+flatpak install org.kde.Sdk/x86_64/5.15-22.08
+flatpak install org.kde.Platform/x86_64/5.15-22.08
+flatpak-builder --user --install --force-clean build .flatpak-manifest.yml
 flatpak run org.kde.kalm
 ```
 
