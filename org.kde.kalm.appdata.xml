@@ -13,6 +13,7 @@
   <name xml:lang="fr">Kalm</name>
   <name xml:lang="ka">Kalm</name>
   <name xml:lang="nl">Kalm</name>
+  <name xml:lang="pl">Kalm</name>
   <name xml:lang="sl">Kalm</name>
   <name xml:lang="sv">Kalm</name>
   <name xml:lang="tr">Kalm</name>
@@ -26,6 +27,7 @@
   <summary xml:lang="fr">Techniques de respiration</summary>
   <summary xml:lang="ka">სუნთქვის ტექნიკა</summary>
   <summary xml:lang="nl">Ademtechnieken</summary>
+  <summary xml:lang="pl">Techniki oddychania</summary>
   <summary xml:lang="sl">Dihalne tehnike</summary>
   <summary xml:lang="sv">Andningstekniker</summary>
   <summary xml:lang="tr">Soluk alma teknikleri</summary>
@@ -44,6 +46,7 @@
   <developer_name xml:lang="fr">plata</developer_name>
   <developer_name xml:lang="ka">plata</developer_name>
   <developer_name xml:lang="nl">plata</developer_name>
+  <developer_name xml:lang="pl">plata</developer_name>
   <developer_name xml:lang="sl">plata</developer_name>
   <developer_name xml:lang="sv">plata</developer_name>
   <developer_name xml:lang="tr">plata</developer_name>
@@ -58,6 +61,7 @@
     <p xml:lang="fr">Kalm peut vous enseigner différentes techniques de respiration.</p>
     <p xml:lang="ka">Kalm სხვადასხვა სუნთქვის ტექნიკას გასწავლით.</p>
     <p xml:lang="nl">Kalm kan u verschillende ademtechnieken leren.</p>
+    <p xml:lang="pl">Kalm uczy różnych technik oddychania.</p>
     <p xml:lang="sl">Kalm vas lahko nauči različnih dihalnih tehnik.</p>
     <p xml:lang="sv">Kalm kan lära dig olika andningstekniker.</p>
     <p xml:lang="tr">Kalm, size değişik soluk alma tekniklerini öğretebilir.</p>
