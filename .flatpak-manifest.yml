@@ -13,6 +13,7 @@ desktop-file-name-suffix: ' (Nightly)'
 finish-args:
   - --socket=wayland
   - --socket=fallback-x11
+  - --device=dri
 modules:
   - name: "kirigami-addons"
     config-opts:
