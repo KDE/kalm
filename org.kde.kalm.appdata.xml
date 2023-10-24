@@ -71,14 +71,41 @@
   <screenshots>
     <screenshot type="default">
       <caption>General</caption>
+      <caption xml:lang="ca">General</caption>
+      <caption xml:lang="es">General</caption>
+      <caption xml:lang="eu">Orokorra</caption>
+      <caption xml:lang="nl">Algemeen</caption>
+      <caption xml:lang="sl">Splošno</caption>
+      <caption xml:lang="sv">Allmänt</caption>
+      <caption xml:lang="tr">Genel</caption>
+      <caption xml:lang="uk">Загальне</caption>
+      <caption xml:lang="x-test">xxGeneralxx</caption>
       <image>https://cdn.kde.org/screenshots/kalm/general.png</image>
     </screenshot>
     <screenshot type="default">
       <caption>Info</caption>
+      <caption xml:lang="ca">Informació</caption>
+      <caption xml:lang="es">Información</caption>
+      <caption xml:lang="eu">Informazioa</caption>
+      <caption xml:lang="nl">Informatie</caption>
+      <caption xml:lang="sl">Informacije</caption>
+      <caption xml:lang="sv">Information</caption>
+      <caption xml:lang="tr">Bilgi</caption>
+      <caption xml:lang="uk">Відомості</caption>
+      <caption xml:lang="x-test">xxInfoxx</caption>
       <image>https://cdn.kde.org/screenshots/kalm/info.png</image>
     </screenshot>
     <screenshot type="default">
       <caption>Menu</caption>
+      <caption xml:lang="ca">Menú</caption>
+      <caption xml:lang="es">Menú</caption>
+      <caption xml:lang="eu">Menua</caption>
+      <caption xml:lang="nl">Menu openen</caption>
+      <caption xml:lang="sl">Meni</caption>
+      <caption xml:lang="sv">Meny</caption>
+      <caption xml:lang="tr">Menü</caption>
+      <caption xml:lang="uk">Меню</caption>
+      <caption xml:lang="x-test">xxMenuxx</caption>
       <image>https://cdn.kde.org/screenshots/kalm/menu.png</image>
     </screenshot>
   </screenshots>
