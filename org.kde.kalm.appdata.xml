@@ -72,6 +72,7 @@
     <screenshot type="default">
       <caption>General</caption>
       <caption xml:lang="ca">General</caption>
+      <caption xml:lang="ca-valencia">General</caption>
       <caption xml:lang="es">General</caption>
       <caption xml:lang="eu">Orokorra</caption>
       <caption xml:lang="nl">Algemeen</caption>
@@ -85,6 +86,7 @@
     <screenshot type="default">
       <caption>Info</caption>
       <caption xml:lang="ca">Informació</caption>
+      <caption xml:lang="ca-valencia">Informació</caption>
       <caption xml:lang="es">Información</caption>
       <caption xml:lang="eu">Informazioa</caption>
       <caption xml:lang="nl">Informatie</caption>
@@ -98,6 +100,7 @@
     <screenshot type="default">
       <caption>Menu</caption>
       <caption xml:lang="ca">Menú</caption>
+      <caption xml:lang="ca-valencia">Menú</caption>
       <caption xml:lang="es">Menú</caption>
       <caption xml:lang="eu">Menua</caption>
       <caption xml:lang="nl">Menu openen</caption>
