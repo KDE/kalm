@@ -11,6 +11,7 @@
   <name xml:lang="es">Kalm</name>
   <name xml:lang="eu">Kalm</name>
   <name xml:lang="fr">Kalm</name>
+  <name xml:lang="it">Kalm</name>
   <name xml:lang="ka">Kalm</name>
   <name xml:lang="nl">Kalm</name>
   <name xml:lang="pl">Kalm</name>
@@ -25,6 +26,7 @@
   <summary xml:lang="es">Técnicas de respiración</summary>
   <summary xml:lang="eu">Arnas teknikak</summary>
   <summary xml:lang="fr">Techniques de respiration</summary>
+  <summary xml:lang="it">Tecniche di respirazione</summary>
   <summary xml:lang="ka">სუნთქვის ტექნიკა</summary>
   <summary xml:lang="nl">Ademtechnieken</summary>
   <summary xml:lang="pl">Techniki oddychania</summary>
@@ -44,6 +46,7 @@
   <developer_name xml:lang="es">plata</developer_name>
   <developer_name xml:lang="eu">plata</developer_name>
   <developer_name xml:lang="fr">plata</developer_name>
+  <developer_name xml:lang="it">plata</developer_name>
   <developer_name xml:lang="ka">plata</developer_name>
   <developer_name xml:lang="nl">plata</developer_name>
   <developer_name xml:lang="pl">plata</developer_name>
@@ -59,6 +62,7 @@
     <p xml:lang="es">Kalm puede enseñarle distintas técnicas de respiración.</p>
     <p xml:lang="eu">«Kalm»ek arnas teknika ezberdinak erakutsi diezazkizuke</p>
     <p xml:lang="fr">Kalm peut vous enseigner différentes techniques de respiration.</p>
+    <p xml:lang="it">Kalm può insegnarti varie tecniche di respirazione.</p>
     <p xml:lang="ka">Kalm სხვადასხვა სუნთქვის ტექნიკას გასწავლით.</p>
     <p xml:lang="nl">Kalm kan u verschillende ademtechnieken leren.</p>
     <p xml:lang="pl">Kalm uczy różnych technik oddychania.</p>
