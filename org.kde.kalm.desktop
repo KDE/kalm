@@ -4,10 +4,13 @@
 [Desktop Entry]
 Name=Kalm
 Name[ca]=Kalm
+Name[ca@valencia]=Kalm
 Name[es]=Kalm
 Name[eu]=Kalm
 Name[nl]=Kalm
 Name[sl]=Kalm
+Name[sv]=Kalm
+Name[tr]=Kalm
 Name[uk]=Kalm
 Name[x-test]=xxKalmxx
 Comment=Breathing techniques
@@ -17,6 +20,7 @@ Comment[cs]=Dechové techniky
 Comment[es]=Técnicas de respiración
 Comment[eu]=Arnas teknikak
 Comment[fr]=Techniques de respiration
+Comment[it]=Tecniche di respirazione
 Comment[ka]=სუნთქვის ტექნიკა
 Comment[nl]=Ademtechnieken
 Comment[pl]=Techniki oddychania
