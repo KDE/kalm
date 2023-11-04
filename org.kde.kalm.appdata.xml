@@ -79,6 +79,7 @@
       <caption xml:lang="ca-valencia">General</caption>
       <caption xml:lang="es">General</caption>
       <caption xml:lang="eu">Orokorra</caption>
+      <caption xml:lang="fr">Général</caption>
       <caption xml:lang="nl">Algemeen</caption>
       <caption xml:lang="pl">Ogólne</caption>
       <caption xml:lang="sl">Splošno</caption>
@@ -94,6 +95,7 @@
       <caption xml:lang="ca-valencia">Informació</caption>
       <caption xml:lang="es">Información</caption>
       <caption xml:lang="eu">Informazioa</caption>
+      <caption xml:lang="fr">Informations</caption>
       <caption xml:lang="nl">Informatie</caption>
       <caption xml:lang="pl">Dane</caption>
       <caption xml:lang="sl">Informacije</caption>
@@ -109,6 +111,7 @@
       <caption xml:lang="ca-valencia">Menú</caption>
       <caption xml:lang="es">Menú</caption>
       <caption xml:lang="eu">Menua</caption>
+      <caption xml:lang="fr">Menu</caption>
       <caption xml:lang="nl">Menu openen</caption>
       <caption xml:lang="pl">Menu</caption>
       <caption xml:lang="sl">Meni</caption>
