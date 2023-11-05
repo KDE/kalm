@@ -19,7 +19,6 @@
   <name xml:lang="sv">Kalm</name>
   <name xml:lang="tr">Kalm</name>
   <name xml:lang="uk">Kalm</name>
-  <name xml:lang="x-test">xxKalmxx</name>
   <summary>Breathing techniques</summary>
   <summary xml:lang="ca">Tècniques de respiració</summary>
   <summary xml:lang="ca-valencia">Tècniques de respiració</summary>
@@ -34,7 +33,6 @@
   <summary xml:lang="sv">Andningstekniker</summary>
   <summary xml:lang="tr">Soluk alma teknikleri</summary>
   <summary xml:lang="uk">Методики дихання</summary>
-  <summary xml:lang="x-test">xxBreathing techniquesxx</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0-or-later</project_license>
   <url type="homepage">https://apps.kde.org/kalm</url>
@@ -54,7 +52,6 @@
   <developer_name xml:lang="sv">plata</developer_name>
   <developer_name xml:lang="tr">plata</developer_name>
   <developer_name xml:lang="uk">plata</developer_name>
-  <developer_name xml:lang="x-test">xxplataxx</developer_name>
   <description>
     <p>Kalm can teach you different breathing techniques.</p>
     <p xml:lang="ca">El Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
@@ -70,7 +67,6 @@
     <p xml:lang="sv">Kalm kan lära dig olika andningstekniker.</p>
     <p xml:lang="tr">Kalm, size değişik soluk alma tekniklerini öğretebilir.</p>
     <p xml:lang="uk">Kalm може навчити вас різним методикам дихання.</p>
-    <p xml:lang="x-test">xxKalm can teach you different breathing techniques.xx</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -86,7 +82,6 @@
       <caption xml:lang="sv">Allmänt</caption>
       <caption xml:lang="tr">Genel</caption>
       <caption xml:lang="uk">Загальне</caption>
-      <caption xml:lang="x-test">xxGeneralxx</caption>
       <image>https://cdn.kde.org/screenshots/kalm/general.png</image>
     </screenshot>
     <screenshot type="default">
@@ -102,7 +97,6 @@
       <caption xml:lang="sv">Information</caption>
       <caption xml:lang="tr">Bilgi</caption>
       <caption xml:lang="uk">Відомості</caption>
-      <caption xml:lang="x-test">xxInfoxx</caption>
       <image>https://cdn.kde.org/screenshots/kalm/info.png</image>
     </screenshot>
     <screenshot type="default">
@@ -118,7 +112,6 @@
       <caption xml:lang="sv">Meny</caption>
       <caption xml:lang="tr">Menü</caption>
       <caption xml:lang="uk">Меню</caption>
-      <caption xml:lang="x-test">xxMenuxx</caption>
       <image>https://cdn.kde.org/screenshots/kalm/menu.png</image>
     </screenshot>
   </screenshots>
