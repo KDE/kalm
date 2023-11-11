@@ -8,6 +8,7 @@
   <name>Kalm</name>
   <name xml:lang="ca">Kalm</name>
   <name xml:lang="ca-valencia">Kalm</name>
+  <name xml:lang="cs">Kalm</name>
   <name xml:lang="es">Kalm</name>
   <name xml:lang="eu">Kalm</name>
   <name xml:lang="fr">Kalm</name>
@@ -23,6 +24,7 @@
   <summary>Breathing techniques</summary>
   <summary xml:lang="ca">Tècniques de respiració</summary>
   <summary xml:lang="ca-valencia">Tècniques de respiració</summary>
+  <summary xml:lang="cs">Dechové techniky</summary>
   <summary xml:lang="es">Técnicas de respiración</summary>
   <summary xml:lang="eu">Arnas teknikak</summary>
   <summary xml:lang="fr">Techniques de respiration</summary>
@@ -77,9 +79,11 @@
       <caption>General</caption>
       <caption xml:lang="ca">General</caption>
       <caption xml:lang="ca-valencia">General</caption>
+      <caption xml:lang="cs">Obecné</caption>
       <caption xml:lang="es">General</caption>
       <caption xml:lang="eu">Orokorra</caption>
       <caption xml:lang="fr">Général</caption>
+      <caption xml:lang="it">Generale</caption>
       <caption xml:lang="nl">Algemeen</caption>
       <caption xml:lang="pl">Ogólne</caption>
       <caption xml:lang="sl">Splošno</caption>
@@ -93,9 +97,11 @@
       <caption>Info</caption>
       <caption xml:lang="ca">Informació</caption>
       <caption xml:lang="ca-valencia">Informació</caption>
+      <caption xml:lang="cs">Informace</caption>
       <caption xml:lang="es">Información</caption>
       <caption xml:lang="eu">Informazioa</caption>
       <caption xml:lang="fr">Informations</caption>
+      <caption xml:lang="it">Informazioni</caption>
       <caption xml:lang="nl">Informatie</caption>
       <caption xml:lang="pl">Dane</caption>
       <caption xml:lang="sl">Informacije</caption>
@@ -109,9 +115,11 @@
       <caption>Menu</caption>
       <caption xml:lang="ca">Menú</caption>
       <caption xml:lang="ca-valencia">Menú</caption>
+      <caption xml:lang="cs">Nabídka</caption>
       <caption xml:lang="es">Menú</caption>
       <caption xml:lang="eu">Menua</caption>
       <caption xml:lang="fr">Menu</caption>
+      <caption xml:lang="it">Menu</caption>
       <caption xml:lang="nl">Menu openen</caption>
       <caption xml:lang="pl">Menu</caption>
       <caption xml:lang="sl">Meni</caption>
