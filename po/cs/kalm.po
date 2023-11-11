@@ -1,36 +1,36 @@
 # Copyright (C) 2023 This file is copyright:
 # This file is distributed under the same license as the kalm package.
-# SPDX-FileCopyrightText: 2023 Paolo Zamponi <feus73@gmail.com>
+# SPDX-FileCopyrightText: 2023 Vit Pelcak <vit@pelcak.org>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:40+0000\n"
-"PO-Revision-Date: 2023-10-28 22:27+0200\n"
-"Last-Translator: Paolo Zamponi <feus73@gmail.com>\n"
-"Language-Team: Italian <kde-i18n-it@kde.org>\n"
-"Language: it\n"
+"PO-Revision-Date: 2023-10-31 16:22+0100\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Lokalize 23.08.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Paolo Zamponi"
+msgstr "Vít Pelčák"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "feus73@gmail.com"
+msgstr "vit@pelcak.org"
 
 #: main.cpp:52
 #, kde-format
 msgid "Breathing techniques"
-msgstr "Tecniche di respirazione"
+msgstr "Dechové techniky"
 
 #: main.cpp:55
 #, kde-format
@@ -40,7 +40,7 @@ msgstr "Kalm"
 #: main.cpp:59
 #, kde-format
 msgid "© 2023 KDE Community"
-msgstr "© 2023 Comunità KDE"
+msgstr "© 2023 Komunita KDE"
 
 #: qml/478BreathingPage.qml:10
 #, kde-format
@@ -53,20 +53,19 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
-"La respirazione 4-7-8 mette il corpo in uno stato di rilassamento profondo, "
-"ad esempio per addormentarsi meglio su un volo                    "
-"<br>                    <ul>                    <li>Respira attraverso il "
-"naso (4s).</li>                    <li>Trattieni (7s).</"
-"li>                    <li>Espira attraverso la bocca emettendo un suono di "
-"un sibilo (8s).</li>                    </ul>                    "
-"<br>                    Ripeti per almeno quattro volte."
+"Dýchání 4-7-8 uvede tělo do stavu hlubokého uvolnění např. pro snadnější "
+"usínání během letu.                    <br>                    "
+"<ul>                    <li>Nadechněte se nosem (4s).</"
+"li>                    <li>Zadržte dech (7s).</li>                    "
+"<li>Vydechněte fouknutím ústy (8s).</li>                    </"
+"ul>                    <br>                    Opakujte aspoň 4 krát."
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
 #: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
 #: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
 #, kde-format
 msgid "in"
-msgstr "dentro"
+msgstr "nádech"
 
 #: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
 #: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
@@ -74,14 +73,14 @@ msgstr "dentro"
 #: qml/NadiShodhanaPage.qml:85
 #, kde-format
 msgid "hold"
-msgstr "Trattieni"
+msgstr "zadržet"
 
 #: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
 #: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
 #: qml/ResonantBreathingPage.qml:49
 #, kde-format
 msgid "out"
-msgstr "fuori"
+msgstr "výdech"
 
 #: qml/BoxBreathingPage.qml:10
 #, kde-format
@@ -94,13 +93,6 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
-"La respirazione in scatola è usata dai Navy SEAL per ridurre in maniera "
-"veloce ed efficace lo stress.                    <br>                    "
-"<ul>                    <li>Respira attraverso il naso (4s).</"
-"li>                    <li>Trattieni (4s).</li>                    "
-"<li>Espira attraverso il naso (4s).</li>                    <li>Trattieni "
-"(4s).</li>                    </ul>                    "
-"<br>                    Ripeti per almeno 5-10 minuti."
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
@@ -113,13 +105,6 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"Una variante della respirazione in scatola con una lunga espirazione aiuta "
-"il rilassamento prima di andare a letto                   "
-"<br>                    <ul>                    <li>Respira attraverso il "
-"naso (4s).</li>                    <li>Trattieni (4s).</"
-"li>                    <li>Espira attraverso il naso (6s).</"
-"li>                    <li>Trattieni (2s).</li>                    </"
-"ul>                    <br>                    Ripeti per almeno 6 volte."
 
 #: qml/CoordinatedBreathingPage.qml:10
 #, kde-format
@@ -139,48 +124,48 @@ msgstr ""
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr "Respirazione 4-7-8"
+msgstr "Dýcháíní 4-7-8"
 
 #: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr "Respirazione combinata"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr "Respirazione in scatola"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr "Respirazione in scatola (dormi)"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr "Respiro coerente"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
-msgstr "Nadi Shodhana"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr "Respirazione yogica"
+msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:9
 #, kde-format
 msgid "Settings"
-msgstr "Impostazioni"
+msgstr "Nastavení"
 
 #: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
 #, kde-format
 msgid "About"
-msgstr "Informazioni su"
+msgstr "O aplikaci"
 
 #: qml/NadiShodhanaPage.qml:10
 #, kde-format
@@ -201,22 +186,6 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
-"Nadi Shodhana (respirazione a narice alternata) riduce la pressione "
-"sanguigna e aiuta a mantenere la mente calma.                   "
-"<br>                    <ul>                    <li>Posiziona il pollice "
-"della mano destra sulla narice destra, l'indice e il dito medio tra le "
-"sopracciglia, e l'anulare sulla narice sinistra.</li>                    "
-"<li>Chiudi la narice destra con il pollice e respira attraverso la narice "
-"sinistra.</li>                    <li>Chiudi entrambe le narici con il "
-"pollice e l'anulare. Trattieni.</li>                    <li>Solleva il "
-"pollice ed espira attraverso la narice destra.</li>                    "
-"<li>Chiudi entrambe le narici con il pollice e l'anulare. Trattieni.</"
-"li>                    <li>Solleva il pollice e respira attraverso la narice "
-"destra.</li>                    <li>Chiudi entrambe le narici con il pollice "
-"e l'anulare. Trattieni.</li>                    <li>Chiudi la narice destra "
-"con il pollice ed espira attraverso la narice sinistra.</"
-"li>                    </ul>                    <br>                    "
-"Ripeti 5-10 volte."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
@@ -229,28 +198,21 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
-"Il respiro coerente rilassa il corpo accoppiando la frequenza cardiaca, la "
-"pressione sanguigna e la respirazione.                    "
-"<br>                    <ul>                    <li>Siediti e rilassati.</"
-"li>                    <li>Inspira (5.5s). Espandi la pancia mentre l'aria "
-"riempie i polmoni.</li>                    <li>Espira (5.5s). Contrai la "
-"pancia mentre i polmoni si svuotano.</li>                    </"
-"ul>                    <br>                    Ripeti almeno 10 volte."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
 msgid "General"
-msgstr "Generale"
+msgstr "Obecné"
 
 #: qml/SettingsPage.qml:18
 #, kde-format
 msgid "Show info button"
-msgstr "Mostra il pulsante delle informazioni"
+msgstr ""
 
 #: qml/SettingsPage.qml:33
 #, kde-format
 msgid "Breathe out duration"
-msgstr "Durata espirazione"
+msgstr ""
 
 #: qml/SettingsPage.qml:44
 #, kde-format
@@ -286,8 +248,8 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
-"dentro\n"
-"(pancia)"
+"nádech\n"
+"(břicho)"
 
 #: qml/YogicBreathingPage.qml:58
 #, kde-format
@@ -295,6 +257,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
+"nádech\n"
+"(střed těla)"
 
 #: qml/YogicBreathingPage.qml:69
 #, kde-format
@@ -302,8 +266,8 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
-"dentro\n"
-"(parte superiore del petto)"
+"nádech\n"
+"(hrudník)"
 
 #: qml/YogicBreathingPage.qml:84
 #, kde-format
@@ -311,8 +275,8 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
-"dentro\n"
-"(parte superiore del petto)"
+"výdech\n"
+"(hrudník)"
 
 #: qml/YogicBreathingPage.qml:95
 #, kde-format
@@ -320,6 +284,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
+"výdech\n"
+"(střed těla)"
 
 #: qml/YogicBreathingPage.qml:106
 #, kde-format
@@ -327,5 +293,5 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
-"fuori\n"
-"(pancia)"
+"výdech\n"
+"(břicho)"
