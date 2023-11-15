@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:40+0000\n"
-"PO-Revision-Date: 2023-10-28 22:27+0200\n"
+"PO-Revision-Date: 2023-11-10 15:41+0100\n"
 "Last-Translator: Paolo Zamponi <feus73@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -135,6 +135,17 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
+"La respirazione combinata migliora l'efficienza del tuo respiro amplificando "
+"i movimenti del diaframma.                    È usata spesso nello sport o "
+"nel canto.                    <br>                    "
+"<ul>                    <li>Siediti in posizione verticale, con il mento a "
+"formare un angolo di 90 ° rispetto al corpo.</li>                    "
+"<li>Respira delicatamente dal naso.</li>                    <li>Continua a "
+"respirare, contando silenziosamente fino a 10.</li>                    "
+"<li>Quando hai finito di respirare continua a contare, ma sussurra. Lascia "
+"che la tua voce si affievolisca fino a quando i polmoni sono completamente "
+"vuoti.</li>                    </ul>                    "
+"<br>                    Ripeti almeno 10-30 volte."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
@@ -295,6 +306,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
+"dentro\n"
+"(medio torso)"
 
 #: qml/YogicBreathingPage.qml:69
 #, kde-format
@@ -320,6 +333,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
+"fuori\n"
+"(medio torso)"
 
 #: qml/YogicBreathingPage.qml:106
 #, kde-format
