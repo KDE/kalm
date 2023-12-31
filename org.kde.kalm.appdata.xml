@@ -88,6 +88,7 @@
       <caption xml:lang="eu">Orokorra</caption>
       <caption xml:lang="fr">Général</caption>
       <caption xml:lang="it">Generale</caption>
+      <caption xml:lang="ka">ზოგადი</caption>
       <caption xml:lang="nl">Algemeen</caption>
       <caption xml:lang="pl">Ogólne</caption>
       <caption xml:lang="sk">Všeobecné</caption>
@@ -107,6 +108,7 @@
       <caption xml:lang="eu">Informazioa</caption>
       <caption xml:lang="fr">Informations</caption>
       <caption xml:lang="it">Informazioni</caption>
+      <caption xml:lang="ka">ინფორმაცია</caption>
       <caption xml:lang="nl">Informatie</caption>
       <caption xml:lang="pl">Dane</caption>
       <caption xml:lang="sk">Informácie</caption>
@@ -126,6 +128,7 @@
       <caption xml:lang="eu">Menua</caption>
       <caption xml:lang="fr">Menu</caption>
       <caption xml:lang="it">Menu</caption>
+      <caption xml:lang="ka">მენიუ</caption>
       <caption xml:lang="nl">Menu openen</caption>
       <caption xml:lang="pl">Menu</caption>
       <caption xml:lang="sk">Ponuka</caption>
