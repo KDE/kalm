@@ -14,6 +14,7 @@
   <name xml:lang="fr">Kalm</name>
   <name xml:lang="it">Kalm</name>
   <name xml:lang="ka">Kalm</name>
+  <name xml:lang="ko">Kalm</name>
   <name xml:lang="nl">Kalm</name>
   <name xml:lang="pl">Kalm</name>
   <name xml:lang="sk">Kalm</name>
@@ -31,6 +32,7 @@
   <summary xml:lang="fr">Techniques de respiration</summary>
   <summary xml:lang="it">Tecniche di respirazione</summary>
   <summary xml:lang="ka">სუნთქვის ტექნიკა</summary>
+  <summary xml:lang="ko">호흡 테크닉</summary>
   <summary xml:lang="nl">Ademtechnieken</summary>
   <summary xml:lang="pl">Techniki oddychania</summary>
   <summary xml:lang="sk">Dýchacie techniky</summary>
@@ -52,6 +54,7 @@
   <developer_name xml:lang="fr">plata</developer_name>
   <developer_name xml:lang="it">plata</developer_name>
   <developer_name xml:lang="ka">plata</developer_name>
+  <developer_name xml:lang="ko">plata</developer_name>
   <developer_name xml:lang="nl">plata</developer_name>
   <developer_name xml:lang="pl">plata</developer_name>
   <developer_name xml:lang="sk">plata</developer_name>
@@ -69,6 +72,7 @@
     <p xml:lang="fr">Kalm peut vous enseigner différentes techniques de respiration.</p>
     <p xml:lang="it">Kalm può insegnarti varie tecniche di respirazione.</p>
     <p xml:lang="ka">Kalm სხვადასხვა სუნთქვის ტექნიკას გასწავლით.</p>
+    <p xml:lang="ko">Kalm을 사용하여 호흡 테크닉을 훈련할 수 있습니다.</p>
     <p xml:lang="nl">Kalm kan u verschillende ademtechnieken leren.</p>
     <p xml:lang="pl">Kalm uczy różnych technik oddychania.</p>
     <p xml:lang="sk">Kalm vám naučí rôzne dýchacie techniky.</p>
@@ -89,6 +93,7 @@
       <caption xml:lang="fr">Général</caption>
       <caption xml:lang="it">Generale</caption>
       <caption xml:lang="ka">ზოგადი</caption>
+      <caption xml:lang="ko">일반</caption>
       <caption xml:lang="nl">Algemeen</caption>
       <caption xml:lang="pl">Ogólne</caption>
       <caption xml:lang="sk">Všeobecné</caption>
@@ -109,6 +114,7 @@
       <caption xml:lang="fr">Informations</caption>
       <caption xml:lang="it">Informazioni</caption>
       <caption xml:lang="ka">ინფორმაცია</caption>
+      <caption xml:lang="ko">정보</caption>
       <caption xml:lang="nl">Informatie</caption>
       <caption xml:lang="pl">Dane</caption>
       <caption xml:lang="sk">Informácie</caption>
@@ -129,6 +135,7 @@
       <caption xml:lang="fr">Menu</caption>
       <caption xml:lang="it">Menu</caption>
       <caption xml:lang="ka">მენიუ</caption>
+      <caption xml:lang="ko">메뉴</caption>
       <caption xml:lang="nl">Menu openen</caption>
       <caption xml:lang="pl">Menu</caption>
       <caption xml:lang="sk">Ponuka</caption>
