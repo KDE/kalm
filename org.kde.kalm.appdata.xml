@@ -49,6 +49,7 @@
   <developer_name>plata</developer_name>
   <developer_name xml:lang="ca">plata</developer_name>
   <developer_name xml:lang="ca-valencia">plata</developer_name>
+  <developer_name xml:lang="eo">plata</developer_name>
   <developer_name xml:lang="es">plata</developer_name>
   <developer_name xml:lang="eu">plata</developer_name>
   <developer_name xml:lang="fr">plata</developer_name>
@@ -88,6 +89,7 @@
       <caption xml:lang="ca">General</caption>
       <caption xml:lang="ca-valencia">General</caption>
       <caption xml:lang="cs">Obecné</caption>
+      <caption xml:lang="eo">Ĝenerala</caption>
       <caption xml:lang="es">General</caption>
       <caption xml:lang="eu">Orokorra</caption>
       <caption xml:lang="fr">Général</caption>
@@ -109,6 +111,7 @@
       <caption xml:lang="ca">Informació</caption>
       <caption xml:lang="ca-valencia">Informació</caption>
       <caption xml:lang="cs">Informace</caption>
+      <caption xml:lang="eo">Informo</caption>
       <caption xml:lang="es">Información</caption>
       <caption xml:lang="eu">Informazioa</caption>
       <caption xml:lang="fr">Informations</caption>
@@ -130,6 +133,7 @@
       <caption xml:lang="ca">Menú</caption>
       <caption xml:lang="ca-valencia">Menú</caption>
       <caption xml:lang="cs">Nabídka</caption>
+      <caption xml:lang="eo">Menuo</caption>
       <caption xml:lang="es">Menú</caption>
       <caption xml:lang="eu">Menua</caption>
       <caption xml:lang="fr">Menu</caption>
