@@ -48,25 +48,7 @@
   <url type="homepage">https://apps.kde.org/kalm</url>
   <url type="donation">https://kde.org/community/donations</url>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Kalm</url>
-  <developer_name>plata</developer_name>
-  <developer_name xml:lang="ca">plata</developer_name>
-  <developer_name xml:lang="ca-valencia">plata</developer_name>
-  <developer_name xml:lang="eo">plata</developer_name>
-  <developer_name xml:lang="es">plata</developer_name>
-  <developer_name xml:lang="eu">plata</developer_name>
-  <developer_name xml:lang="fr">plata</developer_name>
-  <developer_name xml:lang="it">plata</developer_name>
-  <developer_name xml:lang="ka">plata</developer_name>
-  <developer_name xml:lang="ko">plata</developer_name>
-  <developer_name xml:lang="nl">plata</developer_name>
-  <developer_name xml:lang="pl">plata</developer_name>
-  <developer_name xml:lang="sk">plata</developer_name>
-  <developer_name xml:lang="sl">plata</developer_name>
-  <developer_name xml:lang="sv">plata</developer_name>
-  <developer_name xml:lang="tr">plata</developer_name>
-  <developer_name xml:lang="uk">plata</developer_name>
-  <developer_name xml:lang="x-test">xxplataxx</developer_name>
-  <developer_name xml:lang="zh-TW">plata</developer_name>
+  <developer_name translate="no">KDE</developer_name>
   <description>
     <p>Kalm can teach you different breathing techniques.</p>
     <p xml:lang="ca">El Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
