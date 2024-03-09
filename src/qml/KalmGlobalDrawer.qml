@@ -10,7 +10,7 @@ Kirigami.GlobalDrawer {
     actions: [
         Kirigami.Action {
             text: i18n("4-7-8 Breathing")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -19,7 +19,7 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Coordinated Breathing")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -28,7 +28,7 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Box Breathing")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -37,7 +37,7 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Box Breathing (sleep)")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -46,7 +46,7 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Resonant Breathing")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -55,7 +55,7 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Nadi Shodhana")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -64,7 +64,7 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Yogic Breathing")
-            iconName: "media-playback-start-symbolic"
+            icon.name: "media-playback-start-symbolic"
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
@@ -73,13 +73,13 @@ Kirigami.GlobalDrawer {
         },
         Kirigami.Action {
             text: i18n("Settings")
-            iconName: "settings-configure"
+            icon.name: "settings-configure"
             onTriggered: pageStack.layers.push("qrc:/SettingsPage.qml")
             enabled: pageStack.layers.currentItem.title !== i18n("Settings")
         },
         Kirigami.Action {
             text: i18n("About")
-            iconName: "help-about-symbolic"
+            icon.name: "help-about-symbolic"
             onTriggered: pageStack.layers.push(aboutPage)
             enabled: pageStack.layers.currentItem.title !== i18n("About")
         }
