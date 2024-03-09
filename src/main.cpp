@@ -57,7 +57,7 @@ int main(int argc, char *argv[])
                      applicationDescription,
                      KAboutLicense::LGPL_V2_1,
                      i18n("© 2023 KDE Community"));
-    about.addAuthor("Plata Hill", QString(), QStringLiteral("plata.hill@kdemail.net"));
+    about.addAuthor(QStringLiteral("Plata Hill"), QString(), QStringLiteral("plata.hill@kdemail.net"));
     KAboutData::setApplicationData(about);
 
     QGuiApplication::setWindowIcon(QIcon::fromTheme(QStringLiteral("org.kde.kalm")));
