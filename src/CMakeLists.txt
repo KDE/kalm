@@ -5,7 +5,24 @@ configure_file(${CMAKE_CURRENT_SOURCE_DIR}/config-kalm.h.cmake ${CMAKE_CURRENT_B
 
 add_executable(kalm
     main.cpp
-    resources.qrc
+)
+
+qt_add_qml_module(kalm URI org.kde.kalm
+    NO_RESOURCE_TARGET_PATH
+    QML_FILES
+        qml/main.qml
+        qml/478BreathingPage.qml
+        qml/CoordinatedBreathingPage.qml
+        qml/BoxBreathingPage.qml
+        qml/BoxBreathingSleepPage.qml
+        qml/BreathingGradient.qml
+        qml/BreathingPage.qml
+        qml/FadeBehavior.qml
+        qml/ResonantBreathingPage.qml
+        qml/NadiShodhanaPage.qml
+        qml/SettingsPage.qml
+        qml/KalmGlobalDrawer.qml
+        qml/YogicBreathingPage.qml
 )
 
 kconfig_add_kcfg_files(kalm KalmSettings.kcfgc GENERATE_MOC)

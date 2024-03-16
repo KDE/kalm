@@ -14,7 +14,7 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/478BreathingPage.qml");
+                pageStack.push("qrc:/qml/478BreathingPage.qml");
             }
         },
         Kirigami.Action {
@@ -23,7 +23,7 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/CoordinatedBreathingPage.qml");
+                pageStack.push("qrc:/qml/CoordinatedBreathingPage.qml");
             }
         },
         Kirigami.Action {
@@ -32,7 +32,7 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/BoxBreathingPage.qml");
+                pageStack.push("qrc:/qml/BoxBreathingPage.qml");
             }
         },
         Kirigami.Action {
@@ -41,7 +41,7 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/BoxBreathingSleepPage.qml");
+                pageStack.push("qrc:/qml/BoxBreathingSleepPage.qml");
             }
         },
         Kirigami.Action {
@@ -50,7 +50,7 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/ResonantBreathingPage.qml");
+                pageStack.push("qrc:/qml/ResonantBreathingPage.qml");
             }
         },
         Kirigami.Action {
@@ -59,7 +59,7 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/NadiShodhanaPage.qml");
+                pageStack.push("qrc:/qml/NadiShodhanaPage.qml");
             }
         },
         Kirigami.Action {
@@ -68,13 +68,13 @@ Kirigami.GlobalDrawer {
             onTriggered: {
                 pageStack.layers.clear();
                 pageStack.clear();
-                pageStack.push("qrc:/YogicBreathingPage.qml");
+                pageStack.push("qrc:/qml/YogicBreathingPage.qml");
             }
         },
         Kirigami.Action {
             text: i18n("Settings")
             icon.name: "settings-configure"
-            onTriggered: pageStack.layers.push("qrc:/SettingsPage.qml")
+            onTriggered: pageStack.layers.push("qrc:/qml/SettingsPage.qml")
             enabled: pageStack.layers.currentItem.title !== i18n("Settings")
         },
         Kirigami.Action {
