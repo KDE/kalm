@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:40+0000\n"
-"PO-Revision-Date: 2024-02-26 21:30+0100\n"
+"PO-Revision-Date: 2024-03-24 10:34+0100\n"
 "Last-Translator: Oliver Kellogg <okellogg@users.sourceforge.net>\n"
 "Language-Team: Esperanto <kde-i18n-eo.org>\n"
 "Language: eo\n"
@@ -31,12 +31,12 @@ msgstr ""
 #: main.cpp:52
 #, kde-format
 msgid "Breathing techniques"
-msgstr ""
+msgstr "Teknikoj de spirado"
 
 #: main.cpp:55
 #, kde-format
 msgid "Kalm"
-msgstr ""
+msgstr "Kalm"
 
 #: main.cpp:59
 #, kde-format
@@ -119,37 +119,37 @@ msgstr ""
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr ""
+msgstr "4-7-8 Spirado"
 
 #: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr ""
+msgstr "Kunordigita Spirado"
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr ""
+msgstr "Skatolo Spirado"
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr ""
+msgstr "Skatolo-Spirado (dormo)"
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr ""
+msgstr "Resonanca Spirado"
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
-msgstr ""
+msgstr "Nadi Shodhana"
 
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr ""
+msgstr "Joga Spirado"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:9
@@ -202,12 +202,12 @@ msgstr "Ĝenerala"
 #: qml/SettingsPage.qml:18
 #, kde-format
 msgid "Show info button"
-msgstr ""
+msgstr "Montri info butonon"
 
 #: qml/SettingsPage.qml:33
 #, kde-format
 msgid "Breathe out duration"
-msgstr ""
+msgstr "Elspira daŭro"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
