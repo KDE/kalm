@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:40+0000\n"
-"PO-Revision-Date: 2024-03-24 10:34+0100\n"
+"PO-Revision-Date: 2024-03-27 09:18+0100\n"
 "Last-Translator: Oliver Kellogg <okellogg@users.sourceforge.net>\n"
 "Language-Team: Esperanto <kde-i18n-eo.org>\n"
 "Language: eo\n"
@@ -21,12 +21,12 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "Oliver Kellogg"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "okellogg@users.sourceforge.net"
 
 #: main.cpp:52
 #, kde-format
@@ -243,6 +243,8 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
+"en\n"
+"(ventro)"
 
 #: qml/YogicBreathingPage.qml:58
 #, kde-format
@@ -250,6 +252,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
+"en\n"
+"(mez-torso)"
 
 #: qml/YogicBreathingPage.qml:69
 #, kde-format
@@ -257,6 +261,8 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
+"en\n"
+"(supra brusto)"
 
 #: qml/YogicBreathingPage.qml:84
 #, kde-format
@@ -264,6 +270,8 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
+"el\n"
+"(supra brusto)"
 
 #: qml/YogicBreathingPage.qml:95
 #, kde-format
@@ -271,6 +279,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
+"el\n"
+"(mez-torso)"
 
 #: qml/YogicBreathingPage.qml:106
 #, kde-format
@@ -278,3 +288,5 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
+"el\n"
+"(ventro)"
