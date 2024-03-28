@@ -6,6 +6,7 @@
 <component type="desktop-application">
   <id>org.kde.kalm</id>
   <name>Kalm</name>
+  <name xml:lang="ast">Kalm</name>
   <name xml:lang="ca">Kalm</name>
   <name xml:lang="ca-valencia">Kalm</name>
   <name xml:lang="cs">Kalm</name>
@@ -122,6 +123,7 @@
     </screenshot>
     <screenshot type="default">
       <caption>Menu</caption>
+      <caption xml:lang="ast">Menú</caption>
       <caption xml:lang="ca">Menú</caption>
       <caption xml:lang="ca-valencia">Menú</caption>
       <caption xml:lang="cs">Nabídka</caption>
