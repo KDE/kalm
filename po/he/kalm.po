@@ -1,0 +1,309 @@
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the kalm package.
+#
+# SPDX-FileCopyrightText: 2024 Yaron Shahrabani <sh.yaron@gmail.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: kalm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2023-11-05 12:40+0000\n"
+"PO-Revision-Date: 2024-04-06 00:25+0300\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: צוות התרגום של KDE ישראל\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 23.08.5\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "צוות התרגום של KDE ישראל"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-l10n-he@kde.org"
+
+#: main.cpp:52
+#, kde-format
+msgid "Breathing techniques"
+msgstr "טכניקות נשימה"
+
+#: main.cpp:55
+#, kde-format
+msgid "Kalm"
+msgstr "Kalm"
+
+#: main.cpp:59
+#, kde-format
+msgid "© 2023 KDE Community"
+msgstr "© 2023 קהילת KDE"
+
+#: qml/478BreathingPage.qml:10
+#, kde-format
+msgid ""
+"4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
+"fall asleep on a flight.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (7s).</li>                    <li>Breathe "
+"out through your mouth making a whooshing sound (8s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 4 times."
+msgstr ""
+"נשימת 4-7-8 מעבירה את הגוף למצב רגיעה עמוק, כלומר, להקל על הירדמות "
+"בטיסה.                    <br>                    <ul>                    "
+"<li>לשאוף דרך האף (4 שנ׳).</li>                    <li>להחזיק (7 שנ׳).</"
+"li>                    <li>לנשוף החוצה דרך הפה תוך השמעת הקול ווש (8 שנ׳).</"
+"li>                    </ul>                    <br>                    "
+"לחזור לפחות 4 פעמים."
+
+#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#, kde-format
+msgid "in"
+msgstr "לשאוף"
+
+#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
+#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
+#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
+#: qml/NadiShodhanaPage.qml:85
+#, kde-format
+msgid "hold"
+msgstr "להחזיק"
+
+#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
+#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
+#: qml/ResonantBreathingPage.qml:49
+#, kde-format
+msgid "out"
+msgstr "לנשוף"
+
+#: qml/BoxBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
+"stress.                    <br>                    <ul>                    "
+"<li>Breathe in through your nose (4s).</li>                    <li>Hold (4s)."
+"</li>                    <li>Breathe out through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    </"
+"ul>                    <br>                    Repeat for at least 5-10 "
+"minutes."
+msgstr ""
+"נשימת קופסה משמשת נחתים אמריקאיים להפחית לחץ בצורה "
+"מהירהויעילה.                    <br>                    "
+"<ul>                    <li>לשאוף דרך האף (4 שנ׳).</li>                    "
+"<li>להחזיק (4 שנ׳).</li>                    <li>לנשוף דרך האף (4 שנ׳).</"
+"li>                    <li>להחזיק (4 שנ׳).</li>                    </"
+"ul>                    <br>                    לחזור למשך לפחות 5‏-10 דקות."
+
+#: qml/BoxBreathingSleepPage.qml:10
+#, kde-format
+msgid ""
+"A Box Breathing variant with a longer breathe-out phase helps to relax "
+"before going to sleep.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    <li>Breathe "
+"out through your nose (6s).</li>                    <li>Hold (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 6 times."
+msgstr ""
+"גרסה שמבוססת על נשימת קופסה אבל עם משך זמן ארוך יותר לנשיפה שמסייעת ברגיעה "
+"לפני השינה.                    <br>                    "
+"<ul>                    <li>לשאוף דרך האף (4 שנ׳).</li>                    "
+"<li>להחזיק (4 שנ׳).</li>                    <li>לנשוף דרך האף (6 שנ׳).</"
+"li>                    <li>להחזיק (2 שנ׳).</li>                    </"
+"ul>                    <br>                    לחזור לפחות 6 פעמים."
+
+#: qml/CoordinatedBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Coordinated Breathing improves the efficiency of your breathing by "
+"amplifying the movement of the diaphragm.                    It is often "
+"used in sports or singing.                    <br>                    "
+"<ul>                    <li>Sit upright with your chin in a 90° angle to "
+"your body.</li>                    <li>Breathe in gently through your nose.</"
+"li>                    <li>Breathe out while repeatedly, silently counting "
+"to 10.</li>                    <li>When finished breathing out, continue "
+"counting but whisper. Let your voice fade out until your lungs are "
+"completely empty.</li>                    </ul>                    "
+"<br>                    Repeat at least 10-30 times."
+msgstr ""
+
+#: qml/KalmGlobalDrawer.qml:12
+#, kde-format
+msgid "4-7-8 Breathing"
+msgstr "נשימת 4-7-8"
+
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#, kde-format
+msgid "Coordinated Breathing"
+msgstr "נשימה מתואמת"
+
+#: qml/KalmGlobalDrawer.qml:30
+#, kde-format
+msgid "Box Breathing"
+msgstr "נשימת קופסה"
+
+#: qml/KalmGlobalDrawer.qml:39
+#, kde-format
+msgid "Box Breathing (sleep)"
+msgstr "נשימת קופסה (לשינה)"
+
+#: qml/KalmGlobalDrawer.qml:48
+#, kde-format
+msgid "Resonant Breathing"
+msgstr ""
+
+#: qml/KalmGlobalDrawer.qml:57
+#, kde-format
+msgid "Nadi Shodhana"
+msgstr "נאדי שודהאנה"
+
+#: qml/KalmGlobalDrawer.qml:66
+#, kde-format
+msgid "Yogic Breathing"
+msgstr "נשימה יוגית"
+
+#: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
+#: qml/SettingsPage.qml:9
+#, kde-format
+msgid "Settings"
+msgstr "הגדרות"
+
+#: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
+#, kde-format
+msgid "About"
+msgstr "על אודות"
+
+#: qml/NadiShodhanaPage.qml:10
+#, kde-format
+msgid ""
+"Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
+"to keep a calm mind.                    <br>                    "
+"<ul>                    <li>Place the thumb of your right hand on your right "
+"nostril, your index and middle finger between your eyebrows and ring finger "
+"on the left nostril.</li>                    <li>Close your right nostril "
+"with your thumb and breathe in through your left nostril.</"
+"li>                    <li>Close both nostrils with your thumb and ring "
+"finger. Hold.</li>                    <li>Lift your thumb and breath out "
+"through the right nostril.</li>                    <li>Close both nostrils "
+"with your thumb and ring finger. Hold.</li>                    <li>Lift your "
+"thumb and breath in through your right nostril.</li>                    "
+"<li>Close both nostrils with your thumb and ring finger. Hold.</"
+"li>                    <li>Close your right nostril with your thumb and "
+"breathe out through your left nostril.</li>                    </"
+"ul>                    <br>                    Repeat 5-10 times."
+msgstr ""
+
+#: qml/ResonantBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
+"and respiration.                    <br>                    "
+"<ul>                    <li>Sit upright and relaxed.</li>                    "
+"<li>Breathe in (5.5s). Expand your belly as the air fills your lungs.</"
+"li>                    <li>Breathe out (5.5s). Contract your belly as your "
+"lungs are emptied.</li>                    </ul>                    "
+"<br>                    Repeat at least 10 times."
+msgstr ""
+
+#: qml/SettingsPage.qml:14
+#, kde-format
+msgid "General"
+msgstr "כללי"
+
+#: qml/SettingsPage.qml:18
+#, kde-format
+msgid "Show info button"
+msgstr "הצגת כפתור פרטים"
+
+#: qml/SettingsPage.qml:33
+#, kde-format
+msgid "Breathe out duration"
+msgstr "משך נשיפה"
+
+#: qml/SettingsPage.qml:44
+#, kde-format
+msgid "s"
+msgstr "שנ׳"
+
+#: qml/YogicBreathingPage.qml:10
+#, kde-format
+msgid ""
+"Yogic Breathing is a standard pranayama technique to revitalize the "
+"body.                    <br>                    <ul>                    "
+"<li>Place a hand on your navel. Breathe into your belly and feel the "
+"expansion.</li>                    <li>Move your hand up above your lower "
+"ribs. Breathe into your mid-torso and feel the expansion.</"
+"li>                    <li>Move your hand up to your upper chest. Breathe in "
+"and feel your collarbones lift slightly.</li>                    <li>Breathe "
+"out. Feel your collarbones sink.</li>                    <li>Move your hand "
+"down to your lower ribs. Breathe out and feel your mid-torso retreat.</"
+"li>                    <li>Move your hand down to your navel. Breathe out "
+"and feel your belly retreat.</li>                    </"
+"ul>                    <br>                    Repeat up to 15 "
+"minutes.                    <br>                    <br>                    "
+"The steps should form a single, fluent breath.                    "
+"<br>                    At the beginning, it might be helpful to practice "
+"the three stages (belly, mid-torso, upper chest) "
+"individually                    (i.e. breathe only into your belly, then "
+"breathe out again etc.)."
+msgstr ""
+
+#: qml/YogicBreathingPage.qml:47
+#, kde-format
+msgid ""
+"in\n"
+"(belly)"
+msgstr ""
+"לשאוף\n"
+"(בטן)"
+
+#: qml/YogicBreathingPage.qml:58
+#, kde-format
+msgid ""
+"in\n"
+"(mid-torso)"
+msgstr ""
+"לשאוף\n"
+"(מרכז גו)"
+
+#: qml/YogicBreathingPage.qml:69
+#, kde-format
+msgid ""
+"in\n"
+"(upper chest)"
+msgstr ""
+"לשאוף\n"
+"(חזה עליון)"
+
+#: qml/YogicBreathingPage.qml:84
+#, kde-format
+msgid ""
+"out\n"
+"(upper chest)"
+msgstr ""
+"לנשוף\n"
+"(חזה עליון)"
+
+#: qml/YogicBreathingPage.qml:95
+#, kde-format
+msgid ""
+"out\n"
+"(mid-torso)"
+msgstr ""
+"לנשוף\n"
+"(מרכז גו)"
+
+#: qml/YogicBreathingPage.qml:106
+#, kde-format
+msgid ""
+"out\n"
+"(belly)"
+msgstr ""
+"לנשוף\n"
+"(בטן)"
