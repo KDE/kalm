@@ -14,6 +14,7 @@
   <name xml:lang="es">Kalm</name>
   <name xml:lang="eu">Kalm</name>
   <name xml:lang="fr">Kalm</name>
+  <name xml:lang="he">Kalm</name>
   <name xml:lang="it">Kalm</name>
   <name xml:lang="ka">Kalm</name>
   <name xml:lang="ko">Kalm</name>
@@ -34,6 +35,7 @@
   <summary xml:lang="es">Técnicas de respiración</summary>
   <summary xml:lang="eu">Arnas teknikak</summary>
   <summary xml:lang="fr">Techniques de respiration</summary>
+  <summary xml:lang="he">טכניקות נשימה</summary>
   <summary xml:lang="it">Tecniche di respirazione</summary>
   <summary xml:lang="ka">სუნთქვის ტექნიკა</summary>
   <summary xml:lang="ko">호흡 테크닉</summary>
@@ -61,6 +63,7 @@
     <p xml:lang="es">Kalm puede enseñarle distintas técnicas de respiración.</p>
     <p xml:lang="eu">«Kalm»ek arnas teknika ezberdinak erakutsi diezazkizuke</p>
     <p xml:lang="fr">Kalm peut vous enseigner différentes techniques de respiration.</p>
+    <p xml:lang="he">Kalm יכול ללמד אותך מגוון טכניקות נשימה.</p>
     <p xml:lang="it">Kalm può insegnarti varie tecniche di respirazione.</p>
     <p xml:lang="ka">Kalm სხვადასხვა სუნთქვის ტექნიკას გასწავლით.</p>
     <p xml:lang="ko">Kalm을 사용하여 호흡 테크닉을 훈련할 수 있습니다.</p>
@@ -84,6 +87,7 @@
       <caption xml:lang="es">General</caption>
       <caption xml:lang="eu">Orokorra</caption>
       <caption xml:lang="fr">Général</caption>
+      <caption xml:lang="he">כללי</caption>
       <caption xml:lang="it">Generale</caption>
       <caption xml:lang="ka">ზოგადი</caption>
       <caption xml:lang="ko">일반</caption>
@@ -107,6 +111,7 @@
       <caption xml:lang="es">Información</caption>
       <caption xml:lang="eu">Informazioa</caption>
       <caption xml:lang="fr">Informations</caption>
+      <caption xml:lang="he">מידע</caption>
       <caption xml:lang="it">Informazioni</caption>
       <caption xml:lang="ka">ინფორმაცია</caption>
       <caption xml:lang="ko">정보</caption>
@@ -131,6 +136,7 @@
       <caption xml:lang="es">Menú</caption>
       <caption xml:lang="eu">Menua</caption>
       <caption xml:lang="fr">Menu</caption>
+      <caption xml:lang="he">תפריט</caption>
       <caption xml:lang="it">Menu</caption>
       <caption xml:lang="ka">მენიუ</caption>
       <caption xml:lang="ko">메뉴</caption>
