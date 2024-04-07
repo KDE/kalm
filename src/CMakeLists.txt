@@ -7,7 +7,7 @@ add_executable(kalm
     main.cpp
 )
 
-qt_add_qml_module(kalm URI org.kde.kalm
+ecm_add_qml_module(kalm URI org.kde.kalm
     NO_RESOURCE_TARGET_PATH
     QML_FILES
         qml/main.qml

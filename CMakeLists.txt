@@ -41,6 +41,8 @@ ecm_setup_version(${PROJECT_VERSION}
 ################# dependencies #################
 
 find_package(Qt${QT_MAJOR_VERSION} ${QT_MIN_VERSION} REQUIRED NO_MODULE COMPONENTS Core Quick Test Gui QuickControls2)
+qt_policy(SET QTP0001 NEW)
+
 find_package(KF${QT_MAJOR_VERSION} ${KF_MIN_VERSION} REQUIRED COMPONENTS CoreAddons Config I18n)
 
 if(ANDROID)
@@ -66,6 +68,8 @@ if (NOT ANDROID)
         TYPE RUNTIME
     )
 endif()
+
+include(ECMQmlModule)
 
 ################# compiler #################
 
