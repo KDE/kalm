@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-11-05 12:40+0000\n"
-"PO-Revision-Date: 2024-03-06 19:01+0900\n"
+"PO-Revision-Date: 2024-04-17 03:06+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
@@ -105,6 +105,9 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
+"一個盒式呼吸法的變種，呼出的階段較長，可以在睡前幫助放鬆。<br><ul><li>從您的"
+"鼻子吸入空氣（4 秒）。</li><li>Hold 住（4 秒）。</li><li>從鼻子呼出空氣（6 "
+"秒）。</li><li>Hold 住（2 秒）。</li></ul><br>重複至少 6 次。"
 
 #: qml/CoordinatedBreathingPage.qml:10
 #, kde-format
@@ -120,6 +123,11 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
+"合作呼吸法 (Coordinated Breathing) 藉由放大橫膈膜的動作來改善您呼吸的效率。它"
+"常在運動或唱歌場合使用。<br><ul><li>坐直，讓您的下巴與身體呈 90 度。</li><li>"
+"慢慢從鼻子吸入空氣。</li><li>呼出空氣，同時重複並安靜地數到 10。</li><li>完全"
+"呼出空氣時，繼續數數但以悄悄話的方式，以耳語數出來。讓您的聲音隨著肺部用完空"
+"氣漸漸變得無聲。</li></ul><br>重複至少 10 ~ 30 次。"
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
@@ -129,7 +137,7 @@ msgstr "4-7-8 呼吸法"
 #: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr ""
+msgstr "合作呼吸法"
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
@@ -144,17 +152,17 @@ msgstr "盒式呼吸法（睡眠）"
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr ""
+msgstr "共振呼吸法"
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
-msgstr ""
+msgstr "鼻孔交替呼吸法 (Nadi Shodhana)"
 
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr ""
+msgstr "瑜伽呼吸法"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:9
@@ -186,6 +194,13 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
+"鼻孔交替呼吸法 (Nadi Shodhana) 能夠降低血壓並幫助維持思緒沉著。<br><ul><li>將"
+"您的右手拇指置於右側鼻孔上，中指置於眉頭中間，並將無名指置於左側鼻孔上。</"
+"li><li>用拇指擋住右側鼻孔，並從左側鼻孔吸氣。</li><li>將兩側鼻孔用拇指和無名"
+"指擋住，並閉氣。</li><li>將拇指抬起，並從右側鼻孔呼出。</li><li>再次將兩側鼻"
+"孔用拇指和無名指擋住，然後閉氣。</li><li>將拇指抬起，並從右側鼻孔吸氣。</"
+"li><li>再將兩側鼻孔用拇指和無名指擋住，然後再閉氣。</li><li>將右側鼻孔用拇指"
+"擋住，並從左側鼻孔呼出。</li></ul><br>重複 5 到 10 次。"
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
@@ -198,6 +213,9 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
+"共振呼吸法讓心跳、血壓與呼吸同步來使身體放鬆。<br><ul><li>坐直並放鬆。</"
+"li><li>吸氣（5.5 秒）。讓您的腹部隨著空氣進入肺部而擴張。</li><li>呼出（5.5 "
+"秒）。讓您的腹部隨著空氣離開肺部而縮小。</li></ul><br>重複至少 10 次。"
 
 #: qml/SettingsPage.qml:14
 #, kde-format
@@ -241,6 +259,15 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
+"瑜伽呼吸法 (Yogic Breathing) 是為身體恢復活力的標準呼吸調息法。<br><ul><li>將"
+"一隻手放在您的肚臍上。將空氣吸入腹部並感受它的擴張。</li><li>將您的手移動到肋"
+"骨下部。將空氣吸入您的軀幹中部並感受它的擴張。</li><li>再將您的手移到胸部更上"
+"方。吸入空氣並感受您的鎖骨稍微提升。</li><li>呼出空氣。感受您的鎖骨下沉。</"
+"li><li>將您的手移動到肋骨下部。呼出空氣並感受您的軀幹後退。</li><li>再將您的"
+"手移動到肚臍上。呼出空氣並感受您的腹部後退。</li></ul><br>重複至多 15 分鐘。"
+"<br><br>各個步驟應該連續起來，使吸入與呼出皆是一次的，而不是分三段。<br>一開"
+"始三段（肚臍、軀幹、上胸）分開練習可能會比較容易（像是吸入腹部後就呼出等"
+"等）。"
 
 #: qml/YogicBreathingPage.qml:47
 #, kde-format
