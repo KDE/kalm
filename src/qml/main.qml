@@ -10,24 +10,13 @@ Kirigami.ApplicationWindow {
     title: "Kalm"
     pageStack.initialPage: boxBreathing
 
-    Component {
-        id: aboutPage
-
-        FormCard.AboutPage {
-            aboutData: _aboutData
-        }
-
-    }
-
     BoxBreathingPage {
         id: boxBreathing
     }
 
-    globalDrawer: KalmGlobalDrawer {
-    }
+    globalDrawer: KalmGlobalDrawer {}
 
     contextDrawer: Kirigami.ContextDrawer {
         id: contextDrawer
     }
-
 }
