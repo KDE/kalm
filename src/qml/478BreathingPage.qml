@@ -63,13 +63,10 @@ BreathingPage {
                 to: 0
                 duration: 8000
             }
-
         }
 
         gradient: BreathingGradient {
             id: gradient
         }
-
     }
-
 }

@@ -16,8 +16,7 @@ Behavior {
             easing.type: Easing.InQuad
         }
 
-        PropertyAction {
-        }
+        PropertyAction {}
 
         NumberAnimation {
             target: root.fadeTarget
@@ -25,7 +24,5 @@ Behavior {
             to: 1
             easing.type: Easing.OutQuad
         }
-
     }
-
 }

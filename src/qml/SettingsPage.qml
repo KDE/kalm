@@ -21,7 +21,6 @@ Kirigami.ScrollablePage {
                 checked: _settings.showInfoButton
                 onCheckedChanged: _settings.showInfoButton = checked
             }
-
         }
 
         Kirigami.Separator {
@@ -43,9 +42,6 @@ Kirigami.ScrollablePage {
             Controls.Label {
                 text: i18n("s")
             }
-
         }
-
     }
-
 }

@@ -37,9 +37,7 @@ Kirigami.Page {
         font.pixelSize: 80
         color: Kirigami.Theme.textColor
 
-        FadeBehavior on text {
-        }
-
+        FadeBehavior on text {}
     }
 
     Kirigami.OverlaySheet {
@@ -52,7 +50,5 @@ Kirigami.Page {
             color: Kirigami.Theme.textColor
             wrapMode: Text.WordWrap
         }
-
     }
-
 }

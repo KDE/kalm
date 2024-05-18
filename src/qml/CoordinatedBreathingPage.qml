@@ -32,7 +32,6 @@ BreathingPage {
             counter++;
             if (counter === _settings.breatheOutDuration)
                 stop();
-
         }
     }
 
@@ -82,15 +81,11 @@ BreathingPage {
                     to: 0
                     duration: _settings.breatheOutDuration * 1000
                 }
-
             }
-
         }
 
         gradient: BreathingGradient {
             id: gradient
         }
-
     }
-
 }

@@ -88,13 +88,10 @@ BreathingPage {
             PauseAnimation {
                 duration: 4000
             }
-
         }
 
         gradient: BreathingGradient {
             id: gradient
         }
-
     }
-
 }
