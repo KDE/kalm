@@ -7,7 +7,7 @@ import QtQuick.Layouts
 import org.kde.kirigami as Kirigami
 
 Kirigami.Page {
-    property alias infoText: overlayText.text
+    property alias infoText: dialog.subtitle
     property alias instructionText: instruction.text
 
     padding: 0
@@ -23,7 +23,7 @@ Kirigami.Page {
         topInset: 5
         bottomInset: 5
         z: 100
-        onClicked: overlay.open()
+        onClicked: dialog.open()
     }
 
     Text {
@@ -40,15 +40,10 @@ Kirigami.Page {
         FadeBehavior on text {}
     }
 
-    Kirigami.OverlaySheet {
-        id: overlay
+    Kirigami.PromptDialog {
+        id: dialog
 
-        Text {
-            id: overlayText
-
-            Layout.fillWidth: true
-            color: Kirigami.Theme.textColor
-            wrapMode: Text.WordWrap
-        }
+        title: i18nc("@title:dialog", "Information")
+        standardButtons: Controls.Dialog.Close
     }
 }
