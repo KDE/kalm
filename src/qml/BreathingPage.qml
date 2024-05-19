@@ -12,18 +12,10 @@ Kirigami.Page {
 
     padding: 0
 
-    Controls.RoundButton {
+    actions: Kirigami.Action {
         visible: _settings.showInfoButton
         icon.name: "help-about-symbolic"
-        flat: true
-        icon.height: 30
-        icon.width: 30
-        leftInset: 5
-        rightInset: 5
-        topInset: 5
-        bottomInset: 5
-        z: 100
-        onClicked: dialog.open()
+        onTriggered: dialog.open()
     }
 
     Text {
