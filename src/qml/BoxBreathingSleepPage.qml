@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "Box Breathing (sleep)")
     infoText: i18n("A Box Breathing variant with a longer breathe-out phase helps to relax before going to sleep.\
                     <br>\
                     <ul>\

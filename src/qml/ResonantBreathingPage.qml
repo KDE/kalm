@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "Resonant Breathing")
     infoText: i18n("Resonant Breathing relaxes the body by coupling heart rate, blood pressure and respiration.\
                     <br>\
                     <ul>\

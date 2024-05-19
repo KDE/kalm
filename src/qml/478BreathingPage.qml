@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "4-7-8 Breathing")
     infoText: i18n("4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better fall asleep on a flight.\
                     <br>\
                     <ul>\

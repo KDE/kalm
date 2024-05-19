@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "Nadi Shodhana")
     infoText: i18n("Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps to keep a calm mind.\
                     <br>\
                     <ul>\

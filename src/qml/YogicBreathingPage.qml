@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "Yogic Breathing")
     infoText: i18n("Yogic Breathing is a standard pranayama technique to revitalize the body.\
                     <br>\
                     <ul>\

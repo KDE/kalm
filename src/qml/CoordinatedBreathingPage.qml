@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "Coordinated Breathing")
     infoText: i18n("Coordinated Breathing improves the efficiency of your breathing by amplifying the movement of the diaphragm.\
                     It is often used in sports or singing.\
                     <br>\

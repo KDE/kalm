@@ -7,6 +7,7 @@ BreathingPage {
     id: page
 
     padding: 0
+    title: i18nc("@title", "Box Breathing")
     infoText: i18n("Box Breathing is used by the Navy SEALs to quickly and effectively reduce stress.\
                     <br>\
                     <ul>\
