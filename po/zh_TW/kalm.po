@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:40+0000\n"
+"POT-Creation-Date: 2024-05-19 00:40+0000\n"
 "PO-Revision-Date: 2024-04-17 03:06+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
@@ -58,7 +58,7 @@ msgstr ""
 "的空氣發出風聲（8 秒）。</li></ul><br>重複至少 4 次。"
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
-#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:56
 #: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
 #, kde-format
 msgid "in"
@@ -134,7 +134,7 @@ msgstr ""
 msgid "4-7-8 Breathing"
 msgstr "4-7-8 呼吸法"
 
-#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:28
 #, kde-format
 msgid "Coordinated Breathing"
 msgstr "合作呼吸法"
@@ -227,12 +227,12 @@ msgstr "一般"
 msgid "Show info button"
 msgstr "顯示資訊按鈕"
 
-#: qml/SettingsPage.qml:33
+#: qml/SettingsPage.qml:32
 #, kde-format
 msgid "Breathe out duration"
 msgstr "呼出時間"
 
-#: qml/SettingsPage.qml:44
+#: qml/SettingsPage.qml:43
 #, kde-format
 msgid "s"
 msgstr "秒"

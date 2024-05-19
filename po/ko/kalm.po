@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:40+0000\n"
+"POT-Creation-Date: 2024-05-19 00:40+0000\n"
 "PO-Revision-Date: 2024-02-10 00:31+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -55,7 +55,7 @@ msgid ""
 msgstr ""
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
-#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:56
 #: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
 #, kde-format
 msgid "in"
@@ -120,7 +120,7 @@ msgstr ""
 msgid "4-7-8 Breathing"
 msgstr ""
 
-#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:28
 #, kde-format
 msgid "Coordinated Breathing"
 msgstr ""
@@ -203,12 +203,12 @@ msgstr "일반"
 msgid "Show info button"
 msgstr "정보 단추 표시"
 
-#: qml/SettingsPage.qml:33
+#: qml/SettingsPage.qml:32
 #, kde-format
 msgid "Breathe out duration"
 msgstr "날숨 시간"
 
-#: qml/SettingsPage.qml:44
+#: qml/SettingsPage.qml:43
 #, kde-format
 msgid "s"
 msgstr "초"

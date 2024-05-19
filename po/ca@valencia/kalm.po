@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:40+0000\n"
+"POT-Creation-Date: 2024-05-19 00:40+0000\n"
 "PO-Revision-Date: 2024-01-28 19:35+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -64,7 +64,7 @@ msgstr ""
 "Repetiu almenys 4 vegades."
 
 #: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
-#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:57
+#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:56
 #: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
 #, kde-format
 msgid "in"
@@ -154,7 +154,7 @@ msgstr ""
 msgid "4-7-8 Breathing"
 msgstr "Respiració 4-7-8"
 
-#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:29
+#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:28
 #, kde-format
 msgid "Coordinated Breathing"
 msgstr "Respiració coordinada"
@@ -262,12 +262,12 @@ msgstr "General"
 msgid "Show info button"
 msgstr "Mostra el botó d'informació"
 
-#: qml/SettingsPage.qml:33
+#: qml/SettingsPage.qml:32
 #, kde-format
 msgid "Breathe out duration"
 msgstr "Duració de l'expiració"
 
-#: qml/SettingsPage.qml:44
+#: qml/SettingsPage.qml:43
 #, kde-format
 msgid "s"
 msgstr "s"
