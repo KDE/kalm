@@ -4,43 +4,41 @@
 import QtQuick.Controls as Controls
 import QtQuick.Layouts
 import org.kde.kirigami as Kirigami
+import org.kde.kirigamiaddons.formcard as FormCard
 
-Kirigami.ScrollablePage {
+FormCard.FormCardPage {
     title: i18n("Settings")
 
-    Kirigami.FormLayout {
-        Kirigami.Separator {
-            Kirigami.FormData.isSection: true
-            Kirigami.FormData.label: i18n("General")
+    FormCard.FormHeader {
+        title: i18nc("@title:group", "General")
+    }
+
+    FormCard.FormCard {
+        FormCard.FormCheckDelegate {
+            text: i18nc("@option:check", "Show info button")
+            checked: _settings.showInfoButton
+            onCheckedChanged: _settings.showInfoButton = checked
         }
+    }
 
-        RowLayout {
-            Kirigami.FormData.label: i18n("Show info button")
+    FormCard.FormHeader {
+        title: i18nc("@title:group", "Coordinated Breathing")
+    }
 
-            Controls.CheckBox {
-                checked: _settings.showInfoButton
-                onCheckedChanged: _settings.showInfoButton = checked
-            }
-        }
+    FormCard.FormCard {
+        FormCard.FormSpinBoxDelegate {
+            label: i18nc("@label:spinbox", "Breathe out duration:")
+            from: 0
+            to: 120
+            value: _settings.breatheOutDuration
+            onValueChanged: _settings.breatheOutDuration = value
 
-        Kirigami.Separator {
-            Kirigami.FormData.isSection: true
-            Kirigami.FormData.label: i18n("Coordinated Breathing")
-        }
-
-        RowLayout {
-            Kirigami.FormData.label: i18n("Breathe out duration")
-
-            Controls.SpinBox {
-                from: 0
-                to: 120
-                editable: true
-                value: _settings.breatheOutDuration
-                onValueModified: _settings.breatheOutDuration = value
+            textFromValue: (value, locale) => {
+                return i18nc("Number in seconds", "%1s", value);
             }
 
-            Controls.Label {
-                text: i18n("s")
+            valueFromText: (text, locale) => {
+                return text.substring(0, text.length - 1);
             }
         }
     }
