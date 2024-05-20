@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-19 00:40+0000\n"
+"POT-Creation-Date: 2024-05-20 00:41+0000\n"
 "PO-Revision-Date: 2024-03-26 12:54+0100\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <kde-i18n-doc@kde.org>\n"
@@ -44,6 +44,13 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE-ის საზოგადოება"
 
 #: qml/478BreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "4-7-8 Breathing"
+msgctxt "@title"
+msgid "4-7-8 Breathing"
+msgstr "4-7-8 სუნთქვა"
+
+#: qml/478BreathingPage.qml:11
 #, kde-format
 msgid ""
 "4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
@@ -61,29 +68,36 @@ msgstr ""
 "ხმის გამოცემით (8წმ).</li>                    </ul>                    "
 "<br>                    გაიმეორეთ სულ ცოტა ოთხჯერ."
 
-#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
-#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:56
-#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
+#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
 msgstr "შეისუნთქეთ"
 
-#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
-#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
-#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
-#: qml/NadiShodhanaPage.qml:85
+#: qml/478BreathingPage.qml:50 qml/BoxBreathingPage.qml:51
+#: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
+#: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
+#: qml/NadiShodhanaPage.qml:86
 #, kde-format
 msgid "hold"
 msgstr "შეიკავეთ"
 
-#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
-#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
-#: qml/ResonantBreathingPage.qml:49
+#: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
+#: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
+#: qml/ResonantBreathingPage.qml:50
 #, kde-format
 msgid "out"
 msgstr "ამოისუნთქეთ"
 
 #: qml/BoxBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Box Breathing"
+msgctxt "@title"
+msgid "Box Breathing"
+msgstr "ყუთში სუნთქვა"
+
+#: qml/BoxBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
@@ -103,6 +117,13 @@ msgstr ""
 "გაიმეორეთ, სულ ცოტა, 5-10 წუთის განმავლობაში."
 
 #: qml/BoxBreathingSleepPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Box Breathing (sleep)"
+msgctxt "@title"
+msgid "Box Breathing (sleep)"
+msgstr "ყუთში სუნთქვა (ძილი)"
+
+#: qml/BoxBreathingSleepPage.qml:11
 #, kde-format
 msgid ""
 "A Box Breathing variant with a longer breathe-out phase helps to relax "
@@ -121,7 +142,20 @@ msgstr ""
 "</li>                    </ul>                    <br>                    "
 "გაიმეორეთ სულ ცოტა ექვსჯერ."
 
+#: qml/BreathingPage.qml:38
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Information"
+msgstr ""
+
 #: qml/CoordinatedBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Coordinated Breathing"
+msgctxt "@title"
+msgid "Coordinated Breathing"
+msgstr "კოორდინირებული სუნთქვა"
+
+#: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Coordinated Breathing improves the efficiency of your breathing by "
@@ -151,7 +185,7 @@ msgstr ""
 msgid "4-7-8 Breathing"
 msgstr "4-7-8 სუნთქვა"
 
-#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:28
+#: qml/KalmGlobalDrawer.qml:21
 #, kde-format
 msgid "Coordinated Breathing"
 msgstr "კოორდინირებული სუნთქვა"
@@ -182,7 +216,7 @@ msgid "Yogic Breathing"
 msgstr "იოგის სუნთქვა"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
-#: qml/SettingsPage.qml:9
+#: qml/SettingsPage.qml:10
 #, kde-format
 msgid "Settings"
 msgstr "მორგება"
@@ -193,6 +227,13 @@ msgid "About"
 msgstr "პროგრამის შესახებ"
 
 #: qml/NadiShodhanaPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Nadi Shodhana"
+msgctxt "@title"
+msgid "Nadi Shodhana"
+msgstr "Nadi Shodhana"
+
+#: qml/NadiShodhanaPage.qml:11
 #, kde-format
 msgid ""
 "Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
@@ -228,6 +269,13 @@ msgstr ""
 "გაიმეორეთ 5-10ჯერ."
 
 #: qml/ResonantBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Resonant Breathing"
+msgctxt "@title"
+msgid "Resonant Breathing"
+msgstr "რეზონანსული ძილი"
+
+#: qml/ResonantBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
@@ -246,27 +294,48 @@ msgstr ""
 "შესწიეთ მუცელი ფილტვების დაცლასთან ერთად.</li>                    </"
 "ul>                    <br>                    გაიმეორეთ 10-ჯერ მაინც."
 
-#: qml/SettingsPage.qml:14
-#, kde-format
+#: qml/SettingsPage.qml:13
+#, fuzzy, kde-format
+#| msgid "General"
+msgctxt "@title:group"
 msgid "General"
 msgstr "ზოგადი"
 
 #: qml/SettingsPage.qml:18
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Show info button"
+msgctxt "@option:check"
 msgid "Show info button"
 msgstr "ინფორმაციის ღილაკის ჩვენება"
 
-#: qml/SettingsPage.qml:32
-#, kde-format
-msgid "Breathe out duration"
+#: qml/SettingsPage.qml:25
+#, fuzzy, kde-format
+#| msgid "Coordinated Breathing"
+msgctxt "@title:group"
+msgid "Coordinated Breathing"
+msgstr "კოორდინირებული სუნთქვა"
+
+#: qml/SettingsPage.qml:30
+#, fuzzy, kde-format
+#| msgid "Breathe out duration"
+msgctxt "@label:spinbox"
+msgid "Breathe out duration:"
 msgstr "ამოსუნთქვის ხანგრძლივობა"
 
-#: qml/SettingsPage.qml:43
+#: qml/SettingsPage.qml:37
 #, kde-format
-msgid "s"
-msgstr "წმ"
+msgctxt "Number in seconds"
+msgid "%1s"
+msgstr ""
 
 #: qml/YogicBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Yogic Breathing"
+msgctxt "@title"
+msgid "Yogic Breathing"
+msgstr "იოგის სუნთქვა"
+
+#: qml/YogicBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Yogic Breathing is a standard pranayama technique to revitalize the "
@@ -301,7 +370,7 @@ msgstr ""
 "(მუცელი, შუა ტორსი, გულმკერდის ზედა ნაწილი) ინდივიდუალურად (ანუ ჩაისუნთქეთ "
 "მხოლოდ მუცელში, შემდეგ კვლავ ამოისუნთქეთ და ა.შ.). (google translate)."
 
-#: qml/YogicBreathingPage.qml:47
+#: qml/YogicBreathingPage.qml:48
 #, kde-format
 msgid ""
 "in\n"
@@ -310,7 +379,7 @@ msgstr ""
 "შესუნთქვა\n"
 "(მუცელი)"
 
-#: qml/YogicBreathingPage.qml:58
+#: qml/YogicBreathingPage.qml:59
 #, kde-format
 msgid ""
 "in\n"
@@ -319,7 +388,7 @@ msgstr ""
 "შიგნით\n"
 "(შუა ტორსი)"
 
-#: qml/YogicBreathingPage.qml:69
+#: qml/YogicBreathingPage.qml:70
 #, kde-format
 msgid ""
 "in\n"
@@ -328,7 +397,7 @@ msgstr ""
 "შესუნთქვა\n"
 "(ზედა მკერდი)"
 
-#: qml/YogicBreathingPage.qml:84
+#: qml/YogicBreathingPage.qml:85
 #, kde-format
 msgid ""
 "out\n"
@@ -337,7 +406,7 @@ msgstr ""
 "ამოსუნთქვა\n"
 "(ზედა მკერდი)"
 
-#: qml/YogicBreathingPage.qml:95
+#: qml/YogicBreathingPage.qml:96
 #, kde-format
 msgid ""
 "out\n"
@@ -346,7 +415,7 @@ msgstr ""
 "გარეთ\n"
 "(შუა ტორსი)"
 
-#: qml/YogicBreathingPage.qml:106
+#: qml/YogicBreathingPage.qml:107
 #, kde-format
 msgid ""
 "out\n"
@@ -354,3 +423,6 @@ msgid ""
 msgstr ""
 "ამოსუნთქვა\n"
 "(მუცელი)"
+
+#~ msgid "s"
+#~ msgstr "წმ"

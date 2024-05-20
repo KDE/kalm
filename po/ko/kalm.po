@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-19 00:40+0000\n"
+"POT-Creation-Date: 2024-05-20 00:41+0000\n"
 "PO-Revision-Date: 2024-02-10 00:31+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -44,6 +44,12 @@ msgstr "© 2023 KDE Community"
 
 #: qml/478BreathingPage.qml:10
 #, kde-format
+msgctxt "@title"
+msgid "4-7-8 Breathing"
+msgstr ""
+
+#: qml/478BreathingPage.qml:11
+#, kde-format
 msgid ""
 "4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
 "fall asleep on a flight.                    <br>                    "
@@ -54,29 +60,35 @@ msgid ""
 "Repeat at least 4 times."
 msgstr ""
 
-#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
-#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:56
-#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
+#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
 msgstr "들숨"
 
-#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
-#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
-#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
-#: qml/NadiShodhanaPage.qml:85
+#: qml/478BreathingPage.qml:50 qml/BoxBreathingPage.qml:51
+#: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
+#: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
+#: qml/NadiShodhanaPage.qml:86
 #, kde-format
 msgid "hold"
 msgstr "참기"
 
-#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
-#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
-#: qml/ResonantBreathingPage.qml:49
+#: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
+#: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
+#: qml/ResonantBreathingPage.qml:50
 #, kde-format
 msgid "out"
 msgstr "날숨"
 
 #: qml/BoxBreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Box Breathing"
+msgstr ""
+
+#: qml/BoxBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
@@ -90,6 +102,12 @@ msgstr ""
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
+msgctxt "@title"
+msgid "Box Breathing (sleep)"
+msgstr ""
+
+#: qml/BoxBreathingSleepPage.qml:11
+#, kde-format
 msgid ""
 "A Box Breathing variant with a longer breathe-out phase helps to relax "
 "before going to sleep.                    <br>                    "
@@ -100,7 +118,19 @@ msgid ""
 "Repeat at least 6 times."
 msgstr ""
 
+#: qml/BreathingPage.qml:38
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Information"
+msgstr ""
+
 #: qml/CoordinatedBreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Coordinated Breathing"
+msgstr ""
+
+#: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Coordinated Breathing improves the efficiency of your breathing by "
@@ -120,7 +150,7 @@ msgstr ""
 msgid "4-7-8 Breathing"
 msgstr ""
 
-#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:28
+#: qml/KalmGlobalDrawer.qml:21
 #, kde-format
 msgid "Coordinated Breathing"
 msgstr ""
@@ -151,7 +181,7 @@ msgid "Yogic Breathing"
 msgstr ""
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
-#: qml/SettingsPage.qml:9
+#: qml/SettingsPage.qml:10
 #, kde-format
 msgid "Settings"
 msgstr "설정"
@@ -162,6 +192,12 @@ msgid "About"
 msgstr "정보"
 
 #: qml/NadiShodhanaPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Nadi Shodhana"
+msgstr ""
+
+#: qml/NadiShodhanaPage.qml:11
 #, kde-format
 msgid ""
 "Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
@@ -183,6 +219,12 @@ msgstr ""
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
+msgctxt "@title"
+msgid "Resonant Breathing"
+msgstr ""
+
+#: qml/ResonantBreathingPage.qml:11
+#, kde-format
 msgid ""
 "Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
 "and respiration.                    <br>                    "
@@ -193,27 +235,46 @@ msgid ""
 "<br>                    Repeat at least 10 times."
 msgstr ""
 
-#: qml/SettingsPage.qml:14
-#, kde-format
+#: qml/SettingsPage.qml:13
+#, fuzzy, kde-format
+#| msgid "General"
+msgctxt "@title:group"
 msgid "General"
 msgstr "일반"
 
 #: qml/SettingsPage.qml:18
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Show info button"
+msgctxt "@option:check"
 msgid "Show info button"
 msgstr "정보 단추 표시"
 
-#: qml/SettingsPage.qml:32
+#: qml/SettingsPage.qml:25
 #, kde-format
-msgid "Breathe out duration"
+msgctxt "@title:group"
+msgid "Coordinated Breathing"
+msgstr ""
+
+#: qml/SettingsPage.qml:30
+#, fuzzy, kde-format
+#| msgid "Breathe out duration"
+msgctxt "@label:spinbox"
+msgid "Breathe out duration:"
 msgstr "날숨 시간"
 
-#: qml/SettingsPage.qml:43
+#: qml/SettingsPage.qml:37
 #, kde-format
-msgid "s"
-msgstr "초"
+msgctxt "Number in seconds"
+msgid "%1s"
+msgstr ""
 
 #: qml/YogicBreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Yogic Breathing"
+msgstr ""
+
+#: qml/YogicBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Yogic Breathing is a standard pranayama technique to revitalize the "
@@ -236,7 +297,7 @@ msgid ""
 "breathe out again etc.)."
 msgstr ""
 
-#: qml/YogicBreathingPage.qml:47
+#: qml/YogicBreathingPage.qml:48
 #, kde-format
 msgid ""
 "in\n"
@@ -245,7 +306,7 @@ msgstr ""
 "들숨\n"
 "(복부)"
 
-#: qml/YogicBreathingPage.qml:58
+#: qml/YogicBreathingPage.qml:59
 #, kde-format
 msgid ""
 "in\n"
@@ -254,7 +315,7 @@ msgstr ""
 "들숨\n"
 "(몸통)"
 
-#: qml/YogicBreathingPage.qml:69
+#: qml/YogicBreathingPage.qml:70
 #, kde-format
 msgid ""
 "in\n"
@@ -263,7 +324,7 @@ msgstr ""
 "들숨\n"
 "(가슴)"
 
-#: qml/YogicBreathingPage.qml:84
+#: qml/YogicBreathingPage.qml:85
 #, kde-format
 msgid ""
 "out\n"
@@ -272,7 +333,7 @@ msgstr ""
 "날숨\n"
 "(가슴)"
 
-#: qml/YogicBreathingPage.qml:95
+#: qml/YogicBreathingPage.qml:96
 #, kde-format
 msgid ""
 "out\n"
@@ -281,7 +342,7 @@ msgstr ""
 "날숨\n"
 "(몸통)"
 
-#: qml/YogicBreathingPage.qml:106
+#: qml/YogicBreathingPage.qml:107
 #, kde-format
 msgid ""
 "out\n"
@@ -289,3 +350,6 @@ msgid ""
 msgstr ""
 "날숨\n"
 "(복부)"
+
+#~ msgid "s"
+#~ msgstr "초"

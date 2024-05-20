@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-19 00:40+0000\n"
+"POT-Creation-Date: 2024-05-20 00:41+0000\n"
 "PO-Revision-Date: 2024-04-23 22:21+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: צוות התרגום של KDE ישראל\n"
@@ -44,6 +44,13 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 קהילת KDE"
 
 #: qml/478BreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "4-7-8 Breathing"
+msgctxt "@title"
+msgid "4-7-8 Breathing"
+msgstr "נשימת 4-7-8"
+
+#: qml/478BreathingPage.qml:11
 #, kde-format
 msgid ""
 "4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
@@ -61,29 +68,36 @@ msgstr ""
 "li>                    </ul>                    <br>                    "
 "לחזור לפחות 4 פעמים."
 
-#: qml/478BreathingPage.qml:38 qml/BoxBreathingPage.qml:39
-#: qml/BoxBreathingSleepPage.qml:39 qml/CoordinatedBreathingPage.qml:56
-#: qml/NadiShodhanaPage.qml:48 qml/ResonantBreathingPage.qml:38
+#: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
+#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:57
+#: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
 msgstr "לשאוף"
 
-#: qml/478BreathingPage.qml:49 qml/BoxBreathingPage.qml:50
-#: qml/BoxBreathingPage.qml:69 qml/BoxBreathingSleepPage.qml:50
-#: qml/BoxBreathingSleepPage.qml:69 qml/NadiShodhanaPage.qml:59
-#: qml/NadiShodhanaPage.qml:85
+#: qml/478BreathingPage.qml:50 qml/BoxBreathingPage.qml:51
+#: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
+#: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
+#: qml/NadiShodhanaPage.qml:86
 #, kde-format
 msgid "hold"
 msgstr "להחזיק"
 
-#: qml/478BreathingPage.qml:57 qml/BoxBreathingPage.qml:58
-#: qml/BoxBreathingSleepPage.qml:58 qml/NadiShodhanaPage.qml:73
-#: qml/ResonantBreathingPage.qml:49
+#: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
+#: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
+#: qml/ResonantBreathingPage.qml:50
 #, kde-format
 msgid "out"
 msgstr "לנשוף"
 
 #: qml/BoxBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Box Breathing"
+msgctxt "@title"
+msgid "Box Breathing"
+msgstr "נשימת קופסה"
+
+#: qml/BoxBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
@@ -102,6 +116,13 @@ msgstr ""
 "ul>                    <br>                    לחזור למשך לפחות 5‏-10 דקות."
 
 #: qml/BoxBreathingSleepPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Box Breathing (sleep)"
+msgctxt "@title"
+msgid "Box Breathing (sleep)"
+msgstr "נשימת קופסה (לשינה)"
+
+#: qml/BoxBreathingSleepPage.qml:11
 #, kde-format
 msgid ""
 "A Box Breathing variant with a longer breathe-out phase helps to relax "
@@ -119,7 +140,20 @@ msgstr ""
 "li>                    <li>להחזיק (2 שנ׳).</li>                    </"
 "ul>                    <br>                    לחזור לפחות 6 פעמים."
 
+#: qml/BreathingPage.qml:38
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Information"
+msgstr ""
+
 #: qml/CoordinatedBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Coordinated Breathing"
+msgctxt "@title"
+msgid "Coordinated Breathing"
+msgstr "נשימה מתואמת"
+
+#: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Coordinated Breathing improves the efficiency of your breathing by "
@@ -148,7 +182,7 @@ msgstr ""
 msgid "4-7-8 Breathing"
 msgstr "נשימת 4-7-8"
 
-#: qml/KalmGlobalDrawer.qml:21 qml/SettingsPage.qml:28
+#: qml/KalmGlobalDrawer.qml:21
 #, kde-format
 msgid "Coordinated Breathing"
 msgstr "נשימה מתואמת"
@@ -179,7 +213,7 @@ msgid "Yogic Breathing"
 msgstr "נשימה יוגית"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
-#: qml/SettingsPage.qml:9
+#: qml/SettingsPage.qml:10
 #, kde-format
 msgid "Settings"
 msgstr "הגדרות"
@@ -190,6 +224,13 @@ msgid "About"
 msgstr "על אודות"
 
 #: qml/NadiShodhanaPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Nadi Shodhana"
+msgctxt "@title"
+msgid "Nadi Shodhana"
+msgstr "נאדי שודהאנה"
+
+#: qml/NadiShodhanaPage.qml:11
 #, kde-format
 msgid ""
 "Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
@@ -222,6 +263,13 @@ msgstr ""
 "ul>                    <br>                    לחזור בין 5 ל־10 פעמים."
 
 #: qml/ResonantBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Resonant Breathing"
+msgctxt "@title"
+msgid "Resonant Breathing"
+msgstr "נשימה מהדהדת"
+
+#: qml/ResonantBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
@@ -239,27 +287,48 @@ msgstr ""
 "(5.5 שניות). לכווץ את הבטן עם התרוקנות הריאות.</li>                    </"
 "ul>                    <br>                    לחזור לפחות 10 פעמים."
 
-#: qml/SettingsPage.qml:14
-#, kde-format
+#: qml/SettingsPage.qml:13
+#, fuzzy, kde-format
+#| msgid "General"
+msgctxt "@title:group"
 msgid "General"
 msgstr "כללי"
 
 #: qml/SettingsPage.qml:18
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Show info button"
+msgctxt "@option:check"
 msgid "Show info button"
 msgstr "הצגת כפתור פרטים"
 
-#: qml/SettingsPage.qml:32
-#, kde-format
-msgid "Breathe out duration"
+#: qml/SettingsPage.qml:25
+#, fuzzy, kde-format
+#| msgid "Coordinated Breathing"
+msgctxt "@title:group"
+msgid "Coordinated Breathing"
+msgstr "נשימה מתואמת"
+
+#: qml/SettingsPage.qml:30
+#, fuzzy, kde-format
+#| msgid "Breathe out duration"
+msgctxt "@label:spinbox"
+msgid "Breathe out duration:"
 msgstr "משך נשיפה"
 
-#: qml/SettingsPage.qml:43
+#: qml/SettingsPage.qml:37
 #, kde-format
-msgid "s"
-msgstr "שנ׳"
+msgctxt "Number in seconds"
+msgid "%1s"
+msgstr ""
 
 #: qml/YogicBreathingPage.qml:10
+#, fuzzy, kde-format
+#| msgid "Yogic Breathing"
+msgctxt "@title"
+msgid "Yogic Breathing"
+msgstr "נשימה יוגית"
+
+#: qml/YogicBreathingPage.qml:11
 #, kde-format
 msgid ""
 "Yogic Breathing is a standard pranayama technique to revitalize the "
@@ -297,7 +366,7 @@ msgstr ""
 "להיות שיהיה יעיל יותר לתרגל את שלושת השלבים (בטן, מרכז הטורסו, חזה עליון) "
 "באופן פרטני                    (כלומר, לשאוף רק לבטן, לנשוף שוב וכן הלאה)."
 
-#: qml/YogicBreathingPage.qml:47
+#: qml/YogicBreathingPage.qml:48
 #, kde-format
 msgid ""
 "in\n"
@@ -306,7 +375,7 @@ msgstr ""
 "לשאוף\n"
 "(בטן)"
 
-#: qml/YogicBreathingPage.qml:58
+#: qml/YogicBreathingPage.qml:59
 #, kde-format
 msgid ""
 "in\n"
@@ -315,7 +384,7 @@ msgstr ""
 "לשאוף\n"
 "(מרכז גו)"
 
-#: qml/YogicBreathingPage.qml:69
+#: qml/YogicBreathingPage.qml:70
 #, kde-format
 msgid ""
 "in\n"
@@ -324,7 +393,7 @@ msgstr ""
 "לשאוף\n"
 "(חזה עליון)"
 
-#: qml/YogicBreathingPage.qml:84
+#: qml/YogicBreathingPage.qml:85
 #, kde-format
 msgid ""
 "out\n"
@@ -333,7 +402,7 @@ msgstr ""
 "לנשוף\n"
 "(חזה עליון)"
 
-#: qml/YogicBreathingPage.qml:95
+#: qml/YogicBreathingPage.qml:96
 #, kde-format
 msgid ""
 "out\n"
@@ -342,7 +411,7 @@ msgstr ""
 "לנשוף\n"
 "(מרכז גו)"
 
-#: qml/YogicBreathingPage.qml:106
+#: qml/YogicBreathingPage.qml:107
 #, kde-format
 msgid ""
 "out\n"
@@ -350,3 +419,6 @@ msgid ""
 msgstr ""
 "לנשוף\n"
 "(בטן)"
+
+#~ msgid "s"
+#~ msgstr "שנ׳"
