@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-05-20 00:41+0000\n"
-"PO-Revision-Date: 2024-05-20 00:29+0300\n"
+"PO-Revision-Date: 2024-05-20 14:25+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -43,11 +43,10 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE Topluluğu"
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
-msgstr "4-7-8 Solunumu"
+msgstr "4–7–8 Solunumu"
 
 #: qml/478BreathingPage.qml:11
 #, kde-format
@@ -60,7 +59,7 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
-"4-7-8 Solunumu, vücudu derin bir rahatlama durumuna sokar; örneğin, bir "
+"4–7–8 Solunumu, vücudu derin bir rahatlama durumuna sokar; örneğin, bir "
 "uçuşta uykuya dalabilmek için yararlıdır.<br><ul><li>Burnunuzdan soluk alın "
 "(4 sn).</li><li>Tutun (7 sn).</li><li>Bir fuu sesi çıkararak soluğunuzu "
 "ağzınızdan verin (8 sn).</li></ul><br>En az dört kez yineleyin."
@@ -88,8 +87,7 @@ msgid "out"
 msgstr "ver"
 
 #: qml/BoxBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
 msgstr "Kutu Solunumu"
@@ -108,12 +106,11 @@ msgstr ""
 "Kutu Solunumu, Amerikan Deniz Komandoları tarafından stresi tez ve etkili "
 "bir biçimde azaltmak izin kullanılan bir yöntemdir.<br><ul><li>Burnunuzdan "
 "soluk alın (4 sn).</li><li>Tutun (4 sn).</li><li>Burnunuzdan soluk verin (4 "
-"sn).</li><li>Tutun (4 sn).</li></ul>                    <br>En az 5-10 "
+"sn).</li><li>Tutun (4 sn).</li></ul>                    <br>En az 5–10 "
 "dakika boyunca yineleyin."
 
 #: qml/BoxBreathingSleepPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing (sleep)"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
 msgstr "Kutu Solunumu (Uyku)"
@@ -138,11 +135,10 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "Bilgi"
 
 #: qml/CoordinatedBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
 msgstr "Koordine Solunum"
@@ -164,16 +160,16 @@ msgstr ""
 "Koordine Solunum, diyaframınızı genişleterek soluğunuzun etkinliğini "
 "iyileştirir. Genelde sporda ve şarkı söylemede kullanılır."
 "<br><ul><li>Çeneniz vücudunuza 90° açı yapacak biçimde oturun.</"
-"li><li>Burnunuzdan yavaşça soluk alın.</li><li>Sessizce 10'a kadar yineli "
+"li><li>Burnunuzdan yavaşça soluk alın.</li><li>Sessizce 10’a kadar yineli "
 "bir biçimde sayarken soluk verin.</li><li>Soluk vermeyi bitirdiğinizde "
 "saymayı sürdürün; ancak fısıldamaya başlayın. Akciğerleriniz tümüyle "
-"boşalana ve sesiniz kalmayana dek saymayı sürdürün.</li></ul><br>En az 10-30 "
+"boşalana ve sesiniz kalmayana dek saymayı sürdürün.</li></ul><br>En az 10–30 "
 "kez yineleyin."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr "4-7-8 Solunumu"
+msgstr "4–7–8 Solunumu"
 
 #: qml/KalmGlobalDrawer.qml:21
 #, kde-format
@@ -217,11 +213,10 @@ msgid "About"
 msgstr "Hakkında"
 
 #: qml/NadiShodhanaPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Nadi Shodhana"
+#, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
-msgstr "Nadi Shodhana"
+msgstr "Nadi Şodana"
 
 #: qml/NadiShodhanaPage.qml:11
 #, kde-format
@@ -242,7 +237,7 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
-"Nadi Shodhana (Alternatif Burun Deliği Solunumu) kan basıncını azaltır ve "
+"Nadi Şodana (Alternatif Burun Deliği Solunumu) kan basıncını azaltır ve "
 "zihninizi sakin tutmaya yardımcı olur.<br><ul><li>Sağ elinizin baş parmağını "
 "sağ burun deliğinize, işaret ve orta parmağınızı kaşlarınızın arasına ve "
 "yüzük parmağınızı sol burun deliğinize koyun.</li><li>Baş parmağınızla sağ "
@@ -254,11 +249,10 @@ msgstr ""
 "deliğinizden soluk alın.</li><li>Baş parmağınız ve yüzük parmağınızla her "
 "iki burun deliğinizi de kapatın. Basılı tutun.</li><li>Baş parmağınızla sağ "
 "burun deliğinizi kapatın ve sol burun deliğinizden soluk verin.</li></"
-"ul><br> 5-10 kez yineleyin."
+"ul><br> 5–10 kez yineleyin."
 
 #: qml/ResonantBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Resonant Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
 msgstr "Rezonans Solunum"
@@ -281,42 +275,37 @@ msgstr ""
 "li></ul><br>En az 10 kez yineleyin."
 
 #: qml/SettingsPage.qml:13
-#, fuzzy, kde-format
-#| msgid "General"
+#, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "Genel"
 
 #: qml/SettingsPage.qml:18
-#, fuzzy, kde-format
-#| msgid "Show info button"
+#, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "Bilgi düğmesini göster"
 
 #: qml/SettingsPage.qml:25
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
 msgstr "Koordine Solunum"
 
 #: qml/SettingsPage.qml:30
-#, fuzzy, kde-format
-#| msgid "Breathe out duration"
+#, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr "Soluk verme süresi"
+msgstr "Soluk verme süresi:"
 
 #: qml/SettingsPage.qml:37
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1 sn"
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Yogic Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
 msgstr "Yoga Solunumu"
@@ -354,7 +343,7 @@ msgstr ""
 "kısmının geri çekildiğini hissedin.</li><li>Elinizi göbeğinize doğru hareket "
 "ettirin. Soluk verin ve karnınızın geri çekildiğini hissedin.</li></"
 "ul><br>15 dakikaya kadar yineleyin. <br><br>Adımlar tek ve akıcı bir soluk "
-"oluşturmalıdır.<br>Başlangıçta, Üç aşamayı (göbek, gövdenin ortası, göğsün "
+"oluşturmalıdır.<br>Başlangıçta, üç aşamayı (göbek, gövdenin ortası, göğsün "
 "üst kısmı) ayrı ayrı uygulamak yararlı olacaktır (örn. yalnızca karnınıza "
 "soluk alın, sonra yeniden soluk verin vb.)."
 

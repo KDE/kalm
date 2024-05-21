@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-05-20 00:41+0000\n"
-"PO-Revision-Date: 2024-04-28 06:29+0100\n"
+"PO-Revision-Date: 2024-05-20 13:35+0100\n"
 "Last-Translator: Oliver Kellogg <olivermkellogg@gmail.com>\n"
 "Language-Team: Esperanto <kde-i18n-eo.org>\n"
 "Language: eo\n"
@@ -44,8 +44,7 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE-Komunumo"
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
 msgstr "4-7-8 Spirado"
@@ -91,8 +90,7 @@ msgid "out"
 msgstr "eksteren"
 
 #: qml/BoxBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
 msgstr "Skatolo Spirado"
@@ -116,8 +114,7 @@ msgstr ""
 "ul>                    <br>                    Ripetu almenaŭ 5-10 minutojn."
 
 #: qml/BoxBreathingSleepPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing (sleep)"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
 msgstr "Skatolo-Spirado (dormo)"
@@ -145,11 +142,10 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "Informo"
 
 #: qml/CoordinatedBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
 msgstr "Kunordigita Spirado"
@@ -226,8 +222,7 @@ msgid "About"
 msgstr "Pri"
 
 #: qml/NadiShodhanaPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Nadi Shodhana"
+#, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
 msgstr "Nadi Shodhana"
@@ -253,8 +248,7 @@ msgid ""
 msgstr ""
 
 #: qml/ResonantBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Resonant Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
 msgstr "Resonanca Spirado"
@@ -272,42 +266,37 @@ msgid ""
 msgstr ""
 
 #: qml/SettingsPage.qml:13
-#, fuzzy, kde-format
-#| msgid "General"
+#, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "Ĝenerala"
 
 #: qml/SettingsPage.qml:18
-#, fuzzy, kde-format
-#| msgid "Show info button"
+#, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "Montri info butonon"
 
 #: qml/SettingsPage.qml:25
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
 msgstr "Kunordigita Spirado"
 
 #: qml/SettingsPage.qml:30
-#, fuzzy, kde-format
-#| msgid "Breathe out duration"
+#, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr "Elspira daŭro"
+msgstr "Elspira daŭro:"
 
 #: qml/SettingsPage.qml:37
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1s"
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Yogic Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
 msgstr "Joga Spirado"
@@ -388,6 +377,3 @@ msgid ""
 msgstr ""
 "el\n"
 "(ventro)"
-
-#~ msgid "s"
-#~ msgstr "s"

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-05-20 00:41+0000\n"
-"PO-Revision-Date: 2023-10-20 12:00+0200\n"
+"PO-Revision-Date: 2024-05-20 05:52+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
 "%100==4 ? 3 : 0);\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -44,8 +44,7 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 Skupnost KDE"
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
 msgstr "4-7-8 Dihanje"
@@ -91,8 +90,7 @@ msgid "out"
 msgstr "ven"
 
 #: qml/BoxBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
 msgstr "Kvadratno dihanje"
@@ -114,8 +112,7 @@ msgstr ""
 "ul><br>Ponavljajte vsaj 5-10minut."
 
 #: qml/BoxBreathingSleepPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing (sleep)"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
 msgstr "Kvadratno dihanje (spanje)"
@@ -140,11 +137,10 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "Informacije"
 
 #: qml/CoordinatedBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
 msgstr "Usklajeno dihanje"
@@ -217,8 +213,7 @@ msgid "About"
 msgstr "O programu"
 
 #: qml/NadiShodhanaPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Nadi Shodhana"
+#, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
 msgstr "Nadi Shodhana"
@@ -254,8 +249,7 @@ msgstr ""
 "ul> <br>Ponovite 5-10 krat."
 
 #: qml/ResonantBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Resonant Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
 msgstr "Resonančno dihanje"
@@ -278,42 +272,37 @@ msgstr ""
 "vsaj 10-krat."
 
 #: qml/SettingsPage.qml:13
-#, fuzzy, kde-format
-#| msgid "General"
+#, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "Splošno"
 
 #: qml/SettingsPage.qml:18
-#, fuzzy, kde-format
-#| msgid "Show info button"
+#, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "Prikaži gumb za informacije"
 
 #: qml/SettingsPage.qml:25
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
 msgstr "Usklajeno dihanje"
 
 #: qml/SettingsPage.qml:30
-#, fuzzy, kde-format
-#| msgid "Breathe out duration"
+#, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr "Trajanje izdiha"
+msgstr "Trajanje izdiha:"
 
 #: qml/SettingsPage.qml:37
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1s"
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Yogic Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
 msgstr "Jogijsko dihanje"

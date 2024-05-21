@@ -43,11 +43,10 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 Komunita KDE"
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
-msgstr "Dýcháíní 4-7-8"
+msgstr ""
 
 #: qml/478BreathingPage.qml:11
 #, kde-format
@@ -90,11 +89,10 @@ msgid "out"
 msgstr "výdech"
 
 #: qml/BoxBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
-msgstr "Dýcháíní 4-7-8"
+msgstr ""
 
 #: qml/BoxBreathingPage.qml:11
 #, kde-format
@@ -226,11 +224,10 @@ msgid ""
 msgstr ""
 
 #: qml/ResonantBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
-msgstr "Dýcháíní 4-7-8"
+msgstr ""
 
 #: qml/ResonantBreathingPage.qml:11
 #, kde-format
@@ -245,8 +242,7 @@ msgid ""
 msgstr ""
 
 #: qml/SettingsPage.qml:13
-#, fuzzy, kde-format
-#| msgid "General"
+#, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "Obecné"
@@ -276,11 +272,10 @@ msgid "%1s"
 msgstr ""
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
-msgstr "Dýcháíní 4-7-8"
+msgstr ""
 
 #: qml/YogicBreathingPage.qml:11
 #, kde-format
@@ -358,6 +353,3 @@ msgid ""
 msgstr ""
 "výdech\n"
 "(břicho)"
-
-#~ msgid "s"
-#~ msgstr "s"
