@@ -2,6 +2,7 @@
 // SPDX-License-Identifier: LGPL-2.1-or-later
 
 import QtQuick
+import org.kde.kalm.settings
 
 BreathingPage {
     id: page
@@ -31,7 +32,7 @@ BreathingPage {
         onTriggered: {
             page.instructionText = (counter % 10) + 1;
             counter++;
-            if (counter === _settings.breatheOutDuration)
+            if (counter === Settings.breatheOutDuration)
                 stop();
         }
     }
@@ -80,7 +81,7 @@ BreathingPage {
                     target: gradient
                     properties: "posOut"
                     to: 0
-                    duration: _settings.breatheOutDuration * 1000
+                    duration: Settings.breatheOutDuration * 1000
                 }
             }
         }
