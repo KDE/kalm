@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-20 00:41+0000\n"
+"POT-Creation-Date: 2024-05-22 00:42+0000\n"
 "PO-Revision-Date: 2024-05-20 04:05+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -69,7 +69,7 @@ msgstr ""
 "ul>                    <br>                    Repita al menos 4 veces."
 
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
-#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:57
+#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
@@ -140,19 +140,19 @@ msgstr ""
 "li>                    </ul>                    <br>                    "
 "Repita al menos 6 veces."
 
-#: qml/BreathingPage.qml:38
+#: qml/BreathingPage.qml:39
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
 msgstr "Información"
 
-#: qml/CoordinatedBreathingPage.qml:10
+#: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
 msgstr "Respiración coordinada"
 
-#: qml/CoordinatedBreathingPage.qml:11
+#: qml/CoordinatedBreathingPage.qml:12
 #, kde-format
 msgid ""
 "Coordinated Breathing improves the efficiency of your breathing by "
@@ -214,7 +214,7 @@ msgid "Yogic Breathing"
 msgstr "Respiración yóguica"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
-#: qml/SettingsPage.qml:10
+#: qml/SettingsPage.qml:11
 #, kde-format
 msgid "Settings"
 msgstr "Preferencias"
@@ -291,31 +291,31 @@ msgstr ""
 "li>                    </ul>                    <br>                    "
 "Repita al menos 10 veces."
 
-#: qml/SettingsPage.qml:13
+#: qml/SettingsPage.qml:14
 #, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "General"
 
-#: qml/SettingsPage.qml:18
+#: qml/SettingsPage.qml:19
 #, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "Mostrar el botón de información"
 
-#: qml/SettingsPage.qml:25
+#: qml/SettingsPage.qml:29
 #, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
 msgstr "Respiración coordinada"
 
-#: qml/SettingsPage.qml:30
+#: qml/SettingsPage.qml:34
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
 msgstr "Duración de la espiración:"
 
-#: qml/SettingsPage.qml:37
+#: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"

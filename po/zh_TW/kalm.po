@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-20 00:41+0000\n"
+"POT-Creation-Date: 2024-05-22 00:42+0000\n"
 "PO-Revision-Date: 2024-04-17 03:06+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
@@ -65,7 +65,7 @@ msgstr ""
 "的空氣發出風聲（8 秒）。</li></ul><br>重複至少 4 次。"
 
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
-#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:57
+#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
@@ -130,20 +130,20 @@ msgstr ""
 "鼻子吸入空氣（4 秒）。</li><li>Hold 住（4 秒）。</li><li>從鼻子呼出空氣（6 "
 "秒）。</li><li>Hold 住（2 秒）。</li></ul><br>重複至少 6 次。"
 
-#: qml/BreathingPage.qml:38
+#: qml/BreathingPage.qml:39
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
 msgstr ""
 
-#: qml/CoordinatedBreathingPage.qml:10
+#: qml/CoordinatedBreathingPage.qml:11
 #, fuzzy, kde-format
 #| msgid "Coordinated Breathing"
 msgctxt "@title"
 msgid "Coordinated Breathing"
 msgstr "合作呼吸法"
 
-#: qml/CoordinatedBreathingPage.qml:11
+#: qml/CoordinatedBreathingPage.qml:12
 #, kde-format
 msgid ""
 "Coordinated Breathing improves the efficiency of your breathing by "
@@ -199,7 +199,7 @@ msgid "Yogic Breathing"
 msgstr "瑜伽呼吸法"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
-#: qml/SettingsPage.qml:10
+#: qml/SettingsPage.qml:11
 #, kde-format
 msgid "Settings"
 msgstr "設定"
@@ -265,35 +265,35 @@ msgstr ""
 "li><li>吸氣（5.5 秒）。讓您的腹部隨著空氣進入肺部而擴張。</li><li>呼出（5.5 "
 "秒）。讓您的腹部隨著空氣離開肺部而縮小。</li></ul><br>重複至少 10 次。"
 
-#: qml/SettingsPage.qml:13
+#: qml/SettingsPage.qml:14
 #, fuzzy, kde-format
 #| msgid "General"
 msgctxt "@title:group"
 msgid "General"
 msgstr "一般"
 
-#: qml/SettingsPage.qml:18
+#: qml/SettingsPage.qml:19
 #, fuzzy, kde-format
 #| msgid "Show info button"
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "顯示資訊按鈕"
 
-#: qml/SettingsPage.qml:25
+#: qml/SettingsPage.qml:29
 #, fuzzy, kde-format
 #| msgid "Coordinated Breathing"
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
 msgstr "合作呼吸法"
 
-#: qml/SettingsPage.qml:30
+#: qml/SettingsPage.qml:34
 #, fuzzy, kde-format
 #| msgid "Breathe out duration"
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
 msgstr "呼出時間"
 
-#: qml/SettingsPage.qml:37
+#: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
