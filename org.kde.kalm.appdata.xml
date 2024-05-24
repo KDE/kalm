@@ -10,6 +10,7 @@
   <name xml:lang="ca">Kalm</name>
   <name xml:lang="ca-valencia">Kalm</name>
   <name xml:lang="cs">Kalm</name>
+  <name xml:lang="en-GB">Kalm</name>
   <name xml:lang="eo">Kalm</name>
   <name xml:lang="es">Kalm</name>
   <name xml:lang="eu">Kalm</name>
@@ -31,6 +32,7 @@
   <summary xml:lang="ca">Tècniques de respiració</summary>
   <summary xml:lang="ca-valencia">Tècniques de respiració</summary>
   <summary xml:lang="cs">Dechové techniky</summary>
+  <summary xml:lang="en-GB">Breathing techniques</summary>
   <summary xml:lang="eo">Spirteknikoj</summary>
   <summary xml:lang="es">Técnicas de respiración</summary>
   <summary xml:lang="eu">Arnas teknikak</summary>
@@ -59,6 +61,7 @@
     <p>Kalm can teach you different breathing techniques.</p>
     <p xml:lang="ca">El Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
     <p xml:lang="ca-valencia">Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
+    <p xml:lang="en-GB">Kalm can teach you different breathing techniques.</p>
     <p xml:lang="eo">Kalm povas instrui al vi difversajn spirteknikojn.</p>
     <p xml:lang="es">Kalm puede enseñarle distintas técnicas de respiración.</p>
     <p xml:lang="eu">«Kalm»ek arnas teknika ezberdinak erakutsi diezazkizuke</p>
@@ -83,6 +86,7 @@
       <caption xml:lang="ca">General</caption>
       <caption xml:lang="ca-valencia">General</caption>
       <caption xml:lang="cs">Obecné</caption>
+      <caption xml:lang="en-GB">General</caption>
       <caption xml:lang="eo">Ĝenerala</caption>
       <caption xml:lang="es">General</caption>
       <caption xml:lang="eu">Orokorra</caption>
@@ -107,6 +111,7 @@
       <caption xml:lang="ca">Informació</caption>
       <caption xml:lang="ca-valencia">Informació</caption>
       <caption xml:lang="cs">Informace</caption>
+      <caption xml:lang="en-GB">Info</caption>
       <caption xml:lang="eo">Informo</caption>
       <caption xml:lang="es">Información</caption>
       <caption xml:lang="eu">Informazioa</caption>
@@ -132,6 +137,7 @@
       <caption xml:lang="ca">Menú</caption>
       <caption xml:lang="ca-valencia">Menú</caption>
       <caption xml:lang="cs">Nabídka</caption>
+      <caption xml:lang="en-GB">Menu</caption>
       <caption xml:lang="eo">Menuo</caption>
       <caption xml:lang="es">Menú</caption>
       <caption xml:lang="eu">Menua</caption>
