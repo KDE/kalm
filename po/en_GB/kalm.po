@@ -1,36 +1,36 @@
 # Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kalm package.
 #
-# SPDX-FileCopyrightText: 2024 Kisaragi Hiu <mail@kisaragi-hiu.com>
+# SPDX-FileCopyrightText: 2024 Steve Allewell <steve.allewell@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-05-22 00:42+0000\n"
-"PO-Revision-Date: 2024-05-23 16:25+0900\n"
-"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
-"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
-"Language: zh_TW\n"
+"PO-Revision-Date: 2024-05-23 20:11+0100\n"
+"Last-Translator: Steve Allewell <steve.allewell@gmail.com>\n"
+"Language-Team: British English\n"
+"Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 24.04.70\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 24.02.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Kisaragi Hiu"
+msgstr "Steve Allewell"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "mail@kisaragi-hiu.com"
+msgstr "steve.allewell@gmail.com"
 
 #: main.cpp:52
 #, kde-format
 msgid "Breathing techniques"
-msgstr "呼吸技巧"
+msgstr "Breathing techniques"
 
 #: main.cpp:55
 #, kde-format
@@ -40,13 +40,13 @@ msgstr "Kalm"
 #: main.cpp:59
 #, kde-format
 msgid "© 2023 KDE Community"
-msgstr "© 2023 KDE 社群"
+msgstr "© 2023 KDE Community"
 
 #: qml/478BreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
-msgstr "4-7-8 呼吸法"
+msgstr "4-7-8 Breathing"
 
 #: qml/478BreathingPage.qml:11
 #, kde-format
@@ -59,16 +59,20 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
-"4-7-8 呼吸法會讓身體深度放鬆，可以用於如在飛機上更快睡著等情景。<br><ul><li>"
-"從鼻子吸入空氣（4 秒）。</li><li>Hold 住（7 秒）。</li><li>從嘴巴呼出，使呼出"
-"的空氣發出風聲（8 秒）。</li></ul><br>重複至少 4 次。"
+"4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
+"fall asleep on a flight.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (7s).</li>                    <li>Breathe "
+"out through your mouth making a whooshing sound (8s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 4 times."
 
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
-msgstr "吸入"
+msgstr "in"
 
 #: qml/478BreathingPage.qml:50 qml/BoxBreathingPage.qml:51
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
@@ -76,20 +80,20 @@ msgstr "吸入"
 #: qml/NadiShodhanaPage.qml:86
 #, kde-format
 msgid "hold"
-msgstr "維持"
+msgstr "hold"
 
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
 #, kde-format
 msgid "out"
-msgstr "呼出"
+msgstr "out"
 
 #: qml/BoxBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
-msgstr "盒式呼吸法"
+msgstr "Box Breathing"
 
 #: qml/BoxBreathingPage.qml:11
 #, kde-format
@@ -102,15 +106,19 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
-"盒式呼吸法 (Box Breathing) 由海豹部隊所使用，用來快速並有效地降低壓力。"
-"<br><ul><li>從鼻子吸入空氣（4 秒）。</li><li>Hold 住（4 秒）。</li><li>從鼻子"
-"呼出（4 秒）。</li><li>Hold 住（4 秒）。</li></ul><br>重複至少 5 到 10 分鐘。"
+"Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
+"stress.                    <br>                    <ul>                    "
+"<li>Breathe in through your nose (4s).</li>                    <li>Hold (4s)."
+"</li>                    <li>Breathe out through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    </"
+"ul>                    <br>                    Repeat for at least 5-10 "
+"minutes."
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
-msgstr "盒式呼吸法（睡眠）"
+msgstr "Box Breathing (sleep)"
 
 #: qml/BoxBreathingSleepPage.qml:11
 #, kde-format
@@ -123,21 +131,25 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"一個盒式呼吸法的變種，呼出的階段較長，可以在睡前幫助放鬆。<br><ul><li>從您的"
-"鼻子吸入空氣（4 秒）。</li><li>Hold 住（4 秒）。</li><li>從鼻子呼出空氣（6 "
-"秒）。</li><li>Hold 住（2 秒）。</li></ul><br>重複至少 6 次。"
+"A Box Breathing variant with a longer breathe-out phase helps to relax "
+"before going to sleep.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    <li>Breathe "
+"out through your nose (6s).</li>                    <li>Hold (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 6 times."
 
 #: qml/BreathingPage.qml:39
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr "資訊"
+msgstr "Information"
 
 #: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
-msgstr "合作呼吸法"
+msgstr "Coordinated Breathing"
 
 #: qml/CoordinatedBreathingPage.qml:12
 #, kde-format
@@ -153,63 +165,68 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
-"合作呼吸法 (Coordinated Breathing) 藉由放大橫膈膜的動作來改善您呼吸的效率。它"
-"常在運動或唱歌場合使用。<br><ul><li>坐直，讓您的下巴與身體呈 90 度。</li><li>"
-"慢慢從鼻子吸入空氣。</li><li>呼出空氣，同時重複並安靜地數到 10。</li><li>完全"
-"呼出空氣時，繼續數數但以悄悄話的方式，以耳語數出來。讓您的聲音隨著肺部用完空"
-"氣漸漸變得無聲。</li></ul><br>重複至少 10 ~ 30 次。"
+"Coordinated Breathing improves the efficiency of your breathing by "
+"amplifying the movement of the diaphragm.                    It is often "
+"used in sports or singing.                    <br>                    "
+"<ul>                    <li>Sit upright with your chin in a 90° angle to "
+"your body.</li>                    <li>Breathe in gently through your nose.</"
+"li>                    <li>Breathe out while repeatedly, silently counting "
+"to 10.</li>                    <li>When finished breathing out, continue "
+"counting but whisper. Let your voice fade out until your lungs are "
+"completely empty.</li>                    </ul>                    "
+"<br>                    Repeat at least 10-30 times."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr "4-7-8 呼吸法"
+msgstr "4-7-8 Breathing"
 
 #: qml/KalmGlobalDrawer.qml:21
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr "合作呼吸法"
+msgstr "Coordinated Breathing"
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr "盒式呼吸法"
+msgstr "Box Breathing"
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr "盒式呼吸法（睡眠）"
+msgstr "Box Breathing (sleep)"
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr "共振呼吸法"
+msgstr "Resonant Breathing"
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
-msgstr "鼻孔交替呼吸法 (Nadi Shodhana)"
+msgstr "Nadi Shodhana"
 
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr "瑜伽呼吸法"
+msgstr "Yogic Breathing"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:11
 #, kde-format
 msgid "Settings"
-msgstr "設定"
+msgstr "Settings"
 
 #: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
 #, kde-format
 msgid "About"
-msgstr "關於"
+msgstr "About"
 
 #: qml/NadiShodhanaPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
-msgstr "鼻孔交替呼吸法 (Nadi Shodhana)"
+msgstr "Nadi Shodhana"
 
 #: qml/NadiShodhanaPage.qml:11
 #, kde-format
@@ -230,19 +247,27 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
-"鼻孔交替呼吸法 (Nadi Shodhana) 能夠降低血壓並幫助維持思緒沉著。<br><ul><li>將"
-"您的右手拇指置於右側鼻孔上，中指置於眉頭中間，並將無名指置於左側鼻孔上。</"
-"li><li>用拇指擋住右側鼻孔，並從左側鼻孔吸氣。</li><li>將兩側鼻孔用拇指和無名"
-"指擋住，並閉氣。</li><li>將拇指抬起，並從右側鼻孔呼出。</li><li>再次將兩側鼻"
-"孔用拇指和無名指擋住，然後閉氣。</li><li>將拇指抬起，並從右側鼻孔吸氣。</"
-"li><li>再將兩側鼻孔用拇指和無名指擋住，然後再閉氣。</li><li>將右側鼻孔用拇指"
-"擋住，並從左側鼻孔呼出。</li></ul><br>重複 5 到 10 次。"
+"Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
+"to keep a calm mind.                    <br>                    "
+"<ul>                    <li>Place the thumb of your right hand on your right "
+"nostril, your index and middle finger between your eyebrows and ring finger "
+"on the left nostril.</li>                    <li>Close your right nostril "
+"with your thumb and breathe in through your left nostril.</"
+"li>                    <li>Close both nostrils with your thumb and ring "
+"finger. Hold.</li>                    <li>Lift your thumb and breath out "
+"through the right nostril.</li>                    <li>Close both nostrils "
+"with your thumb and ring finger. Hold.</li>                    <li>Lift your "
+"thumb and breath in through your right nostril.</li>                    "
+"<li>Close both nostrils with your thumb and ring finger. Hold.</"
+"li>                    <li>Close your right nostril with your thumb and "
+"breathe out through your left nostril.</li>                    </"
+"ul>                    <br>                    Repeat 5-10 times."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
-msgstr "共振呼吸法"
+msgstr "Resonant Breathing"
 
 #: qml/ResonantBreathingPage.qml:11
 #, kde-format
@@ -255,45 +280,49 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
-"共振呼吸法讓心跳、血壓與呼吸同步來使身體放鬆。<br><ul><li>坐直並放鬆。</"
-"li><li>吸氣（5.5 秒）。讓您的腹部隨著空氣進入肺部而擴張。</li><li>呼出（5.5 "
-"秒）。讓您的腹部隨著空氣離開肺部而縮小。</li></ul><br>重複至少 10 次。"
+"Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
+"and respiration.                    <br>                    "
+"<ul>                    <li>Sit upright and relaxed.</li>                    "
+"<li>Breathe in (5.5s). Expand your belly as the air fills your lungs.</"
+"li>                    <li>Breathe out (5.5s). Contract your belly as your "
+"lungs are emptied.</li>                    </ul>                    "
+"<br>                    Repeat at least 10 times."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
 msgctxt "@title:group"
 msgid "General"
-msgstr "一般"
+msgstr "General"
 
 #: qml/SettingsPage.qml:19
 #, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
-msgstr "顯示資訊按鈕"
+msgstr "Show info button"
 
 #: qml/SettingsPage.qml:29
 #, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
-msgstr "合作呼吸法"
+msgstr "Coordinated Breathing"
 
 #: qml/SettingsPage.qml:34
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr "呼出時間："
+msgstr "Breathe out duration:"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr "%1 秒"
+msgstr "%1s"
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
-msgstr "瑜伽呼吸法"
+msgstr "Yogic Breathing"
 
 #: qml/YogicBreathingPage.qml:11
 #, kde-format
@@ -317,15 +346,24 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
-"瑜伽呼吸法 (Yogic Breathing) 是為身體恢復活力的標準呼吸調息法。<br><ul><li>將"
-"一隻手放在您的肚臍上。將空氣吸入腹部並感受它的擴張。</li><li>將您的手移動到肋"
-"骨下部。將空氣吸入您的軀幹中部並感受它的擴張。</li><li>再將您的手移到胸部更上"
-"方。吸入空氣並感受您的鎖骨稍微提升。</li><li>呼出空氣。感受您的鎖骨下沉。</"
-"li><li>將您的手移動到肋骨下部。呼出空氣並感受您的軀幹後退。</li><li>再將您的"
-"手移動到肚臍上。呼出空氣並感受您的腹部後退。</li></ul><br>重複至多 15 分鐘。"
-"<br><br>各個步驟應該連續起來，使吸入與呼出皆是一次的，而不是分三段。<br>一開"
-"始三段（肚臍、軀幹、上胸）分開練習可能會比較容易（像是吸入腹部後就呼出等"
-"等）。"
+"Yogic Breathing is a standard pranayama technique to revitalise the "
+"body.                    <br>                    <ul>                    "
+"<li>Place a hand on your navel. Breathe into your belly and feel the "
+"expansion.</li>                    <li>Move your hand up above your lower "
+"ribs. Breathe into your mid-torso and feel the expansion.</"
+"li>                    <li>Move your hand up to your upper chest. Breathe in "
+"and feel your collarbones lift slightly.</li>                    <li>Breathe "
+"out. Feel your collarbones sink.</li>                    <li>Move your hand "
+"down to your lower ribs. Breathe out and feel your mid-torso retreat.</"
+"li>                    <li>Move your hand down to your navel. Breathe out "
+"and feel your belly retreat.</li>                    </"
+"ul>                    <br>                    Repeat up to 15 "
+"minutes.                    <br>                    <br>                    "
+"The steps should form a single, fluent breath.                    "
+"<br>                    At the beginning, it might be helpful to practice "
+"the three stages (belly, mid-torso, upper chest) "
+"individually                    (i.e. breathe only into your belly, then "
+"breathe out again etc.)."
 
 #: qml/YogicBreathingPage.qml:48
 #, kde-format
@@ -333,8 +371,8 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
-"吸入\n"
-"（腹部）"
+"in\n"
+"(belly)"
 
 #: qml/YogicBreathingPage.qml:59
 #, kde-format
@@ -342,8 +380,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
-"吸入\n"
-"（軀幹中部）"
+"in\n"
+"(mid-torso)"
 
 #: qml/YogicBreathingPage.qml:70
 #, kde-format
@@ -351,8 +389,8 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
-"吸入\n"
-"（上胸）"
+"in\n"
+"(upper chest)"
 
 #: qml/YogicBreathingPage.qml:85
 #, kde-format
@@ -360,8 +398,8 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
-"呼出\n"
-"（上胸）"
+"out\n"
+"(upper chest)"
 
 #: qml/YogicBreathingPage.qml:96
 #, kde-format
@@ -369,8 +407,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
-"呼出\n"
-"（軀幹中部）"
+"out\n"
+"(mid-torso)"
 
 #: qml/YogicBreathingPage.qml:107
 #, kde-format
@@ -378,8 +416,5 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
-"呼出\n"
-"（腹部）"
-
-#~ msgid "s"
-#~ msgstr "秒"
+"out\n"
+"(belly)"
