@@ -1,21 +1,21 @@
-# Copyright (C) YEAR This file is copyright:
+# Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kalm package.
 #
-# Stefan Asserhäll <stefan.asserhall@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2023, 2024 Stefan Asserhäll <stefan.asserhall@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-05-22 00:42+0000\n"
-"PO-Revision-Date: 2023-10-20 20:58+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
+"PO-Revision-Date: 2024-06-17 21:20+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 23.04.3\n"
+"X-Generator: Lokalize 23.08.5\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -43,8 +43,7 @@ msgid "© 2023 KDE Community"
 msgstr "© 2023 KDE-gemenskapen"
 
 #: qml/478BreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "4-7-8 Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
 msgstr "4-7-8 andning"
@@ -88,8 +87,7 @@ msgid "out"
 msgstr "ut"
 
 #: qml/BoxBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
 msgstr "Lådandning"
@@ -111,8 +109,7 @@ msgstr ""
 "i minst 5-10 minuter."
 
 #: qml/BoxBreathingSleepPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Box Breathing (sleep)"
+#, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
 msgstr "Lådandning (sömn)"
@@ -137,11 +134,10 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: qml/CoordinatedBreathingPage.qml:11
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
 msgstr "Koordinerad andning"
@@ -215,8 +211,7 @@ msgid "About"
 msgstr "Om"
 
 #: qml/NadiShodhanaPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Nadi Shodhana"
+#, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
 msgstr "Nadi Shodhana"
@@ -252,8 +247,7 @@ msgstr ""
 "genom vänster näsborre.</li> </ul> <br> Upprepa 5-10 gånger."
 
 #: qml/ResonantBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Resonant Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
 msgstr "Resonant andning"
@@ -275,42 +269,37 @@ msgstr ""
 "Dra in magen när lungorna töms.</li> </ul> <br> Upprepa minst 10 gånger."
 
 #: qml/SettingsPage.qml:14
-#, fuzzy, kde-format
-#| msgid "General"
+#, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "Allmänt"
 
 #: qml/SettingsPage.qml:19
-#, fuzzy, kde-format
-#| msgid "Show info button"
+#, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "Visa informationsknapp"
 
 #: qml/SettingsPage.qml:29
-#, fuzzy, kde-format
-#| msgid "Coordinated Breathing"
+#, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
 msgstr "Koordinerad andning"
 
 #: qml/SettingsPage.qml:34
-#, fuzzy, kde-format
-#| msgid "Breathe out duration"
+#, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr "Utandningslängd"
+msgstr "Utandningslängd:"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1 s"
 
 #: qml/YogicBreathingPage.qml:10
-#, fuzzy, kde-format
-#| msgid "Yogic Breathing"
+#, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
 msgstr "Yoga-andning"
