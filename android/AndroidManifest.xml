@@ -4,9 +4,9 @@
           android:versionName="0.0.1"
           android:versionCode="1588098483"
           android:installLocation="auto">
-    <application android:name="org.qtproject.qt5.android.bindings.QtApplication" android:label="Kalm" android:icon="@drawable/kalm">
+    <application android:name="org.qtproject.qt6.android.bindings.QtApplication" android:label="Kalm" android:icon="@drawable/kalm">
         <activity android:configChanges="orientation|uiMode|screenLayout|screenSize|smallestScreenSize|layoutDirection|locale|fontScale|keyboard|keyboardHidden|navigation"
-                  android:name="org.qtproject.qt5.android.bindings.QtActivity"
+                  android:name="org.qtproject.qt6.android.bindings.QtActivity"
                   android:label="Kalm"
                   android:windowSoftInputMode="adjustResize"
                   android:launchMode="singleTop">
