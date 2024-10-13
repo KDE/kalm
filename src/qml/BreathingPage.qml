@@ -19,16 +19,17 @@ Kirigami.Page {
         onTriggered: dialog.open()
     }
 
-    Text {
+    Controls.Label {
         id: instruction
 
-        anchors.horizontalCenter: parent.horizontalCenter
-        anchors.verticalCenter: parent.verticalCenter
+        anchors.fill: parent
         horizontalAlignment: Text.AlignHCenter
+        verticalAlignment: Text.AlignVCenter
         z: 100
         font.bold: true
         font.pixelSize: 80
-        color: Kirigami.Theme.textColor
+        fontSizeMode: Text.Fit
+        padding: Kirigami.Units.largeSpacing
 
         FadeBehavior on text {}
     }
