@@ -38,6 +38,7 @@ if(ANDROID)
         media-playback-start-symbolic
         settings-configure
     )
+    ecm_add_android_apk(kalm ANDROID_DIR ${CMAKE_SOURCE_DIR}/android)
 else()
     target_link_libraries(kalm PUBLIC Qt::Widgets)
 endif()
