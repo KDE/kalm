@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-22 00:42+0000\n"
+"POT-Creation-Date: 2024-10-14 00:41+0000\n"
 "PO-Revision-Date: 2024-06-01 08:49+0200\n"
 "Last-Translator: Łukasz Wojniłowicz <lukasz.wojnilowicz@gmail.com>\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
@@ -138,7 +138,7 @@ msgstr ""
 "li>                    <li>Przytrzymaj (2 s).</li>                    </"
 "ul>                    <br>                    Powtórz co najmniej 6 razy."
 
-#: qml/BreathingPage.qml:39
+#: qml/BreathingPage.qml:40
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-22 00:42+0000\n"
+"POT-Creation-Date: 2024-10-14 00:41+0000\n"
 "PO-Revision-Date: 2024-09-30 11:54+0200\n"
 "Last-Translator: Johannes Obermayr <johannesobermayr@gmx.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -135,7 +135,7 @@ msgstr ""
 "Sek.).</li><li>Halten (4 Sek.).</li><li>Ausatmen durch die Nase (6 Sek.).</"
 "li><li>Halten (2 Sek.).</li></ul><br>Mindestens vier Wiederholungen."
 
-#: qml/BreathingPage.qml:39
+#: qml/BreathingPage.qml:40
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"

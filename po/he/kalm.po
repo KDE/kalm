@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-22 00:42+0000\n"
+"POT-Creation-Date: 2024-10-14 00:41+0000\n"
 "PO-Revision-Date: 2024-05-20 04:14+0300\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: צוות התרגום של KDE ישראל\n"
@@ -137,7 +137,7 @@ msgstr ""
 "li>                    <li>להחזיק (2 שנ׳).</li>                    </"
 "ul>                    <br>                    לחזור לפחות 6 פעמים."
 
-#: qml/BreathingPage.qml:39
+#: qml/BreathingPage.qml:40
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"

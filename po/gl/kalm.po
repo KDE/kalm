@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-05-22 00:42+0000\n"
+"POT-Creation-Date: 2024-10-14 00:41+0000\n"
 "PO-Revision-Date: 2024-06-23 11:10+0200\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
@@ -140,7 +140,7 @@ msgstr ""
 "li>                    </ul>                    <br>                    "
 "Repítao polo menos 6 veces."
 
-#: qml/BreathingPage.qml:39
+#: qml/BreathingPage.qml:40
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
