@@ -19,6 +19,7 @@
 #include <QQmlContext>
 #include <QQuickStyle>
 #include <QString>
+#include <QTimer>
 
 #ifdef Q_OS_ANDROID
 #include <QGuiApplication>
@@ -64,6 +65,10 @@ int main(int argc, char *argv[])
 
     // command line parser
     QCommandLineParser parser;
+
+    QCommandLineOption selfTestOpt(QStringLiteral("self-test"), QStringLiteral("internal, for automated testing"));
+    parser.addOption(selfTestOpt);
+
     about.setupCommandLine(&parser);
     parser.process(app);
     about.processCommandLine(&parser);
@@ -80,6 +85,10 @@ int main(int argc, char *argv[])
 
     if (engine.rootObjects().isEmpty()) {
         return -1;
+    }
+
+    if (parser.isSet(selfTestOpt)) {
+        QTimer::singleShot(std::chrono::milliseconds(250), &app, &QCoreApplication::quit);
     }
 
     return app.exec();

@@ -84,6 +84,7 @@ endif()
 
 ################# build and install #################
 
+add_subdirectory(autotests)
 add_subdirectory(src)
 
 ki18n_install(po)
