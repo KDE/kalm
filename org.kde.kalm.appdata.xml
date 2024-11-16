@@ -24,6 +24,7 @@
   <name xml:lang="ko">Kalm</name>
   <name xml:lang="nl">Kalm</name>
   <name xml:lang="pl">Kalm</name>
+  <name xml:lang="pt-BR">Kalm</name>
   <name xml:lang="sk">Kalm</name>
   <name xml:lang="sl">Kalm</name>
   <name xml:lang="sv">Kalm</name>
@@ -49,6 +50,7 @@
   <summary xml:lang="ko">호흡 테크닉</summary>
   <summary xml:lang="nl">Ademtechnieken</summary>
   <summary xml:lang="pl">Techniki oddychania</summary>
+  <summary xml:lang="pt-BR">Técnicas de respiração</summary>
   <summary xml:lang="sk">Dýchacie techniky</summary>
   <summary xml:lang="sl">Dihalne tehnike</summary>
   <summary xml:lang="sv">Andningstekniker</summary>
@@ -83,6 +85,7 @@
     <p xml:lang="ko">Kalm을 사용하여 호흡 테크닉을 훈련할 수 있습니다.</p>
     <p xml:lang="nl">Kalm kan u verschillende ademtechnieken leren.</p>
     <p xml:lang="pl">Kalm uczy różnych technik oddychania.</p>
+    <p xml:lang="pt-BR">Kalm pode lhe ensinar diferentes técnicas de respiração.</p>
     <p xml:lang="sk">Kalm vám naučí rôzne dýchacie techniky.</p>
     <p xml:lang="sl">Kalm vas lahko nauči različnih dihalnih tehnik.</p>
     <p xml:lang="sv">Kalm kan lära dig olika andningstekniker.</p>
@@ -111,6 +114,7 @@
       <caption xml:lang="ko">일반</caption>
       <caption xml:lang="nl">Algemeen</caption>
       <caption xml:lang="pl">Ogólne</caption>
+      <caption xml:lang="pt-BR">Geral</caption>
       <caption xml:lang="sk">Všeobecné</caption>
       <caption xml:lang="sl">Splošno</caption>
       <caption xml:lang="sv">Allmänt</caption>
@@ -139,6 +143,7 @@
       <caption xml:lang="ko">정보</caption>
       <caption xml:lang="nl">Informatie</caption>
       <caption xml:lang="pl">Dane</caption>
+      <caption xml:lang="pt-BR">Informações</caption>
       <caption xml:lang="sk">Informácie</caption>
       <caption xml:lang="sl">Informacije</caption>
       <caption xml:lang="sv">Information</caption>
@@ -168,6 +173,7 @@
       <caption xml:lang="ko">메뉴</caption>
       <caption xml:lang="nl">Menu openen</caption>
       <caption xml:lang="pl">Menu</caption>
+      <caption xml:lang="pt-BR">Menu</caption>
       <caption xml:lang="sk">Ponuka</caption>
       <caption xml:lang="sl">Meni</caption>
       <caption xml:lang="sv">Meny</caption>
