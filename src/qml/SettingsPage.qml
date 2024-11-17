@@ -5,7 +5,7 @@ import QtQuick.Controls as Controls
 import QtQuick.Layouts
 import org.kde.kirigami as Kirigami
 import org.kde.kirigamiaddons.formcard as FormCard
-import org.kde.kalm.settings
+import org.kde.kalm
 
 FormCard.FormCardPage {
     title: i18n("Settings")
@@ -17,10 +17,10 @@ FormCard.FormCardPage {
     FormCard.FormCard {
         FormCard.FormCheckDelegate {
             text: i18nc("@option:check", "Show info button")
-            checked: Settings.showInfoButton
+            checked: KalmSettings.showInfoButton
             onCheckedChanged: {
-                Settings.showInfoButton = checked;
-                Settings.save();
+                KalmSettings.showInfoButton = checked;
+                KalmSettings.save();
             }
         }
     }
@@ -34,10 +34,10 @@ FormCard.FormCardPage {
             label: i18nc("@label:spinbox", "Breathe out duration:")
             from: 0
             to: 120
-            value: Settings.breatheOutDuration
+            value: KalmSettings.breatheOutDuration
             onValueChanged: {
-                Settings.breatheOutDuration = value;
-                Settings.save();
+                KalmSettings.breatheOutDuration = value;
+                KalmSettings.save();
             }
 
             textFromValue: (value, locale) => {

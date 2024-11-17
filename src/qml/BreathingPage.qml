@@ -5,7 +5,7 @@ import QtQuick
 import QtQuick.Controls as Controls
 import QtQuick.Layouts
 import org.kde.kirigami as Kirigami
-import org.kde.kalm.settings
+import org.kde.kalm
 
 Kirigami.Page {
     property alias infoText: dialog.subtitle
@@ -14,7 +14,7 @@ Kirigami.Page {
     padding: 0
 
     actions: Kirigami.Action {
-        visible: Settings.showInfoButton
+        visible: KalmSettings.showInfoButton
         icon.name: "help-about-symbolic"
         onTriggered: dialog.open()
     }

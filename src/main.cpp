@@ -77,8 +77,6 @@ int main(int argc, char *argv[])
     QQmlApplicationEngine engine;
     engine.rootContext()->setContextObject(new KLocalizedContext(&engine));
 
-    qmlRegisterSingletonInstance("org.kde.kalm.settings", 1, 0, "Settings", KalmSettings::self());
-
     QObject::connect(&app, &QCoreApplication::aboutToQuit, KalmSettings::self(), &KalmSettings::save);
 
     engine.load(QUrl(QStringLiteral("qrc:/qml/main.qml")));
