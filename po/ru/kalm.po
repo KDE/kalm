@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-11-09 00:42+0000\n"
-"PO-Revision-Date: 2024-12-06 17:13+0300\n"
+"PO-Revision-Date: 2024-12-09 09:36+0300\n"
 "Last-Translator: Olesya Gerasimenko <translation-team@basealt.ru>\n"
 "Language-Team: Basealt Translation Team\n"
 "Language: ru\n"
@@ -231,8 +231,8 @@ msgid "Nadi Shodhana"
 msgstr "Нади-шодхана"
 
 # BUG: "<li>Close both nostrils with your thumb and ring finger. Hold.</
-# li>                    <li>Close your right nostril with your thumb and 
-# breathe out through your left nostril.</li>     " — left nostril must be open in order to breathe out, so the second sentence needs to be changed to "Lift your ring finger and 
+# li>                    <li>Close your right nostril with your thumb and
+# breathe out through your left nostril.</li>     " — left nostril must be open in order to breathe out, so the second sentence needs to be changed to "Lift your ring finger and
 # breathe out through your left nostril."
 #: qml/NadiShodhanaPage.qml:11
 #, kde-format
@@ -300,37 +300,37 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "General"
-msgstr ""
+msgstr "Основное"
 
 #: qml/SettingsPage.qml:19
 #, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
-msgstr ""
+msgstr "Показывать кнопку «Информация»"
 
 #: qml/SettingsPage.qml:29
 #, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
-msgstr ""
+msgstr "Скоординированное дыхание"
 
 #: qml/SettingsPage.qml:34
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr ""
+msgstr "Длительность выдоха:"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1 с"
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
-msgstr ""
+msgstr "Дыхательная йога"
 
 #: qml/YogicBreathingPage.qml:11
 #, kde-format
@@ -354,6 +354,24 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
+"Дыхательная йога (пранаяма) позволяет телу возобновить запас "
+"энергии.                    <br>                    <ul>                    "
+"<li>Поместите руку на пупок. Вдохните животом (он должен увеличиться в "
+"объёме).</li>                    <li>Переместите руку вверх, чтобы она "
+"находилась над нижними рёбрами. Вдохните серединой торса (она должна "
+"увеличиться в объёме).</li>                    <li>Переместите руку вверх, "
+"на верхнюю часть грудной клетки. Вдохните (ключицы должны слегка подняться)."
+"</li>                    <li>Выдохните (ключицы должны опуститься).</"
+"li>                    <li>Переместите руку вниз, на нижние рёбра. Выдохните "
+"(середина торса должна уменьшиться в объёме).</li>                    "
+"<li>Переместите руку вниз, на пупок. Выдохните (живот должен уменьшиться в "
+"объёме).</li>                    </ul>                    "
+"<br>                    Повторяйте до 15 минут.                    "
+"<br>                    <br>                    Этапы должны складываться в "
+"единое непрерывное дыхание.                    <br>                    "
+"Сначала рекомендуется потренировать эти три этапа (живот, середина торса, "
+"верхняя часть грудной клетки) по отдельности                    (то есть "
+"вдыхать только животом, потом выдыхать и так далее)."
 
 #: qml/YogicBreathingPage.qml:48
 #, kde-format
@@ -361,6 +379,8 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
+"вдох\n"
+"(живот)"
 
 #: qml/YogicBreathingPage.qml:59
 #, kde-format
@@ -368,6 +388,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
+"вдох\n"
+"(середина торса)"
 
 #: qml/YogicBreathingPage.qml:70
 #, kde-format
@@ -375,6 +397,8 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
+"вдох\n"
+"(верхняя часть грудной клетки)"
 
 #: qml/YogicBreathingPage.qml:85
 #, kde-format
@@ -382,6 +406,8 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
+"выдох\n"
+"(верхняя часть грудной клетки)"
 
 #: qml/YogicBreathingPage.qml:96
 #, kde-format
@@ -389,6 +415,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
+"выдох\n"
+"(середина торса)"
 
 #: qml/YogicBreathingPage.qml:107
 #, kde-format
@@ -396,3 +424,5 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
+"выдох\n"
+"(живот)"
