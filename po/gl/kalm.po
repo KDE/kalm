@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-11-09 00:42+0000\n"
-"PO-Revision-Date: 2024-12-08 11:05+0100\n"
+"PO-Revision-Date: 2024-12-13 22:11+0100\n"
 "Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
 "Language-Team: Proxecto Trasno (proxecto@trasno.gal)\n"
 "Language: gl\n"
@@ -48,6 +48,7 @@ msgctxt "@title"
 msgid "4-7-8 Breathing"
 msgstr "Respiración 4-7-8"
 
+# skip-rule: trasno-sound
 #: qml/478BreathingPage.qml:11
 #, kde-format
 msgid ""

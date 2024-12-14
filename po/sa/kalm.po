@@ -1,0 +1,389 @@
+# Sanskrit translations for kalm package.
+# Copyright (C) 2024 This file is copyright:
+# This file is distributed under the same license as the kalm package.
+# Kali <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kalm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2024-11-09 00:42+0000\n"
+"PO-Revision-Date: 2024-12-13 19:10+0530\n"
+"Last-Translator: Kali <EMAIL@ADDRESS>\n"
+"Language-Team: Sanskrit\n"
+"Language: sa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: main.cpp:53
+#, kde-format
+msgid "Breathing techniques"
+msgstr "श्वसनविधयः"
+
+#: main.cpp:56
+#, kde-format
+msgid "Kalm"
+msgstr "शान्तः"
+
+#: main.cpp:60
+#, kde-format
+msgid "© 2023 KDE Community"
+msgstr "© 2023 केडीई समुदाय"
+
+#: qml/478BreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "4-7-8 Breathing"
+msgstr "4-7-8 श्वसनम्"
+
+#: qml/478BreathingPage.qml:11
+#, kde-format
+msgid ""
+"4-7-8 Breathing puts the body into a deep relaxation state, e.g. to better "
+"fall asleep on a flight.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (7s).</li>                    <li>Breathe "
+"out through your mouth making a whooshing sound (8s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 4 times."
+msgstr ""
+"४-७-८ श्वसनेन शरीरं गभीरविश्रामदशायां स्थापयति यथा उड्डयनयाने अधिकतया निद्रां गन्तुं ।"
+"<br><ul><li> नासिकाद्वारा (४s) श्वसितुम् ।</li><li> धारय (7s)।</li><li> मुखेन "
+"श्वसन्तु हूशिंग शब्दं (8s)।</li></ul><br> न्यूनातिन्यूनं ४ वारं पुनः कुर्वन्तु।"
+
+#: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
+#: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
+#: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
+#, kde-format
+msgid "in"
+msgstr "इत्यस्मिन्‌"
+
+#: qml/478BreathingPage.qml:50 qml/BoxBreathingPage.qml:51
+#: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
+#: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
+#: qml/NadiShodhanaPage.qml:86
+#, kde-format
+msgid "hold"
+msgstr "गृह्णातु"
+
+#: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
+#: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
+#: qml/ResonantBreathingPage.qml:50
+#, kde-format
+msgid "out"
+msgstr "बहिः"
+
+#: qml/BoxBreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Box Breathing"
+msgstr "पेटी श्वसनम्"
+
+#: qml/BoxBreathingPage.qml:11
+#, kde-format
+msgid ""
+"Box Breathing is used by the Navy SEALs to quickly and effectively reduce "
+"stress.                    <br>                    <ul>                    "
+"<li>Breathe in through your nose (4s).</li>                    <li>Hold (4s)."
+"</li>                    <li>Breathe out through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    </"
+"ul>                    <br>                    Repeat for at least 5-10 "
+"minutes."
+msgstr ""
+"Box Breathing इत्यस्य उपयोगः Navy SEALs इत्यनेन शीघ्रं प्रभावीरूपेण च तनावस्य "
+"न्यूनीकरणाय भवति ।<br><ul><li> नासिकाद्वारा (४s) श्वसितुम् ।</li><li> धारय (4s)।</"
+"li><li> नासिकाद्वारा (४s) श्वसितुम् ।</li><li> धारय (4s)।</li></ul><br> "
+"न्यूनातिन्यूनं ५-१० निमेषान् यावत् पुनः कुर्वन्तु।"
+
+#: qml/BoxBreathingSleepPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Box Breathing (sleep)"
+msgstr "पेटी श्वसनम् (निद्रा) २."
+
+#: qml/BoxBreathingSleepPage.qml:11
+#, kde-format
+msgid ""
+"A Box Breathing variant with a longer breathe-out phase helps to relax "
+"before going to sleep.                    <br>                    "
+"<ul>                    <li>Breathe in through your nose (4s).</"
+"li>                    <li>Hold (4s).</li>                    <li>Breathe "
+"out through your nose (6s).</li>                    <li>Hold (2s).</"
+"li>                    </ul>                    <br>                    "
+"Repeat at least 6 times."
+msgstr ""
+"दीर्घकालं यावत् श्वास-निर्गमन-चरणं युक्तः एकः Box Breathing-रूपः निद्रायाः पूर्वं आरामं "
+"कर्तुं साहाय्यं करोति ।<br><ul><li> नासिकाद्वारा (४s) श्वसितुम् ।</li><li> धारय (4s)।"
+"</li><li> नासिकाद्वारा (६s) श्वसितुम् ।</li><li> धारय (2s)।</li></ul><br> "
+"न्यूनातिन्यूनं ६ वारं पुनः कुर्वन्तु।"
+
+#: qml/BreathingPage.qml:40
+#, kde-format
+msgctxt "@title:dialog"
+msgid "Information"
+msgstr ""
+
+#: qml/CoordinatedBreathingPage.qml:11
+#, kde-format
+msgctxt "@title"
+msgid "Coordinated Breathing"
+msgstr "समन्वित श्वास"
+
+#: qml/CoordinatedBreathingPage.qml:12
+#, kde-format
+msgid ""
+"Coordinated Breathing improves the efficiency of your breathing by "
+"amplifying the movement of the diaphragm.                    It is often "
+"used in sports or singing.                    <br>                    "
+"<ul>                    <li>Sit upright with your chin in a 90° angle to "
+"your body.</li>                    <li>Breathe in gently through your nose.</"
+"li>                    <li>Breathe out while repeatedly, silently counting "
+"to 10.</li>                    <li>When finished breathing out, continue "
+"counting but whisper. Let your voice fade out until your lungs are "
+"completely empty.</li>                    </ul>                    "
+"<br>                    Repeat at least 10-30 times."
+msgstr ""
+"समन्वितं श्वसनं डायफ्रामस्य गतिं प्रवर्धयित्वा भवतः श्वसनस्य कार्यक्षमतां वर्धयति । प्रायः "
+"क्रीडायां गायने वा अस्य उपयोगः भवति ।<br><ul><li> शरीरस्य ९०° कोणे हनुमत्पादं कृत्वा "
+"ऊर्ध्वं उपविशतु।</li><li> नासिकाद्वारा मन्दं श्वसितुम्।</li><li> मौनेन १० यावत् गणयन् पुनः "
+"पुनः श्वसितुम्।</li><li> श्वसनं समाप्तं कृत्वा गणनं निरन्तरं कुर्वन्तु परन्तु कुहूकुहू कुर्वन्तु। यावत् "
+"भवतः फुफ्फुसाः सर्वथा शून्याः न भवन्ति तावत् भवतः स्वरः क्षीणः भवतु।</li></ul><br> "
+"न्यूनातिन्यूनं १०-३० वारं पुनः कुर्वन्तु।"
+
+#: qml/KalmGlobalDrawer.qml:12
+#, kde-format
+msgid "4-7-8 Breathing"
+msgstr "4-7-8 श्वसनम्"
+
+#: qml/KalmGlobalDrawer.qml:21
+#, kde-format
+msgid "Coordinated Breathing"
+msgstr "समन्वित श्वास"
+
+#: qml/KalmGlobalDrawer.qml:30
+#, kde-format
+msgid "Box Breathing"
+msgstr "पेटी श्वसनम्"
+
+#: qml/KalmGlobalDrawer.qml:39
+#, kde-format
+msgid "Box Breathing (sleep)"
+msgstr "पेटी श्वसनम् (निद्रा) २."
+
+#: qml/KalmGlobalDrawer.qml:48
+#, kde-format
+msgid "Resonant Breathing"
+msgstr "अनुनादः श्वसनम्"
+
+#: qml/KalmGlobalDrawer.qml:57
+#, kde-format
+msgid "Nadi Shodhana"
+msgstr "नादि शोधना"
+
+#: qml/KalmGlobalDrawer.qml:66
+#, kde-format
+msgid "Yogic Breathing"
+msgstr "योगिक श्वास"
+
+#: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
+#: qml/SettingsPage.qml:11
+#, kde-format
+msgid "Settings"
+msgstr "सेटिंग्स्"
+
+#: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
+#, kde-format
+msgid "About"
+msgstr "विषये"
+
+#: qml/NadiShodhanaPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Nadi Shodhana"
+msgstr "नादि शोधना"
+
+#: qml/NadiShodhanaPage.qml:11
+#, kde-format
+msgid ""
+"Nadi Shodhana (Alternate Nostril Breathing) reduces blood pressure and helps "
+"to keep a calm mind.                    <br>                    "
+"<ul>                    <li>Place the thumb of your right hand on your right "
+"nostril, your index and middle finger between your eyebrows and ring finger "
+"on the left nostril.</li>                    <li>Close your right nostril "
+"with your thumb and breathe in through your left nostril.</"
+"li>                    <li>Close both nostrils with your thumb and ring "
+"finger. Hold.</li>                    <li>Lift your thumb and breath out "
+"through the right nostril.</li>                    <li>Close both nostrils "
+"with your thumb and ring finger. Hold.</li>                    <li>Lift your "
+"thumb and breath in through your right nostril.</li>                    "
+"<li>Close both nostrils with your thumb and ring finger. Hold.</"
+"li>                    <li>Close your right nostril with your thumb and "
+"breathe out through your left nostril.</li>                    </"
+"ul>                    <br>                    Repeat 5-10 times."
+msgstr ""
+"नाडीशोधना (Alternate Nostril Breathing) रक्तचापं न्यूनीकरोति तथा च मनः शान्तं "
+"स्थापयितुं साहाय्यं करोति।<br><ul><li> दक्षिणहस्तस्य अङ्गुष्ठं दक्षिणनासिकायां, "
+"तर्जनीमध्यमाङ्गुलीं भ्रूयोः मध्ये, वामनासिकायां च वलयाङ्गुलीं स्थापयन्तु ।</li><li> अङ्गुष्ठेन "
+"दक्षिणनासिकाच्छिद्रं पिधाय वामनासिकाच्छिद्रेण श्वसितुम् ।</li><li> अङ्गुष्ठेन, वलय-अङ्गुलेन च "
+"नासिकाद्वयं पिधाय । गृह्णातु।</li><li> अङ्गुष्ठं उत्थाप्य दक्षिणनासिकाद्वारा बहिः "
+"निःश्वसितु।</li><li> अङ्गुष्ठेन, वलय-अङ्गुलेन च नासिकाद्वयं पिधाय । गृह्णातु।</li><li> "
+"अङ्गुष्ठं उत्थाप्य दक्षिणनासिकाद्वारा श्वसितुम्।</li><li> अङ्गुष्ठेन, वलय-अङ्गुलेन च नासिकाद्वयं "
+"पिधाय । गृह्णातु।</li><li> अङ्गुष्ठेन दक्षिणनासिकाच्छिद्रं पिधाय वामनासाच्छिद्रेण श्वसितुम् ।"
+"</li></ul><br> ५-१० वारं पुनः कुर्वन्तु।"
+
+#: qml/ResonantBreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Resonant Breathing"
+msgstr "अनुनादः श्वसनम्"
+
+#: qml/ResonantBreathingPage.qml:11
+#, kde-format
+msgid ""
+"Resonant Breathing relaxes the body by coupling heart rate, blood pressure "
+"and respiration.                    <br>                    "
+"<ul>                    <li>Sit upright and relaxed.</li>                    "
+"<li>Breathe in (5.5s). Expand your belly as the air fills your lungs.</"
+"li>                    <li>Breathe out (5.5s). Contract your belly as your "
+"lungs are emptied.</li>                    </ul>                    "
+"<br>                    Repeat at least 10 times."
+msgstr ""
+"अनुनादकः श्वसनः हृदयस्पन्दनं, रक्तचापं, श्वसनं च युग्मयित्वा शरीरं शिथिलं करोति ।"
+"<br><ul><li> ऊर्ध्वं आरामं च उपविशतु।</li><li> श्वसितुम् (५.५से.) । यथा यथा वायुः भवतः "
+"फुफ्फुसान् पूरयति तथा तथा भवतः उदरं विस्तारयन्तु।</li><li> श्वसितुम् (५.५से.)। यथा यथा "
+"फुफ्फुसाः रिक्ताः भवन्ति तथा तथा उदरं संकुचयन्तु।</li></ul><br> न्यूनातिन्यूनं १० वारं पुनः "
+"कुर्वन्तु।"
+
+#: qml/SettingsPage.qml:14
+#, kde-format
+msgctxt "@title:group"
+msgid "General"
+msgstr ""
+
+#: qml/SettingsPage.qml:19
+#, kde-format
+msgctxt "@option:check"
+msgid "Show info button"
+msgstr ""
+
+#: qml/SettingsPage.qml:29
+#, kde-format
+msgctxt "@title:group"
+msgid "Coordinated Breathing"
+msgstr "समन्वित श्वास"
+
+#: qml/SettingsPage.qml:34
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Breathe out duration:"
+msgstr ""
+
+#: qml/SettingsPage.qml:44
+#, kde-format
+msgctxt "Number in seconds"
+msgid "%1s"
+msgstr ""
+
+#: qml/YogicBreathingPage.qml:10
+#, kde-format
+msgctxt "@title"
+msgid "Yogic Breathing"
+msgstr "योगिक श्वास"
+
+#: qml/YogicBreathingPage.qml:11
+#, kde-format
+msgid ""
+"Yogic Breathing is a standard pranayama technique to revitalize the "
+"body.                    <br>                    <ul>                    "
+"<li>Place a hand on your navel. Breathe into your belly and feel the "
+"expansion.</li>                    <li>Move your hand up above your lower "
+"ribs. Breathe into your mid-torso and feel the expansion.</"
+"li>                    <li>Move your hand up to your upper chest. Breathe in "
+"and feel your collarbones lift slightly.</li>                    <li>Breathe "
+"out. Feel your collarbones sink.</li>                    <li>Move your hand "
+"down to your lower ribs. Breathe out and feel your mid-torso retreat.</"
+"li>                    <li>Move your hand down to your navel. Breathe out "
+"and feel your belly retreat.</li>                    </"
+"ul>                    <br>                    Repeat up to 15 "
+"minutes.                    <br>                    <br>                    "
+"The steps should form a single, fluent breath.                    "
+"<br>                    At the beginning, it might be helpful to practice "
+"the three stages (belly, mid-torso, upper chest) "
+"individually                    (i.e. breathe only into your belly, then "
+"breathe out again etc.)."
+msgstr ""
+"योगिक श्वासः शरीरस्य पुनः सजीवीकरणाय एकः मानकः प्राणायाम-प्रविधिः अस्ति ।"
+"<br><ul><li> नाभिं हस्तं स्थापयतु। उदरं निःश्वसितु, विस्तारं च अनुभवतु।</li><li> "
+"अधोपृष्ठपार्श्वयोः उपरि हस्तं उपरि चालयन्तु। मध्यधड़ं श्वसितुम्, विस्तारं च अनुभवतु।</li><li> "
+"हस्तं वक्षःस्थलस्य ऊर्ध्वं यावत् चालयन्तु। श्वसितुम्, भवतः कण्ठस्थानां किञ्चित् उत्थापनं अनुभवतु।</"
+"li><li> श्वसितुम् । भवतः कण्ठस्थानां मग्नतां अनुभवतु।</li><li> हस्तं अधः पृष्ठपार्श्वयोः "
+"यावत् चालयन्तु। श्वसितुम्, स्वस्य मध्य-धड़स्य निवृत्तिम् अनुभवतु।</li><li> हस्तं नाभिपर्यन्तं अधः "
+"चालयन्तु। श्वसितुम् उदरस्य निवृत्तिम् अनुभवतु।</li></ul><br> १५ निमेषपर्यन्तं पुनः पुनः कुर्वन्तु।"
+"<br><br> सोपानानि एकं प्रवाहपूर्णं निःश्वासं निर्मातव्याः।<br> आरम्भे त्रयः चरणाः (उदरः, "
+"मध्यधड़ः, ऊर्ध्ववक्षःस्थलः) व्यक्तिगतरूपेण अभ्यासः सहायकः भवेत् (अर्थात् केवलं उदरं प्रति "
+"श्वसितु, ततः पुनः श्वसितुम् इत्यादि)।"
+
+#: qml/YogicBreathingPage.qml:48
+#, kde-format
+msgid ""
+"in\n"
+"(belly)"
+msgstr ""
+"इत्यस्मिन्‌\n"
+"(उदर)"
+
+#: qml/YogicBreathingPage.qml:59
+#, kde-format
+msgid ""
+"in\n"
+"(mid-torso)"
+msgstr ""
+"इत्यस्मिन्‌\n"
+"(मध्य-धड़ः) २."
+
+#: qml/YogicBreathingPage.qml:70
+#, kde-format
+msgid ""
+"in\n"
+"(upper chest)"
+msgstr ""
+"इत्यस्मिन्‌\n"
+"(उपरि वक्षःस्थलम्) २."
+
+#: qml/YogicBreathingPage.qml:85
+#, kde-format
+msgid ""
+"out\n"
+"(upper chest)"
+msgstr ""
+"बहिः\n"
+"(उपरि वक्षःस्थलम्) २."
+
+#: qml/YogicBreathingPage.qml:96
+#, kde-format
+msgid ""
+"out\n"
+"(mid-torso)"
+msgstr ""
+"बहिः\n"
+"(मध्य-धड़ः) २."
+
+#: qml/YogicBreathingPage.qml:107
+#, kde-format
+msgid ""
+"out\n"
+"(belly)"
+msgstr ""
+"बहिः\n"
+"(उदर)"
