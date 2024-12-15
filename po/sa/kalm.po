@@ -19,12 +19,12 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "भवतः नामानि"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "भवतः ईमेलपत्राणि"
 
 #: main.cpp:53
 #, kde-format
@@ -132,7 +132,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "सूचना"
 
 #: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
@@ -269,13 +269,13 @@ msgstr ""
 #, kde-format
 msgctxt "@title:group"
 msgid "General"
-msgstr ""
+msgstr "सामान्य"
 
 #: qml/SettingsPage.qml:19
 #, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
-msgstr ""
+msgstr "info बटनं दर्शयतु"
 
 #: qml/SettingsPage.qml:29
 #, kde-format
@@ -287,13 +287,13 @@ msgstr "समन्वित श्वास"
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr ""
+msgstr "श्वसनस्य अवधिः : १."
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1s"
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
