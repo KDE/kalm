@@ -220,6 +220,9 @@
       </description>
     </release>
   </releases>
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
   <supports>
     <control>pointing</control>
     <control>keyboard</control>
