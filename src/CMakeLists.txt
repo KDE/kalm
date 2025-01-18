@@ -34,6 +34,7 @@ if(ANDROID)
     target_link_libraries(kalm PUBLIC KF${QT_MAJOR_VERSION}::Kirigami2)
 
     kirigami_package_breeze_icons(ICONS
+        ${KIRIGAMI_ADDONS_ICONS}
         help-about-symbolic
         media-playback-start-symbolic
         settings-configure
