@@ -122,7 +122,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 #: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
@@ -257,13 +257,13 @@ msgstr ""
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr ""
+msgstr "呼气时长："
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1s"
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
