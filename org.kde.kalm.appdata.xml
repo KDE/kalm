@@ -6,6 +6,7 @@
 <component type="desktop-application">
   <id>org.kde.kalm</id>
   <name>Kalm</name>
+  <name xml:lang="ar">نفس</name>
   <name xml:lang="ast">Kalm</name>
   <name xml:lang="ca">Kalm</name>
   <name xml:lang="ca-valencia">Kalm</name>
@@ -35,6 +36,7 @@
   <name xml:lang="x-test">xxKalmxx</name>
   <name xml:lang="zh-TW">Kalm</name>
   <summary>Breathing techniques</summary>
+  <summary xml:lang="ar">تقنيات التنفس</summary>
   <summary xml:lang="ca">Tècniques de respiració</summary>
   <summary xml:lang="ca-valencia">Tècniques de respiració</summary>
   <summary xml:lang="cs">Dechové techniky</summary>
@@ -73,6 +75,7 @@
   </developer>
   <description>
     <p>Kalm can teach you different breathing techniques.</p>
+    <p xml:lang="ar">يعلمك نفس تقنيات التنفس المختلفة.</p>
     <p xml:lang="ca">El Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
     <p xml:lang="ca-valencia">Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
     <p xml:lang="de">Kalm kann beim Erlernen unterschiedlicher Atemtechniken behilflich sein.</p>
@@ -103,6 +106,7 @@
   <screenshots>
     <screenshot type="default">
       <caption>General</caption>
+      <caption xml:lang="ar">عام</caption>
       <caption xml:lang="ca">General</caption>
       <caption xml:lang="ca-valencia">General</caption>
       <caption xml:lang="cs">Obecné</caption>
@@ -134,6 +138,7 @@
     </screenshot>
     <screenshot type="default">
       <caption>Info</caption>
+      <caption xml:lang="ar">معلومات</caption>
       <caption xml:lang="ca">Informació</caption>
       <caption xml:lang="ca-valencia">Informació</caption>
       <caption xml:lang="cs">Informace</caption>
@@ -165,6 +170,7 @@
     </screenshot>
     <screenshot type="default">
       <caption>Menu</caption>
+      <caption xml:lang="ar">القائمة</caption>
       <caption xml:lang="ast">Menú</caption>
       <caption xml:lang="ca">Menú</caption>
       <caption xml:lang="ca-valencia">Menú</caption>
