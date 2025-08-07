@@ -26,6 +26,7 @@
   <name xml:lang="ko">Kalm</name>
   <name xml:lang="nl">Kalm</name>
   <name xml:lang="pl">Kalm</name>
+  <name xml:lang="pt-BR">Kalm</name>
   <name xml:lang="ru">Kalm</name>
   <name xml:lang="sa">शान्तः</name>
   <name xml:lang="sk">Kalm</name>
@@ -55,6 +56,7 @@
   <summary xml:lang="ko">호흡 테크닉</summary>
   <summary xml:lang="nl">Ademtechnieken</summary>
   <summary xml:lang="pl">Techniki oddychania</summary>
+  <summary xml:lang="pt-BR">Técnicas de respiração</summary>
   <summary xml:lang="ru">Дыхательные техники</summary>
   <summary xml:lang="sa">श्वसनविधयः</summary>
   <summary xml:lang="sk">Dýchacie techniky</summary>
@@ -93,6 +95,7 @@
     <p xml:lang="ko">Kalm을 사용하여 호흡 테크닉을 훈련할 수 있습니다.</p>
     <p xml:lang="nl">Kalm kan u verschillende ademtechnieken leren.</p>
     <p xml:lang="pl">Kalm uczy różnych technik oddychania.</p>
+    <p xml:lang="pt-BR">Kalm pode lhe ensinar diferentes técnicas de respiração.</p>
     <p xml:lang="ru">Программа Kalm обучает различным дыхательным техникам.</p>
     <p xml:lang="sa">कलमः भवन्तं भिन्नानि श्वसनविधयः शिक्षितुं शक्नोति।</p>
     <p xml:lang="sk">Kalm vám naučí rôzne dýchacie techniky.</p>
@@ -125,6 +128,7 @@
       <caption xml:lang="ko">일반</caption>
       <caption xml:lang="nl">Algemeen</caption>
       <caption xml:lang="pl">Ogólne</caption>
+      <caption xml:lang="pt-BR">Geral</caption>
       <caption xml:lang="ru">Основное</caption>
       <caption xml:lang="sa">सामान्य</caption>
       <caption xml:lang="sk">Všeobecné</caption>
@@ -157,6 +161,7 @@
       <caption xml:lang="ko">정보</caption>
       <caption xml:lang="nl">Informatie</caption>
       <caption xml:lang="pl">Dane</caption>
+      <caption xml:lang="pt-BR">Informações</caption>
       <caption xml:lang="ru">Информация</caption>
       <caption xml:lang="sa">Info</caption>
       <caption xml:lang="sk">Informácie</caption>
@@ -190,6 +195,7 @@
       <caption xml:lang="ko">메뉴</caption>
       <caption xml:lang="nl">Menu openen</caption>
       <caption xml:lang="pl">Menu</caption>
+      <caption xml:lang="pt-BR">Menu</caption>
       <caption xml:lang="ru">Меню</caption>
       <caption xml:lang="sa">मेनू</caption>
       <caption xml:lang="sk">Ponuka</caption>
