@@ -21,6 +21,7 @@
   <name xml:lang="he">Kalm</name>
   <name xml:lang="hi">शांत</name>
   <name xml:lang="id">Kalm</name>
+  <name xml:lang="is">Kalm</name>
   <name xml:lang="it">Kalm</name>
   <name xml:lang="ka">Kalm</name>
   <name xml:lang="ko">Kalm</name>
@@ -50,6 +51,7 @@
   <summary xml:lang="he">טכניקות נשימה</summary>
   <summary xml:lang="hi">श्वास तकनीक</summary>
   <summary xml:lang="id">Teknik pernapasan</summary>
+  <summary xml:lang="is">Öndunaræfingar</summary>
   <summary xml:lang="it">Tecniche di respirazione</summary>
   <summary xml:lang="ka">სუნთქვის ტექნიკა</summary>
   <summary xml:lang="ko">호흡 테크닉</summary>
@@ -88,6 +90,7 @@
     <p xml:lang="he">Kalm יכול ללמד אותך מגוון טכניקות נשימה.</p>
     <p xml:lang="hi">काल्म आपको विभिन्न श्वास तकनीकें सिखा सकते हैं।</p>
     <p xml:lang="id">Kalm bisa mengajarkan Anda berbagai teknik pernapasan.</p>
+    <p xml:lang="is">Kalm getur kennt þér mismunandi öndunaræfingar.</p>
     <p xml:lang="it">Kalm può insegnarti varie tecniche di respirazione.</p>
     <p xml:lang="ka">Kalm სხვადასხვა სუნთქვის ტექნიკას გასწავლით.</p>
     <p xml:lang="ko">Kalm을 사용하여 호흡 테크닉을 훈련할 수 있습니다.</p>
@@ -120,6 +123,7 @@
       <caption xml:lang="he">כללי</caption>
       <caption xml:lang="hi">सामान्य</caption>
       <caption xml:lang="id">Umum</caption>
+      <caption xml:lang="is">Almennt</caption>
       <caption xml:lang="it">Generale</caption>
       <caption xml:lang="ka">ზოგადი</caption>
       <caption xml:lang="ko">일반</caption>
@@ -152,6 +156,7 @@
       <caption xml:lang="he">מידע</caption>
       <caption xml:lang="hi">जानकारी</caption>
       <caption xml:lang="id">Info</caption>
+      <caption xml:lang="is">Upplýsingar</caption>
       <caption xml:lang="it">Informazioni</caption>
       <caption xml:lang="ka">ინფორმაცია</caption>
       <caption xml:lang="ko">정보</caption>
@@ -185,6 +190,7 @@
       <caption xml:lang="he">תפריט</caption>
       <caption xml:lang="hi">मेनू</caption>
       <caption xml:lang="id">Menu</caption>
+      <caption xml:lang="is">Valmynd</caption>
       <caption xml:lang="it">Menu</caption>
       <caption xml:lang="ka">მენიუ</caption>
       <caption xml:lang="ko">메뉴</caption>
