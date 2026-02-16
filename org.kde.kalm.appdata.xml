@@ -239,14 +239,54 @@
     <release version="24.05.0" date="2024-05-23">
       <description>
         <p>Supported breathing techniques:</p>
+        <p xml:lang="ca">Tècniques de respiració implementades:</p>
+        <p xml:lang="ca-valencia">Tècniques de respiració implementades:</p>
+        <p xml:lang="es">Técnicas de respiración implementadas:</p>
+        <p xml:lang="he">טכניקות נשימה נתמכות:</p>
+        <p xml:lang="pt-BR">Técnicas de respiração suportadas:</p>
         <ul>
           <li>4-7-8 Breathing</li>
+          <li xml:lang="ca">Respiració 4-7-8</li>
+          <li xml:lang="ca-valencia">Respiració 4-7-8</li>
+          <li xml:lang="es">Respiración 4-7-8</li>
+          <li xml:lang="he">נשימת 4-7-8</li>
+          <li xml:lang="pt-BR">Respiração 4-7-8</li>
           <li>Coordinated Breathing</li>
+          <li xml:lang="ca">Respiració coordinada</li>
+          <li xml:lang="ca-valencia">Respiració coordinada</li>
+          <li xml:lang="es">Respiración coordinada</li>
+          <li xml:lang="he">נשימה מתואמת</li>
+          <li xml:lang="pt-BR">Respiração Coordenada</li>
           <li>Box Breathing</li>
+          <li xml:lang="ca">Respiració de caixa</li>
+          <li xml:lang="ca-valencia">Respiració de caixa</li>
+          <li xml:lang="es">Respiración cuadrada</li>
+          <li xml:lang="he">נשימת קופסה</li>
+          <li xml:lang="pt-BR">Respiração em Caixa</li>
           <li>Box Breathing (sleep)</li>
+          <li xml:lang="ca">Respiració de caixa (dormint)</li>
+          <li xml:lang="ca-valencia">Respiració de caixa (dormint)</li>
+          <li xml:lang="es">Respiración cuadrada (sueño)</li>
+          <li xml:lang="he">נשימת קופסה (לשינה)</li>
+          <li xml:lang="pt-BR">Respiração em Caixa (dormir)</li>
           <li>Resonant Breathing</li>
+          <li xml:lang="ca">Respiració ressonant</li>
+          <li xml:lang="ca-valencia">Respiració ressonant</li>
+          <li xml:lang="es">Respiración resonante</li>
+          <li xml:lang="he">נשימה מהדהדת</li>
+          <li xml:lang="pt-BR">Respiração Ressonante</li>
           <li>Nadi Shodhana</li>
+          <li xml:lang="ca">Nadi Shodhana</li>
+          <li xml:lang="ca-valencia">Nadi Shodhana</li>
+          <li xml:lang="es">Nadi Shodhana</li>
+          <li xml:lang="he">נאדי שודהאנה</li>
+          <li xml:lang="pt-BR">Nadi Shodhana</li>
           <li>Yogic Breathing</li>
+          <li xml:lang="ca">Respiració iòguica</li>
+          <li xml:lang="ca-valencia">Respiració iòguica</li>
+          <li xml:lang="es">Respiración yóguica</li>
+          <li xml:lang="he">נשימה יוגית</li>
+          <li xml:lang="pt-BR">Respiração Iogue</li>
         </ul>
       </description>
     </release>
