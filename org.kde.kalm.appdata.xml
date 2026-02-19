@@ -247,6 +247,8 @@
         <p xml:lang="nl">Ondersteunde ademtechnieken:</p>
         <p xml:lang="pt-BR">Técnicas de respiração suportadas:</p>
         <p xml:lang="ru">Поддерживаемые техники дыхания:</p>
+        <p xml:lang="sl">Podprte dihalne tehnike:</p>
+        <p xml:lang="uk">Підтримувані методики дихання:</p>
         <ul>
           <li>4-7-8 Breathing</li>
           <li xml:lang="ar">تنفس 4-7-8</li>
@@ -258,6 +260,8 @@
           <li xml:lang="nl">4-7-8 ademen</li>
           <li xml:lang="pt-BR">Respiração 4-7-8</li>
           <li xml:lang="ru">Дыхание 4-7-8;</li>
+          <li xml:lang="sl">Dihanje 4-7-8</li>
+          <li xml:lang="uk">Дихання 4-7-8</li>
           <li>Coordinated Breathing</li>
           <li xml:lang="ar">التنفس المنسق</li>
           <li xml:lang="ca">Respiració coordinada</li>
@@ -267,6 +271,8 @@
           <li xml:lang="nl">Gecoördineerd ademen</li>
           <li xml:lang="pt-BR">Respiração Coordenada</li>
           <li xml:lang="ru">Синхронизированное дыхание;</li>
+          <li xml:lang="sl">Koordinirano dihanje</li>
+          <li xml:lang="uk">Координоване дихання</li>
           <li>Box Breathing</li>
           <li xml:lang="ar">التنفس الصندوقي</li>
           <li xml:lang="ca">Respiració de caixa</li>
@@ -276,6 +282,8 @@
           <li xml:lang="nl">Doos ademhaling</li>
           <li xml:lang="pt-BR">Respiração em Caixa</li>
           <li xml:lang="ru">Дыхание по квадрату;</li>
+          <li xml:lang="sl">Škatlasto dihanje</li>
+          <li xml:lang="uk">Квадратне дихання</li>
           <li>Box Breathing (sleep)</li>
           <li xml:lang="ar">التنفس الصندوقي (النوم)</li>
           <li xml:lang="ca">Respiració de caixa (dormint)</li>
@@ -285,6 +293,8 @@
           <li xml:lang="nl">Doos ademhaling (slapen)</li>
           <li xml:lang="pt-BR">Respiração em Caixa (dormir)</li>
           <li xml:lang="ru">Дыхание по квадрату (во сне);</li>
+          <li xml:lang="sl">Škatlasto dihanje (spanje)</li>
+          <li xml:lang="uk">Квадратне дихання (сон)</li>
           <li>Resonant Breathing</li>
           <li xml:lang="ar">التنفس الرنان</li>
           <li xml:lang="ca">Respiració ressonant</li>
@@ -294,6 +304,8 @@
           <li xml:lang="nl">Resonerend ademen</li>
           <li xml:lang="pt-BR">Respiração Ressonante</li>
           <li xml:lang="ru">Резонансное дыхание;</li>
+          <li xml:lang="sl">Resonančno dihanje</li>
+          <li xml:lang="uk">Резонансне дихання</li>
           <li>Nadi Shodhana</li>
           <li xml:lang="ar">نادي شودانا</li>
           <li xml:lang="ca">Nadi Shodhana</li>
@@ -303,6 +315,8 @@
           <li xml:lang="nl">Nadi Shodhana</li>
           <li xml:lang="pt-BR">Nadi Shodhana</li>
           <li xml:lang="ru">Нади-шодхана</li>
+          <li xml:lang="sl">Nadi Shodhana</li>
+          <li xml:lang="uk">Наді Шодхана</li>
           <li>Yogic Breathing</li>
           <li xml:lang="ar">التنفس اليوغي</li>
           <li xml:lang="ca">Respiració iòguica</li>
@@ -312,6 +326,8 @@
           <li xml:lang="nl">Yoga ademen</li>
           <li xml:lang="pt-BR">Respiração Iogue</li>
           <li xml:lang="ru">Дыхательная йога</li>
+          <li xml:lang="sl">Jogijevsko dihanje</li>
+          <li xml:lang="uk">Йогічне дихання</li>
         </ul>
       </description>
     </release>
