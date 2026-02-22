@@ -243,6 +243,7 @@
         <p xml:lang="ca">Tècniques de respiració implementades:</p>
         <p xml:lang="ca-valencia">Tècniques de respiració implementades:</p>
         <p xml:lang="es">Técnicas de respiración implementadas:</p>
+        <p xml:lang="fr">Techniques de respiration prises en charge :</p>
         <p xml:lang="he">טכניקות נשימה נתמכות:</p>
         <p xml:lang="ka">მხარდაჭერილი სუნთქვის ტექნიკები:</p>
         <p xml:lang="nl">Ondersteunde ademtechnieken:</p>
@@ -258,6 +259,7 @@
           <li xml:lang="ca-valencia">Respiració 4-7-8</li>
           <li xml:lang="cs">Dýcháíní 4-7-8</li>
           <li xml:lang="es">Respiración 4-7-8</li>
+          <li xml:lang="fr">Respiration 4 - 7 - 8</li>
           <li xml:lang="he">נשימת 4-7-8</li>
           <li xml:lang="ka">4-7-8 სუნთქვა</li>
           <li xml:lang="nl">4-7-8 ademen</li>
@@ -271,6 +273,7 @@
           <li xml:lang="ca">Respiració coordinada</li>
           <li xml:lang="ca-valencia">Respiració coordinada</li>
           <li xml:lang="es">Respiración coordinada</li>
+          <li xml:lang="fr">Respiration coordonnée</li>
           <li xml:lang="he">נשימה מתואמת</li>
           <li xml:lang="ka">კოორდინირებული სუნთქვა</li>
           <li xml:lang="nl">Gecoördineerd ademen</li>
@@ -284,6 +287,7 @@
           <li xml:lang="ca">Respiració de caixa</li>
           <li xml:lang="ca-valencia">Respiració de caixa</li>
           <li xml:lang="es">Respiración cuadrada</li>
+          <li xml:lang="fr">Respiration en boîte</li>
           <li xml:lang="he">נשימת קופסה</li>
           <li xml:lang="ka">ყუთში სუნთქვა</li>
           <li xml:lang="nl">Doos ademhaling</li>
@@ -297,6 +301,7 @@
           <li xml:lang="ca">Respiració de caixa (dormint)</li>
           <li xml:lang="ca-valencia">Respiració de caixa (dormint)</li>
           <li xml:lang="es">Respiración cuadrada (sueño)</li>
+          <li xml:lang="fr">Respiration en boîte (Sommeil)</li>
           <li xml:lang="he">נשימת קופסה (לשינה)</li>
           <li xml:lang="ka">ყუთში სუნთქვა (ძილი)</li>
           <li xml:lang="nl">Doos ademhaling (slapen)</li>
@@ -310,6 +315,7 @@
           <li xml:lang="ca">Respiració ressonant</li>
           <li xml:lang="ca-valencia">Respiració ressonant</li>
           <li xml:lang="es">Respiración resonante</li>
+          <li xml:lang="fr">Respiration résonnante</li>
           <li xml:lang="he">נשימה מהדהדת</li>
           <li xml:lang="ka">რეზონანსული სუნთქვა</li>
           <li xml:lang="nl">Resonerend ademen</li>
@@ -323,6 +329,7 @@
           <li xml:lang="ca">Nadi Shodhana</li>
           <li xml:lang="ca-valencia">Nadi Shodhana</li>
           <li xml:lang="es">Nadi Shodhana</li>
+          <li xml:lang="fr">Nadi Shodhana</li>
           <li xml:lang="he">נאדי שודהאנה</li>
           <li xml:lang="ka">ნადი შოდჰანა</li>
           <li xml:lang="nl">Nadi Shodhana</li>
@@ -336,6 +343,7 @@
           <li xml:lang="ca">Respiració iòguica</li>
           <li xml:lang="ca-valencia">Respiració iòguica</li>
           <li xml:lang="es">Respiración yóguica</li>
+          <li xml:lang="fr">Respiration yogique</li>
           <li xml:lang="he">נשימה יוגית</li>
           <li xml:lang="ka">იოგის სუნთქვა</li>
           <li xml:lang="nl">Yoga ademen</li>
