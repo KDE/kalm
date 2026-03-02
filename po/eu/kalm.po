@@ -1,7 +1,7 @@
 # Translation for kalm.po to Euskara/Basque (eu).
 # Copyright (C) 2023-2024 This file is copyright:
 # This file is distributed under the same license as the kalm package.
-# SPDX-FileCopyrightText: 2023, 2024 KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>
+# SPDX-FileCopyrightText: 2023, 2024, 2026 KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>
 #
 # Translators:
 # SPDX-FileCopyrightText: 2023, 2024 Iñigo Salvador Azurmendi <xalba@ni.eus>
@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-11-17 11:55+0000\n"
-"PO-Revision-Date: 2024-07-07 10:27+0200\n"
+"PO-Revision-Date: 2026-03-01 13:34+0100\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.05.2\n"
+"X-Generator: Lokalize 25.12.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -33,7 +33,7 @@ msgstr "xalba@ni.eus"
 #: main.cpp:53
 #, kde-format
 msgid "Breathing techniques"
-msgstr "Arnas teknikak"
+msgstr "Arnasketa-teknikak"
 
 #: main.cpp:56
 #, kde-format
@@ -95,7 +95,7 @@ msgstr "bota"
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
-msgstr "Kaxa arnasketa («Box Breathing»)"
+msgstr "Kutxa-arnasketa"
 
 #: qml/BoxBreathingPage.qml:11
 #, kde-format
@@ -108,11 +108,11 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
-"Kaxa arnasketa («Box Breathing») AEBetako itsas armadako «SEAL»ek erabiltzen "
-"dute estresa azkar eta eraginkortasunez murrizteko.                    "
-"<br>                    <ul>                     <li>Hartu arnasa sudurretik "
-"(4s).</li>                    <li>Eutsi (4s).</li>                    "
-"<li>Bota arnasa sudurretik (4s).</li>                    <li>Eutsi (4s).</"
+"Kutxa-arnasketa AEBetako itsas armadako SEALek erabiltzen dute estresa azkar "
+"eta eraginkortasunez murrizteko.                    <br>                    "
+"<ul>                     <li>Hartu arnasa sudurretik (4s).</"
+"li>                    <li>Eutsi (4s).</li>                    <li>Bota "
+"arnasa sudurretik (4s).</li>                    <li>Eutsi (4s).</"
 "li>                    </ul>                    <br>                    "
 "Errepikatu gutxienez 5-10 minutuz."
 
@@ -120,7 +120,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
-msgstr "Kaxa arnasketa (loa)"
+msgstr "Kutxa-arnasketa (loa)"
 
 #: qml/BoxBreathingSleepPage.qml:11
 #, kde-format
@@ -133,13 +133,13 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"Kaxa arnasketaren («Box Breathing»)  aldaera bat, arnasa botatzeko fase "
-"luzeagoarekin, lotara joan aurretik erlaxatzen laguntzen "
-"du.                    <br>                    <ul>                    "
-"<li>Hartu arnasa sudurretik (4s).</li>                    <li>Eutsi (4s).</"
-"li>                    <li>Bota arnasa sudurretik (6s).</"
-"li>                    <li>Eutsi (2s).</li>                    </"
-"ul>                    <br>                    Errepikatu gutxienez 6 aldiz."
+"Kutxa-arnasketaren aldaera bat, arnasa botatzeko fase luzeagoarekin, lotara "
+"joan aurretik erlaxatzen laguntzen du.                    "
+"<br>                    <ul>                    <li>Hartu arnasa sudurretik "
+"(4s).</li>                    <li>Eutsi (4s).</li>                    "
+"<li>Bota arnasa sudurretik (6s).</li>                    <li>Eutsi (2s).</"
+"li>                    </ul>                    <br>                    "
+"Errepikatu gutxienez 6 aldiz."
 
 #: qml/BreathingPage.qml:40
 #, kde-format
@@ -151,7 +151,7 @@ msgstr "Informazioa"
 #, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
-msgstr "Arnasketa koordinatu"
+msgstr "Arnasketa koordinatua"
 
 #: qml/CoordinatedBreathingPage.qml:12
 #, kde-format
@@ -167,12 +167,12 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
-"Arnas Koordinatuak zure arnasaren efizientzia hobetzen du, diafragmaren "
+"Arnasketa Koordinatuak zure arnasaren efizientzia hobetzen du, diafragmaren "
 "mugimendua anplifikatuz.                    Sarritan kirolean eta abesten "
 "erabiltzen da.                    <br>                    "
 "<ul>                    <li>Eseri tente kokotsa gorputzarekiko 90°ko "
 "angeluan duzula.</li>                    <li>Hartu arnasa poliki sudurretik."
-"</li>                    <li>Bota arnasa behin eta berriz, isilean 10 arte "
+"</li>                    <li>Bota arnasa, isilean behin eta berriz 10 arte "
 "zenbatu bitartean.</li>                    <li>Arnasa botatzen bukatzean, "
 "jarraitu zenbatzen baina xuxurlatu. Utzi zure ahotsa itzaltzen birikak "
 "guztiz hustu arte.</li>                    </ul>                    "
@@ -186,22 +186,22 @@ msgstr "4-7-8 arnasketa"
 #: qml/KalmGlobalDrawer.qml:21
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr "Arnasketa koordinatu"
+msgstr "Arnasketa koordinatua"
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr "Kaxa arnasketa («Box Breathing»)"
+msgstr "Kutxa-arnasketa («Box Breathing»)"
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr "Kaxa arnasketa (loa)"
+msgstr "Kutxa-arnasketa (loa)"
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr "Arnasketa erresonante"
+msgstr "Arnasketa erresonantea"
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
@@ -269,7 +269,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
-msgstr "Arnasketa erresonantea"
+msgstr "Arnasketa-erresonantea"
 
 #: qml/ResonantBreathingPage.qml:11
 #, kde-format
@@ -282,13 +282,13 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
-"Arnasketa erresonanteak gorputza erlaxatzen du, bihotz-maiztasuna, odol-"
-"presioa eta arnasketa akoplatuz.                    <br>                    "
-"<ul>                    <li>Eseri tente eta erlaxatuta.</"
-"li>                    <li>Hartu arnasa (5,5s). Zabaldu sabela aireak zure "
-"birikak bete ahala.</li>                    <li>Bota arnasa (5,5s). Uzkurtu "
-"sabela birikak hustu ahala.</li>                    </ul>                    "
-"<br>                    Errepikatu gutxienez 10 aldiz."
+"Arnasketa-erresonanteak gorputza erlaxatzen du, bihotz taupaden maiztasuna, "
+"odol-presioa eta arnasketa elkarrekin sinkronizatuz.                    "
+"<br>                    <ul>                    <li>Eseri tente eta "
+"erlaxatuta.</li>                    <li>Hartu arnasa (5,5s). Zabaldu sabela "
+"aireak zure birikak bete ahala.</li>                    <li>Bota arnasa "
+"(5,5s). Uzkurtu sabela birikak hustu ahala.</li>                    </"
+"ul>                    <br>                    Errepikatu gutxienez 10 aldiz."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
