@@ -45,7 +45,7 @@
   <summary xml:lang="en-GB">Breathing techniques</summary>
   <summary xml:lang="eo">Spirteknikoj</summary>
   <summary xml:lang="es">Técnicas de respiración</summary>
-  <summary xml:lang="eu">Arnas teknikak</summary>
+  <summary xml:lang="eu">Arnasketa-teknikak</summary>
   <summary xml:lang="fr">Techniques de respiration</summary>
   <summary xml:lang="gl">Técnicas de respiración</summary>
   <summary xml:lang="he">טכניקות נשימה</summary>
@@ -84,7 +84,7 @@
     <p xml:lang="en-GB">Kalm can teach you different breathing techniques.</p>
     <p xml:lang="eo">Kalm povas instrui al vi difversajn spirteknikojn.</p>
     <p xml:lang="es">Kalm puede enseñarle distintas técnicas de respiración.</p>
-    <p xml:lang="eu">«Kalm»ek arnas teknika ezberdinak erakutsi diezazkizuke</p>
+    <p xml:lang="eu">Kalmek arnasketa-teknika ezberdinak irakatsi diezazkizuke</p>
     <p xml:lang="fr">Kalm peut vous enseigner différentes techniques de respiration.</p>
     <p xml:lang="gl">Kalm pode ensinarlle distintas técnicas de respiración.</p>
     <p xml:lang="he">Kalm יכול ללמד אותך מגוון טכניקות נשימה.</p>
@@ -244,6 +244,7 @@
         <p xml:lang="ca">Tècniques de respiració implementades:</p>
         <p xml:lang="ca-valencia">Tècniques de respiració implementades:</p>
         <p xml:lang="es">Técnicas de respiración implementadas:</p>
+        <p xml:lang="eu">Onartutako arnas-teknikak:</p>
         <p xml:lang="fr">Techniques de respiration prises en charge :</p>
         <p xml:lang="he">טכניקות נשימה נתמכות:</p>
         <p xml:lang="is">Öndunartækni í boði:</p>
@@ -255,6 +256,7 @@
         <p xml:lang="sl">Podprte dihalne tehnike:</p>
         <p xml:lang="tr">Desteklenen solunum teknikleri:</p>
         <p xml:lang="uk">Підтримувані методики дихання:</p>
+        <p xml:lang="zh-TW">支援的呼吸技巧：</p>
         <ul>
           <li>4-7-8 Breathing</li>
           <li xml:lang="ar">تنفس 4-7-8</li>
@@ -262,6 +264,7 @@
           <li xml:lang="ca-valencia">Respiració 4-7-8</li>
           <li xml:lang="cs">Dýcháíní 4-7-8</li>
           <li xml:lang="es">Respiración 4-7-8</li>
+          <li xml:lang="eu">4-7-8 arnasketa</li>
           <li xml:lang="fr">Respiration 4 - 7 - 8</li>
           <li xml:lang="he">נשימת 4-7-8</li>
           <li xml:lang="is">4-7-8 öndun</li>
@@ -273,11 +276,13 @@
           <li xml:lang="sl">Dihanje 4-7-8</li>
           <li xml:lang="tr">4-7-8 solunumu</li>
           <li xml:lang="uk">Дихання 4-7-8</li>
+          <li xml:lang="zh-TW">4-7-8 呼吸法</li>
           <li>Coordinated Breathing</li>
           <li xml:lang="ar">التنفس المنسق</li>
           <li xml:lang="ca">Respiració coordinada</li>
           <li xml:lang="ca-valencia">Respiració coordinada</li>
           <li xml:lang="es">Respiración coordinada</li>
+          <li xml:lang="eu">Arnasketa-koordinatua</li>
           <li xml:lang="fr">Respiration coordonnée</li>
           <li xml:lang="he">נשימה מתואמת</li>
           <li xml:lang="is">Samhæfð öndun</li>
@@ -289,11 +294,13 @@
           <li xml:lang="sl">Koordinirano dihanje</li>
           <li xml:lang="tr">Koordine Solunum</li>
           <li xml:lang="uk">Координоване дихання</li>
+          <li xml:lang="zh-TW">合作呼吸法</li>
           <li>Box Breathing</li>
           <li xml:lang="ar">التنفس الصندوقي</li>
           <li xml:lang="ca">Respiració de caixa</li>
           <li xml:lang="ca-valencia">Respiració de caixa</li>
           <li xml:lang="es">Respiración cuadrada</li>
+          <li xml:lang="eu">Kutxa-arnasketa</li>
           <li xml:lang="fr">Respiration en boîte</li>
           <li xml:lang="he">נשימת קופסה</li>
           <li xml:lang="is">Kassaöndun</li>
@@ -305,11 +312,13 @@
           <li xml:lang="sl">Škatlasto dihanje</li>
           <li xml:lang="tr">Kutu Solunumu</li>
           <li xml:lang="uk">Квадратне дихання</li>
+          <li xml:lang="zh-TW">盒式呼吸法</li>
           <li>Box Breathing (sleep)</li>
           <li xml:lang="ar">التنفس الصندوقي (النوم)</li>
           <li xml:lang="ca">Respiració de caixa (dormint)</li>
           <li xml:lang="ca-valencia">Respiració de caixa (dormint)</li>
           <li xml:lang="es">Respiración cuadrada (sueño)</li>
+          <li xml:lang="eu">Kutxa-arnasketa (loa)</li>
           <li xml:lang="fr">Respiration en boîte (Sommeil)</li>
           <li xml:lang="he">נשימת קופסה (לשינה)</li>
           <li xml:lang="is">Kassaöndun (svefn)</li>
@@ -321,11 +330,13 @@
           <li xml:lang="sl">Škatlasto dihanje (spanje)</li>
           <li xml:lang="tr">Kutu Solunumu (Uyku)</li>
           <li xml:lang="uk">Квадратне дихання (сон)</li>
+          <li xml:lang="zh-TW">盒式呼吸法（睡眠）</li>
           <li>Resonant Breathing</li>
           <li xml:lang="ar">التنفس الرنان</li>
           <li xml:lang="ca">Respiració ressonant</li>
           <li xml:lang="ca-valencia">Respiració ressonant</li>
           <li xml:lang="es">Respiración resonante</li>
+          <li xml:lang="eu">Arnasketa erresonantea</li>
           <li xml:lang="fr">Respiration résonnante</li>
           <li xml:lang="he">נשימה מהדהדת</li>
           <li xml:lang="is">Ómöndun (resonant)</li>
@@ -337,11 +348,13 @@
           <li xml:lang="sl">Resonančno dihanje</li>
           <li xml:lang="tr">Rezonans Solunum</li>
           <li xml:lang="uk">Резонансне дихання</li>
+          <li xml:lang="zh-TW">共振呼吸法</li>
           <li>Nadi Shodhana</li>
           <li xml:lang="ar">نادي شودانا</li>
           <li xml:lang="ca">Nadi Shodhana</li>
           <li xml:lang="ca-valencia">Nadi Shodhana</li>
           <li xml:lang="es">Nadi Shodhana</li>
+          <li xml:lang="eu">Nadi Shodhana</li>
           <li xml:lang="fr">Nadi Shodhana</li>
           <li xml:lang="he">נאדי שודהאנה</li>
           <li xml:lang="is">Nadi Shodhana</li>
@@ -353,11 +366,13 @@
           <li xml:lang="sl">Nadi Shodhana</li>
           <li xml:lang="tr">Nadi Shodhana</li>
           <li xml:lang="uk">Наді Шодхана</li>
+          <li xml:lang="zh-TW">鼻孔交替呼吸法 (Nadi Shodhana)</li>
           <li>Yogic Breathing</li>
           <li xml:lang="ar">التنفس اليوغي</li>
           <li xml:lang="ca">Respiració iòguica</li>
           <li xml:lang="ca-valencia">Respiració iòguica</li>
           <li xml:lang="es">Respiración yóguica</li>
+          <li xml:lang="eu">Arnasketa yogikoa</li>
           <li xml:lang="fr">Respiration yogique</li>
           <li xml:lang="he">נשימה יוגית</li>
           <li xml:lang="is">Jógaöndun</li>
@@ -369,6 +384,7 @@
           <li xml:lang="sl">Jogijevsko dihanje</li>
           <li xml:lang="tr">Yoga Solunumu</li>
           <li xml:lang="uk">Йогічне дихання</li>
+          <li xml:lang="zh-TW">瑜伽呼吸法</li>
         </ul>
       </description>
     </release>
