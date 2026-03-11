@@ -425,6 +425,3 @@ msgid ""
 msgstr ""
 "expiració\n"
 "(ventre)"
-
-#~ msgid "s"
-#~ msgstr "s"
