@@ -80,6 +80,7 @@
     <p xml:lang="ar">يعلمك نفس تقنيات التنفس المختلفة.</p>
     <p xml:lang="ca">El Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
     <p xml:lang="ca-valencia">Kalm pot ensenyar-vos tècniques diferents de respiració.</p>
+    <p xml:lang="cs">Kalm vás může naučit různé techniky dýchání.</p>
     <p xml:lang="de">Kalm kann beim Erlernen unterschiedlicher Atemtechniken behilflich sein.</p>
     <p xml:lang="en-GB">Kalm can teach you different breathing techniques.</p>
     <p xml:lang="eo">Kalm povas instrui al vi difversajn spirteknikojn.</p>
@@ -243,6 +244,7 @@
         <p xml:lang="ar">تقنيات التنفس المتاحة:</p>
         <p xml:lang="ca">Tècniques de respiració implementades:</p>
         <p xml:lang="ca-valencia">Tècniques de respiració implementades:</p>
+        <p xml:lang="cs">Podporované dechové techniky:</p>
         <p xml:lang="es">Técnicas de respiración implementadas:</p>
         <p xml:lang="eu">Onartutako arnas-teknikak:</p>
         <p xml:lang="fr">Techniques de respiration prises en charge :</p>
@@ -262,7 +264,7 @@
           <li xml:lang="ar">تنفس 4-7-8</li>
           <li xml:lang="ca">Respiració 4-7-8</li>
           <li xml:lang="ca-valencia">Respiració 4-7-8</li>
-          <li xml:lang="cs">Dýcháíní 4-7-8</li>
+          <li xml:lang="cs">Dýchání 4-7-8</li>
           <li xml:lang="es">Respiración 4-7-8</li>
           <li xml:lang="eu">4-7-8 arnasketa</li>
           <li xml:lang="fr">Respiration 4 - 7 - 8</li>
@@ -281,6 +283,7 @@
           <li xml:lang="ar">التنفس المنسق</li>
           <li xml:lang="ca">Respiració coordinada</li>
           <li xml:lang="ca-valencia">Respiració coordinada</li>
+          <li xml:lang="cs">Koordinované dýchání</li>
           <li xml:lang="es">Respiración coordinada</li>
           <li xml:lang="eu">Arnasketa-koordinatua</li>
           <li xml:lang="fr">Respiration coordonnée</li>
@@ -299,6 +302,7 @@
           <li xml:lang="ar">التنفس الصندوقي</li>
           <li xml:lang="ca">Respiració de caixa</li>
           <li xml:lang="ca-valencia">Respiració de caixa</li>
+          <li xml:lang="cs">Čtvercové dýchání</li>
           <li xml:lang="es">Respiración cuadrada</li>
           <li xml:lang="eu">Kutxa-arnasketa</li>
           <li xml:lang="fr">Respiration en boîte</li>
@@ -317,6 +321,7 @@
           <li xml:lang="ar">التنفس الصندوقي (النوم)</li>
           <li xml:lang="ca">Respiració de caixa (dormint)</li>
           <li xml:lang="ca-valencia">Respiració de caixa (dormint)</li>
+          <li xml:lang="cs">Čtvercové dýchání (spánek)</li>
           <li xml:lang="es">Respiración cuadrada (sueño)</li>
           <li xml:lang="eu">Kutxa-arnasketa (loa)</li>
           <li xml:lang="fr">Respiration en boîte (Sommeil)</li>
@@ -335,6 +340,7 @@
           <li xml:lang="ar">التنفس الرنان</li>
           <li xml:lang="ca">Respiració ressonant</li>
           <li xml:lang="ca-valencia">Respiració ressonant</li>
+          <li xml:lang="cs">Rezonanční dýchání</li>
           <li xml:lang="es">Respiración resonante</li>
           <li xml:lang="eu">Arnasketa erresonantea</li>
           <li xml:lang="fr">Respiration résonnante</li>
@@ -353,6 +359,7 @@
           <li xml:lang="ar">نادي شودانا</li>
           <li xml:lang="ca">Nadi Shodhana</li>
           <li xml:lang="ca-valencia">Nadi Shodhana</li>
+          <li xml:lang="cs">Nádí šodhana</li>
           <li xml:lang="es">Nadi Shodhana</li>
           <li xml:lang="eu">Nadi Shodhana</li>
           <li xml:lang="fr">Nadi Shodhana</li>
@@ -371,6 +378,7 @@
           <li xml:lang="ar">التنفس اليوغي</li>
           <li xml:lang="ca">Respiració iòguica</li>
           <li xml:lang="ca-valencia">Respiració iòguica</li>
+          <li xml:lang="cs">Jogínské dýchání</li>
           <li xml:lang="es">Respiración yóguica</li>
           <li xml:lang="eu">Arnasketa yogikoa</li>
           <li xml:lang="fr">Respiration yogique</li>
