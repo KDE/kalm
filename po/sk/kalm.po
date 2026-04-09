@@ -12,8 +12,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 23.08.3\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 23.08.3\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -44,7 +44,7 @@ msgstr "© 2023 KDE komunita"
 #, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
-msgstr ""
+msgstr "Dýchanie 4-7-8"
 
 #: qml/478BreathingPage.qml:11
 #, kde-format
@@ -57,13 +57,19 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
+"Dýchanie 4-7-8 uvádza telo do stavu hlbokého uvoľnenia, napr. na lepšie "
+"zaspanie počas letu.                    <br>                    "
+"<ul>                    <li>Nadýchnite sa nosom (4 s).</"
+"li>                    <li>Zadržte dych (7 s).</li>                    "
+"<li>Vydýchnite ústami so šumivým zvukom (8 s).</li>                    </"
+"ul>                    <br>                    Opakujte aspoň 4-krát."
 
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
 #, kde-format
 msgid "in"
-msgstr ""
+msgstr "nádych"
 
 #: qml/478BreathingPage.qml:50 qml/BoxBreathingPage.qml:51
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
@@ -71,20 +77,20 @@ msgstr ""
 #: qml/NadiShodhanaPage.qml:86
 #, kde-format
 msgid "hold"
-msgstr ""
+msgstr "zadržať"
 
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
 #, kde-format
 msgid "out"
-msgstr ""
+msgstr "výdych"
 
 #: qml/BoxBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing"
-msgstr ""
+msgstr "Štvorcové dýchanie"
 
 #: qml/BoxBreathingPage.qml:11
 #, kde-format
@@ -97,12 +103,18 @@ msgid ""
 "ul>                    <br>                    Repeat for at least 5-10 "
 "minutes."
 msgstr ""
+"Štvorcové dýchanie používajú Navy SEALs na rýchle a účinné zníženie "
+"stresu.                    <br>                    <ul>                    "
+"<li>Nadýchnite sa nosom (4 s).</li>                    <li>Zadržte dych (4 "
+"s).</li>                    <li>Vydýchnite nosom (4 s).</"
+"li>                    <li>Zadržte dych (4 s).</li>                    </"
+"ul>                    <br>                    Opakujte aspoň 5 – 10 minút."
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
-msgstr ""
+msgstr "Štvorcové dýchanie (spánok)"
 
 #: qml/BoxBreathingSleepPage.qml:11
 #, kde-format
@@ -115,18 +127,24 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
+"Variant štvorcového dýchania s dlhšou fázou výdychu pomáha uvoľniť sa pred "
+"spaním.                    <br>                    <ul>                    "
+"<li>Nadýchnite sa nosom (4 s).</li>                    <li>Zadržte dych (4 "
+"s).</li>                    <li>Vydýchnite nosom (6 s).</"
+"li>                    <li>Zadržte dych (2 s).</li>                    </"
+"ul>                    <br>                    Opakujte aspoň 6-krát."
 
 #: qml/BreathingPage.qml:40
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "Informácia"
 
 #: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
 msgctxt "@title"
 msgid "Coordinated Breathing"
-msgstr ""
+msgstr "Koordinované dýchanie"
 
 #: qml/CoordinatedBreathingPage.qml:12
 #, kde-format
@@ -142,41 +160,50 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
+"Koordinované dýchanie zlepšuje účinnosť dýchania zosilnením pohybu "
+"bránice.                    Často sa používa pri športe alebo "
+"speve.                    <br>                    <ul>                    "
+"<li>Seďte vzpriamene s bradou v uhle 90° voči telu.</li>                    "
+"<li>Jemne sa nadýchnite nosom.</li>                    <li>Vydychujte a "
+"pritom opakovane potichu počítajte do 10.</li>                    <li>Keď "
+"dokončíte výdych, pokračujte v počítaní, ale šeptom. Nechajte hlas postupne "
+"zaniknúť, kým nebudú pľúca úplne prázdne.</li>                    </"
+"ul>                    <br>                    Opakujte aspoň 10 – 30-krát."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr ""
+msgstr "Dýchanie 4-7-8"
 
 #: qml/KalmGlobalDrawer.qml:21
 #, kde-format
 msgid "Coordinated Breathing"
-msgstr ""
+msgstr "Koordinované dýchanie"
 
 #: qml/KalmGlobalDrawer.qml:30
 #, kde-format
 msgid "Box Breathing"
-msgstr ""
+msgstr "Štvorcové dýchanie"
 
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr ""
+msgstr "Štvorcové dýchanie (spánok)"
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
-msgstr ""
+msgstr "Rezonančné dýchanie"
 
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
-msgstr ""
+msgstr "Nadi Shodhana"
 
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr ""
+msgstr "Jogové dýchanie"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:11
@@ -187,13 +214,13 @@ msgstr "Nastavenia"
 #: qml/KalmGlobalDrawer.qml:81 qml/KalmGlobalDrawer.qml:84
 #, kde-format
 msgid "About"
-msgstr ""
+msgstr "O aplikácii"
 
 #: qml/NadiShodhanaPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
-msgstr ""
+msgstr "Nadi Shodhana"
 
 #: qml/NadiShodhanaPage.qml:11
 #, kde-format
@@ -214,12 +241,27 @@ msgid ""
 "breathe out through your left nostril.</li>                    </"
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
+"Nadi Shodhana (striedavé dýchanie nosovými dierkami) znižuje krvný tlak a "
+"pomáha udržiavať pokojnú myseľ.                    <br>                    "
+"<ul>                    <li>Položte palec pravej ruky na pravú nosovú "
+"dierku, ukazovák a prostredník medzi obočie a prstenník na ľavú nosovú "
+"dierku.</li>                    <li>Zatvorte pravú nosovú dierku palcom a "
+"nadýchnite sa ľavou nosovou dierkou.</li>                    <li>Zatvorte "
+"obe nosové dierky palcom a prstenníkom. Zadržte dych.</"
+"li>                    <li>Zdvihnite palec a vydýchnite pravou nosovou "
+"dierkou.</li>                    <li>Zatvorte obe nosové dierky palcom a "
+"prstenníkom. Zadržte dych.</li>                    <li>Zdvihnite palec a "
+"nadýchnite sa pravou nosovou dierkou.</li>                    <li>Zatvorte "
+"obe nosové dierky palcom a prstenníkom. Zadržte dych.</"
+"li>                    <li>Zatvorte pravú nosovú dierku palcom a vydýchnite "
+"ľavou nosovou dierkou.</li>                    </ul>                    "
+"<br>                    Opakujte 5 – 10-krát."
 
 #: qml/ResonantBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Resonant Breathing"
-msgstr ""
+msgstr "Rezonančné dýchanie"
 
 #: qml/ResonantBreathingPage.qml:11
 #, kde-format
@@ -232,42 +274,49 @@ msgid ""
 "lungs are emptied.</li>                    </ul>                    "
 "<br>                    Repeat at least 10 times."
 msgstr ""
+"Rezonančné dýchanie uvoľňuje telo prepojením srdcovej frekvencie, krvného "
+"tlaku a dýchania.                    <br>                    "
+"<ul>                    <li>Sadnite si vzpriamene a uvoľnene.</"
+"li>                    <li>Nadýchnite sa (5,5 s). Roztiahните brucho, keď "
+"vzduch napĺňa vaše pľúca.</li>                    <li>Vydýchnite (5,5 s). "
+"Stiahnite brucho, keď sa vaše pľúca vyprázdňujú.</li>                    </"
+"ul>                    <br>                    Opakujte aspoň 10-krát."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
 msgctxt "@title:group"
 msgid "General"
-msgstr ""
+msgstr "Všeobecné"
 
 #: qml/SettingsPage.qml:19
 #, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
-msgstr ""
+msgstr "Zobraziť informačné tlačidlo"
 
 #: qml/SettingsPage.qml:29
 #, kde-format
 msgctxt "@title:group"
 msgid "Coordinated Breathing"
-msgstr ""
+msgstr "Koordinované dýchanie"
 
 #: qml/SettingsPage.qml:34
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr ""
+msgstr "Trvanie výdychu:"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1 s"
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
-msgstr ""
+msgstr "Jógové dýchanie"
 
 #: qml/YogicBreathingPage.qml:11
 #, kde-format
@@ -291,6 +340,24 @@ msgid ""
 "individually                    (i.e. breathe only into your belly, then "
 "breathe out again etc.)."
 msgstr ""
+"Jógové dýchanie je štandardná pranajámová technika na revitalizáciu "
+"tela.                    <br>                    <ul>                    "
+"<li>Položte ruku na pupok. Nadýchnite sa do brucha a vnímajte rozpínanie.</"
+"li>                    <li>Posuňte ruku nahor nad dolné rebrá. Nadýchnite sa "
+"do strednej časti trupu a vnímajte rozpínanie.</li>                    "
+"<li>Posuňte ruku nahor k hornej časti hrudníka. Nadýchnite sa a vnímajte, "
+"ako sa kľúčne kosti mierne dvíhajú.</li>                    <li>Vydýchnite. "
+"Vnímajte, ako kľúčne kosti klesajú.</li>                    <li>Posuňte ruku "
+"nadol k dolným rebrám. Vydýchnite a vnímajte, ako sa stredná časť trupu "
+"sťahuje.</li>                    <li>Posuňte ruku nadol k pupku. Vydýchnite "
+"a vnímajte, ako sa brucho sťahuje.</li>                    </"
+"ul>                    <br>                    Opakujte až 15 "
+"minút.                    <br>                    <br>                    "
+"Jednotlivé kroky by mali tvoriť jeden plynulý nádych a "
+"výdych.                    <br>                    Na začiatku môže byť "
+"užitočné precvičovať tri fázy (brucho, stredná časť trupu, horná časť "
+"hrudníka) jednotlivo                    (t. j. nadýchnite sa len do brucha, "
+"potom znova vydýchnite atď.)."
 
 #: qml/YogicBreathingPage.qml:48
 #, kde-format
@@ -298,6 +365,8 @@ msgid ""
 "in\n"
 "(belly)"
 msgstr ""
+"nádych\n"
+"(brucho)"
 
 #: qml/YogicBreathingPage.qml:59
 #, kde-format
@@ -305,6 +374,8 @@ msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
+"nádych\n"
+"(stred trupu)"
 
 #: qml/YogicBreathingPage.qml:70
 #, kde-format
@@ -312,6 +383,8 @@ msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
+"nádych\n"
+"(horný hrudník)"
 
 #: qml/YogicBreathingPage.qml:85
 #, kde-format
@@ -319,6 +392,8 @@ msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
+"výdych\n"
+"(horný hrudník)"
 
 #: qml/YogicBreathingPage.qml:96
 #, kde-format
@@ -326,6 +401,8 @@ msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
+"výdych\n"
+"(stred trupu)"
 
 #: qml/YogicBreathingPage.qml:107
 #, kde-format
@@ -333,3 +410,5 @@ msgid ""
 "out\n"
 "(belly)"
 msgstr ""
+"výdych\n"
+"(brucho)"
