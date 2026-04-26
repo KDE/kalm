@@ -55,7 +55,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("in")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe in'", "in")
             }
 
             NumberAnimation {

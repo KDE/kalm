@@ -45,7 +45,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("in\n(belly)")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe in'", "in\n(belly)")
             }
 
             NumberAnimation {
@@ -56,7 +56,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("in\n(mid-torso)")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe in'", "in\n(mid-torso)")
             }
 
             NumberAnimation {
@@ -67,7 +67,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("in\n(upper chest)")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe in'", "in\n(upper chest)")
             }
 
             NumberAnimation {
@@ -82,7 +82,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("out\n(upper chest)")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe out'", "out\n(upper chest)")
             }
 
             NumberAnimation {
@@ -93,7 +93,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("out\n(mid-torso)")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe out'", "out\n(mid-torso)")
             }
 
             NumberAnimation {
@@ -104,7 +104,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("out\n(belly)")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe out'", "out\n(belly)")
             }
 
             NumberAnimation {

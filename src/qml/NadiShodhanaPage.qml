@@ -46,7 +46,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("in")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'breathe in'", "in")
             }
 
             NumberAnimation {
@@ -57,7 +57,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("hold")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'hold your breath'", "hold")
             }
 
             PauseAnimation {
@@ -71,7 +71,7 @@ BreathingPage {
                     else
                         rect.anchors.left = rect.parent.left;
                     rect.leftNostril = !rect.leftNostril;
-                    page.instructionText = i18n("out");
+                    page.instructionText = i18nc("Breathing instruction, as in 'breathe out'", "out");
                 }
             }
 
@@ -83,7 +83,7 @@ BreathingPage {
             }
 
             ScriptAction {
-                script: page.instructionText = i18n("hold")
+                script: page.instructionText = i18nc("Breathing instruction, as in 'hold your breath'", "hold")
             }
 
             PauseAnimation {
