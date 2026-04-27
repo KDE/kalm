@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 11:55+0000\n"
+"POT-Creation-Date: 2026-04-27 00:47+0000\n"
 "PO-Revision-Date: 2024-10-25 18:44+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -72,7 +72,9 @@ msgstr ""
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "in"
+msgctxt "Breathing instruction, as in 'breathe in'"
 msgid "in"
 msgstr "inspireu"
 
@@ -80,14 +82,18 @@ msgstr "inspireu"
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
 #: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
 #: qml/NadiShodhanaPage.qml:86
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "hold"
+msgctxt "Breathing instruction, as in 'hold your breath'"
 msgid "hold"
 msgstr "aguanteu"
 
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "out"
+msgctxt "Breathing instruction, as in 'breathe out'"
 msgid "out"
 msgstr "expireu"
 
@@ -373,7 +379,11 @@ msgstr ""
 "nou, etc.)."
 
 #: qml/YogicBreathingPage.qml:48
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "in\n"
+#| "(belly)"
+msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
 "(belly)"
@@ -382,7 +392,11 @@ msgstr ""
 "(ventre)"
 
 #: qml/YogicBreathingPage.qml:59
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "in\n"
+#| "(mid-torso)"
+msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
 "(mid-torso)"
@@ -391,7 +405,11 @@ msgstr ""
 "(tors mitjà)"
 
 #: qml/YogicBreathingPage.qml:70
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "in\n"
+#| "(upper chest)"
+msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
 "(upper chest)"
@@ -400,7 +418,11 @@ msgstr ""
 "(pit superior)"
 
 #: qml/YogicBreathingPage.qml:85
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "out\n"
+#| "(upper chest)"
+msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
 "(upper chest)"
@@ -409,7 +431,11 @@ msgstr ""
 "(pit superior)"
 
 #: qml/YogicBreathingPage.qml:96
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "out\n"
+#| "(mid-torso)"
+msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
 "(mid-torso)"
@@ -418,7 +444,11 @@ msgstr ""
 "(tors mitjà)"
 
 #: qml/YogicBreathingPage.qml:107
-#, kde-format
+#, fuzzy, kde-format
+#| msgid ""
+#| "out\n"
+#| "(belly)"
+msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
 "(belly)"
