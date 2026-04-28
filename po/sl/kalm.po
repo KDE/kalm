@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-04-27 00:47+0000\n"
-"PO-Revision-Date: 2024-05-20 05:52+0200\n"
+"PO-Revision-Date: 2026-04-27 07:26+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
 "%100==4 ? 3 : 0);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.9\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -70,8 +70,7 @@ msgstr ""
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
-#, fuzzy, kde-format
-#| msgid "in"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid "in"
 msgstr "noter"
@@ -80,8 +79,7 @@ msgstr "noter"
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
 #: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
 #: qml/NadiShodhanaPage.qml:86
-#, fuzzy, kde-format
-#| msgid "hold"
+#, kde-format
 msgctxt "Breathing instruction, as in 'hold your breath'"
 msgid "hold"
 msgstr "držite"
@@ -89,8 +87,7 @@ msgstr "držite"
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
-#, fuzzy, kde-format
-#| msgid "out"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid "out"
 msgstr "ven"
@@ -353,10 +350,7 @@ msgstr ""
 "samo v trebuh, potem spet izdihujte itd.)."
 
 #: qml/YogicBreathingPage.qml:48
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -366,10 +360,7 @@ msgstr ""
 "(trebuh)"
 
 #: qml/YogicBreathingPage.qml:59
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -379,10 +370,7 @@ msgstr ""
 "(sredina trupa)"
 
 #: qml/YogicBreathingPage.qml:70
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -392,10 +380,7 @@ msgstr ""
 "(zgornji del prsnega koša)"
 
 #: qml/YogicBreathingPage.qml:85
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -405,10 +390,7 @@ msgstr ""
 "(zgornji del prsnega koša)"
 
 #: qml/YogicBreathingPage.qml:96
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -418,10 +400,7 @@ msgstr ""
 "(sredina trupa)"
 
 #: qml/YogicBreathingPage.qml:107
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
