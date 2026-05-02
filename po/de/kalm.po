@@ -3,20 +3,21 @@
 # Copyright (C) 2023 This file is copyright:
 # This file is distributed under the same license as the kalm package.
 # SPDX-FileCopyrightText: 2024 Johannes Obermayr <johannesobermayr@gmx.de>
+# SPDX-FileCopyrightText: 2026 Philipp Kiemle <l10n.daphipz@fastmail.de>
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-04-27 00:47+0000\n"
-"PO-Revision-Date: 2024-09-30 11:54+0200\n"
-"Last-Translator: Johannes Obermayr <johannesobermayr@gmx.de>\n"
+"PO-Revision-Date: 2026-04-28 23:19+0200\n"
+"Last-Translator: Philipp Kiemle <l10n.daphipz@fastmail.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.11.70\n"
+"X-Generator: Lokalize 25.12.3\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -60,17 +61,16 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 4 times."
 msgstr ""
-"Die 4-7-8-Atmung bringt den Körper in einen tiefen Relaxzustand, damit "
-"beispielsweise während eines Fluges ein besseres Einschlafen möglich wird."
-"<br><ul><li>Einatmen durch die Nase (4 Sek.).</li><li>Halten (7 Sek.).</"
-"li><li>Ausatmen durch den Mund mit einem rauschenden Klang (8 Sek.)</li></"
+"Die 4-7-8-Atmung bringt den Körper in einen tiefen Entspannungszustand, "
+"damit beispielsweise während eines Fluges ein besseres Einschlafen möglich "
+"wird.<br><ul><li>Atmen Sie durch die Nase ein (4 s).</li><li>Halten (7 s).</"
+"li><li>Atmen Sie durch den Mund mit einem rauschenden Klang aus (8 s)</li></"
 "ul><br>Mindestens vier Wiederholungen."
 
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
-#, fuzzy, kde-format
-#| msgid "in"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid "in"
 msgstr "Einatmen"
@@ -79,8 +79,7 @@ msgstr "Einatmen"
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
 #: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
 #: qml/NadiShodhanaPage.qml:86
-#, fuzzy, kde-format
-#| msgid "hold"
+#, kde-format
 msgctxt "Breathing instruction, as in 'hold your breath'"
 msgid "hold"
 msgstr "Halten"
@@ -88,8 +87,7 @@ msgstr "Halten"
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
-#, fuzzy, kde-format
-#| msgid "out"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid "out"
 msgstr "Ausatmen"
@@ -112,16 +110,16 @@ msgid ""
 "minutes."
 msgstr ""
 "Vier-Viertel-Atmung (Box Breathing) wird von den Navy SEALs zur schnellen "
-"und effektiven Stressreduktion verwendet.<br><ul><li>Einatmen durch die Nase "
-"(4 Sek.).</li><li>Halten (4 Sek.).</li><li>Ausatmen durch die Nase (4 Sek.)."
-"</li><li>Halten (4 Sek.).</li></ul><br>Mindestens 5 bis 10 Minuten lang "
+"und effektiven Stressreduktion verwendet.<br><ul><li>Atmen Sie durch die "
+"Nase ein (4 s).</li><li>Halten (4 s).</li><li>Atmen Sie durch die Nase aus "
+"(4 s).</li><li>Halten (4 s).</li></ul><br>Mindestens 5 bis 10 Minuten lang "
 "wiederholen."
 
 #: qml/BoxBreathingSleepPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Box Breathing (sleep)"
-msgstr "Vier-Viertel-Atmung (Schlafen)"
+msgstr "Vier-Viertel-Atmung (Schlaf)"
 
 #: qml/BoxBreathingSleepPage.qml:11
 #, kde-format
@@ -134,10 +132,10 @@ msgid ""
 "li>                    </ul>                    <br>                    "
 "Repeat at least 6 times."
 msgstr ""
-"Eine Vier-Viertel-Atmungsvariante mit einer längeren Ausatemphase hilft zur "
-"Entspannung vor dem Schlafengehen.<br><ul><li>Einatmen durch die Nase (4 "
-"Sek.).</li><li>Halten (4 Sek.).</li><li>Ausatmen durch die Nase (6 Sek.).</"
-"li><li>Halten (2 Sek.).</li></ul><br>Mindestens vier Wiederholungen."
+"Eine Variante der Vier-Viertel-Atmung mit einer längeren Ausatemphase hilft "
+"zur Entspannung vor dem Schlafengehen.<br><ul><li>Atmen Sie durch die Nase "
+"ein (4 s).</li><li>Halten (4 s).</li><li>Atmen Sie durch die Nase aus (6 s)."
+"</li><li>Halten (2 s).</li></ul><br>Mindestens sechs Wiederholungen."
 
 #: qml/BreathingPage.qml:40
 #, kde-format
@@ -165,13 +163,14 @@ msgid ""
 "completely empty.</li>                    </ul>                    "
 "<br>                    Repeat at least 10-30 times."
 msgstr ""
-"Die koordinierte Atmung verbessert die Effizienz der Atmung, indem die "
-"Bewegung des Zwerchfells verstärkt wird. Es wird oft im Sport oder im Gesang "
-"angewendet.<br><ul><li>Mit dem Kinn in einem Winkel von 90 ° zum Körper "
-"aufrecht hinsetzen.</li><li>Sanftes Einatmen durch Ihre Nase.</li><li>Beim "
-"wiederholten Ausatmen langsam bis 10 zählen.</li><li>Danach durch Flüstern "
-"weiterzählen. Dabei die Stimme verblassen lassen, bis die Lunge völlig leer "
-"ist.</li></ul><br>Mindestens 10-30 Wiederholungen."
+"Die koordinierte Atmung verbessert die Atmungseffizienz, indem die Bewegung "
+"des Zwerchfells verstärkt wird. Sie wird oft beim Sport oder beim Singen "
+"angewendet.<br><ul><li>Setzen Sie sich aufrecht hin, mit dem Kinn in einem "
+"Winkel von 90° zum Körper.</li><li>Atmen Sie sanft durch Ihre Nase ein.</"
+"li><li>Atmen Sie aus. Zählen Sie dabei im Kopf immer wieder bis 10.</"
+"li><li>Wenn Sie fertig ausgeatmet haben, zählen Sie flüsternd weiter. Lassen "
+"Sie Ihre Stimme verklingen, bis Ihre Lunge völlig leer ist.</li></"
+"ul><br>Mindestens 10–30 Wiederholungen."
 
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
@@ -191,22 +190,24 @@ msgstr "Vier-Viertel-Atmung"
 #: qml/KalmGlobalDrawer.qml:39
 #, kde-format
 msgid "Box Breathing (sleep)"
-msgstr "Vier-Viertel-Atmung (Schlafen)"
+msgstr "Vier-Viertel-Atmung (Schlaf)"
 
 #: qml/KalmGlobalDrawer.qml:48
 #, kde-format
 msgid "Resonant Breathing"
 msgstr "Resonanzatmung"
 
+# https://wiki.yoga-vidya.de/Nadi_Shodhana
 #: qml/KalmGlobalDrawer.qml:57
 #, kde-format
 msgid "Nadi Shodhana"
 msgstr "Wechselatmung"
 
+# https://www.taohealth.de/was-ist-pranayama/
 #: qml/KalmGlobalDrawer.qml:66
 #, kde-format
 msgid "Yogic Breathing"
-msgstr "Yoga-Atmung"
+msgstr "Yogische Atmung"
 
 #: qml/KalmGlobalDrawer.qml:75 qml/KalmGlobalDrawer.qml:78
 #: qml/SettingsPage.qml:11
@@ -219,12 +220,14 @@ msgstr "Einstellungen"
 msgid "About"
 msgstr "Über"
 
+# https://wiki.yoga-vidya.de/Nadi_Shodhana
 #: qml/NadiShodhanaPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Nadi Shodhana"
 msgstr "Wechselatmung"
 
+# https://wiki.yoga-vidya.de/Nadi_Shodhana
 #: qml/NadiShodhanaPage.qml:11
 #, kde-format
 msgid ""
@@ -245,16 +248,18 @@ msgid ""
 "ul>                    <br>                    Repeat 5-10 times."
 msgstr ""
 "Die Wechselatmung (Nadi Shodhana) senkt den Blutdruck und hilft, einen "
-"ruhigen Geist zu bewahren.<br><ul><li>Den Daumen der rechten Hand auf das "
-"rechte Nasenloch, Zeige- und Mittelfinger zwischen die Augenbrauen und den "
-"Ringfinger auf das linke Nasenloch legen.</li><li>Das rechte Nasenloch mit "
-"dem Daumen schließen und durch das linke Nasenloch einatmen.</li><li>Beide "
-"Nasenlöcher mit Daumen und Ringfinger schließen und halten.</li><li>Daumen "
-"heben und durch das rechte Nasenloch ausatmen.</li><li>Beide Nasenlöcher mit "
-"Daumen und Ringfinger schließen und halten.</li><li>Daumen heben und durch "
-"das rechte Nasenloch einatmen.</li><li>Beide Nasenlöcher mit Daumen und "
-"Ringfinger schließen und halten.</li><li>Rechtes Nasenloch mit dem Daumen "
-"schließen und durch das linke Nasenloch ausatmen.</li></ul><br>5 bis 10 "
+"ruhigen Geist zu bewahren.<br><ul><li>Legen Sie den Daumen der rechten Hand "
+"auf das rechte Nasenloch, Zeige- und Mittelfinger zwischen die Augenbrauen "
+"und den Ringfinger auf das linke Nasenloch.</li><li>Verschließen Sie das "
+"rechte Nasenloch mit dem Daumen und atmen Sie durch das linke Nasenloch ein."
+"</li><li>Verschließen Sie beide Nasenlöcher mit Daumen und Ringfinger und "
+"halten Sie diese Position.</li><li>Heben Sie den Daumen an und atmen Sie "
+"durch das rechte Nasenloch aus.</li><li>Verschließen Sie beide Nasenlöcher "
+"mit Daumen und Ringfinger und halten Sie diese Position.</li><li>Heben Sie "
+"den Daumen an und atmen Sie durch das rechte Nasenloch ein.</"
+"li><li>Verschließen Sie beide Nasenlöcher mit Daumen und Ringfinger und "
+"halten Sie diese Position.</li><li>Verschließen Sie das rechte Nasenloch mit "
+"dem Daumen und atmen Sie durch das linke Nasenloch aus.</li></ul><br>5-10 "
 "Wiederholungen."
 
 #: qml/ResonantBreathingPage.qml:10
@@ -275,10 +280,11 @@ msgid ""
 "<br>                    Repeat at least 10 times."
 msgstr ""
 "Die Resonanzatmung entspannt den Körper, indem sie Herzfrequenz, Blutdruck "
-"und Atmung miteinander verbindet.<br><ul><li>Aufrecht und entspannt sitzen.</"
-"li><li>Einatmen und dabei den Bauch beim Füllen der Lungen dehnen (5,5 Sek.)."
-"</li><li>Ausatmen und dabei den Bauch beim Leeren der Lungen einziehen (5,5 "
-"Sek.).</li></ul><br>Mindestens 10 Wiederholungen."
+"und Atmung miteinander verbindet.<br><ul><li>Setzen Sie sich aufrecht und "
+"entspannt hin.</li><li>Atmen Sie ein (5,5 s). Dehnen Sie Ihren Bauch, wenn "
+"die Luft in Ihre Lunge einströmt.</li><li>Atmen Sie aus (5,5 s). Ziehen Sie "
+"Ihren Bauch zusammen, wenn die Luft aus Ihrer Lunge ausströmt.</li></"
+"ul><br>Mindestens 10 Wiederholungen."
 
 #: qml/SettingsPage.qml:14
 #, kde-format
@@ -308,14 +314,16 @@ msgstr "Ausatemdauer:"
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr "%1 Sek."
+msgstr "%1 s"
 
+# https://www.taohealth.de/was-ist-pranayama/
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
 msgctxt "@title"
 msgid "Yogic Breathing"
-msgstr "Yoga-Atmung"
+msgstr "Yogische Atmung"
 
+# https://www.taohealth.de/was-ist-pranayama/
 #: qml/YogicBreathingPage.qml:11
 #, kde-format
 msgid ""
@@ -339,25 +347,23 @@ msgid ""
 "breathe out again etc.)."
 msgstr ""
 "Die Yogische Atmung ist eine gängige Pranayama-Technik zum Revitalisieren "
-"des Körpers.<br><ul><li>Eine Hand auf den Nabel legen. In den Bauch einatmen "
-"und die Ausdehnung spüren.</li><li>Die Hand nach oben über die unteren "
-"Rippen bewegen. In den mittleren Rumpf einatmen und die Ausdehnung spüren.</"
-"li><li>Die Hand nach oben zur oberen Brust bewegen. Einatmen und das leichte "
-"Anheben der Schlüsselbeine spüren.</li><li>Ausatmen und dabei das Senken der "
-"Schlüsselbeine spüren.</li><li>Die Hand nach unten zu den unteren Rippen "
-"bewegen. Ausatmen und das Zurückziehen des mittleren Rumpfes spüren.</"
-"li><li>Die Hand nach unten zum Nabel bewegen. Ausatmen und das Zurückziehen "
-"des Bauches spüren.</li></ul><br>Bis zu 15 Minuten lang wiederholen."
-"<br><br>Die Schritte sollten einen einzigen, fließenden Atem bilden.<br>Am "
-"Anfang kann es hilfreich sein, die drei Stufen (Bauch, mittlerer Rumpf, "
-"obere Brust) einzeln zu üben (d. h. nur in den Bauch atmen, dann wieder "
-"ausatmen usw.)."
+"des Körpers.<br><ul><li>Legen Sie eine Hand auf den Bauchnabel. Atmen Sie in "
+"den Bauch ein und spüren Sie, wie er sich ausdehnt.</li><li>Bewegen Sie die "
+"Hand nach oben auf die unteren Rippen. Atmen Sie in den mittleren Rumpf ein "
+"und spüren Sie, wie sie sich ausdehnen.</li><li>Bewegen Sie die Hand nach "
+"oben auf die Brust. Atmen Sie ein und spüren Sie, wie sich Ihre "
+"Schlüsselbeine leicht heben.</li><li>Atmen Sie aus spüren Sie, wie sich Ihre "
+"Schlüsselbeine senken.</li><li>Bewegen Sie die Hand nach unten auf die "
+"unteren Rippen. Atmen Sie aus spüren Sie, wie sie sich senken.</"
+"li><li>Bewegen Sie die Hand nach unten auf den Bauchnabel. Atmen Sie aus "
+"spüren Sie, wie sich der Bauch senkt.</li></ul><br>Bis zu 15 Minuten lang "
+"wiederholen.<br><br>Die Schritte sollten einen einzigen, fließenden Atemzug "
+"bilden.<br>Am Anfang kann es hilfreich sein, die drei Stufen (Bauch, "
+"mittlerer Rumpf, obere Brust) einzeln zu üben (d. h. nur in den Bauch atmen, "
+"dann wieder ausatmen usw.)."
 
 #: qml/YogicBreathingPage.qml:48
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -367,10 +373,7 @@ msgstr ""
 "(Bauch)"
 
 #: qml/YogicBreathingPage.qml:59
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -380,10 +383,7 @@ msgstr ""
 "(mittlerer Rumpf)"
 
 #: qml/YogicBreathingPage.qml:70
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -393,10 +393,7 @@ msgstr ""
 "(obere Brust)"
 
 #: qml/YogicBreathingPage.qml:85
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -406,10 +403,7 @@ msgstr ""
 "(obere Brust)"
 
 #: qml/YogicBreathingPage.qml:96
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -419,10 +413,7 @@ msgstr ""
 "(mittlerer Rumpf)"
 
 #: qml/YogicBreathingPage.qml:107
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
