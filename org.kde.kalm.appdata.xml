@@ -262,6 +262,7 @@
         <p xml:lang="sl">Podprte dihalne tehnike:</p>
         <p xml:lang="tr">Desteklenen solunum teknikleri:</p>
         <p xml:lang="uk">Підтримувані методики дихання:</p>
+        <p xml:lang="zh-CN">支持的呼吸技巧：</p>
         <p xml:lang="zh-TW">支援的呼吸技巧：</p>
         <ul>
           <li>4-7-8 Breathing</li>
@@ -284,6 +285,7 @@
           <li xml:lang="sl">Dihanje 4-7-8</li>
           <li xml:lang="tr">4-7-8 Solunumu</li>
           <li xml:lang="uk">Дихання 4-7-8</li>
+          <li xml:lang="zh-CN">4-7-8 呼吸</li>
           <li xml:lang="zh-TW">4-7-8 呼吸法</li>
           <li>Coordinated Breathing</li>
           <li xml:lang="ar">التنفس المنسق</li>
@@ -305,6 +307,7 @@
           <li xml:lang="sl">Koordinirano dihanje</li>
           <li xml:lang="tr">Koordine Solunum</li>
           <li xml:lang="uk">Координоване дихання</li>
+          <li xml:lang="zh-CN">协调呼吸</li>
           <li xml:lang="zh-TW">合作呼吸法</li>
           <li>Box Breathing</li>
           <li xml:lang="ar">التنفس الصندوقي</li>
@@ -326,6 +329,7 @@
           <li xml:lang="sl">Škatlasto dihanje</li>
           <li xml:lang="tr">Kutu Solunumu</li>
           <li xml:lang="uk">Квадратне дихання</li>
+          <li xml:lang="zh-CN">盒式呼吸</li>
           <li xml:lang="zh-TW">盒式呼吸法</li>
           <li>Box Breathing (sleep)</li>
           <li xml:lang="ar">التنفس الصندوقي (النوم)</li>
@@ -347,6 +351,7 @@
           <li xml:lang="sl">Škatlasto dihanje (spanje)</li>
           <li xml:lang="tr">Kutu Solunumu (Uyku)</li>
           <li xml:lang="uk">Квадратне дихання (сон)</li>
+          <li xml:lang="zh-CN">盒式呼吸 (睡眠) </li>
           <li xml:lang="zh-TW">盒式呼吸法（睡眠）</li>
           <li>Resonant Breathing</li>
           <li xml:lang="ar">التنفس الرنان</li>
@@ -368,6 +373,7 @@
           <li xml:lang="sl">Resonančno dihanje</li>
           <li xml:lang="tr">Rezonans Solunum</li>
           <li xml:lang="uk">Резонансне дихання</li>
+          <li xml:lang="zh-CN">共鸣呼吸</li>
           <li xml:lang="zh-TW">共振呼吸法</li>
           <li>Nadi Shodhana</li>
           <li xml:lang="ar">نادي شودانا</li>
@@ -389,6 +395,7 @@
           <li xml:lang="sl">Nadi Shodhana</li>
           <li xml:lang="tr">Nadi Shodhana</li>
           <li xml:lang="uk">Наді Шодхана</li>
+          <li xml:lang="zh-CN">Nadi Shodhana</li>
           <li xml:lang="zh-TW">鼻孔交替呼吸法 (Nadi Shodhana)</li>
           <li>Yogic Breathing</li>
           <li xml:lang="ar">التنفس اليوغي</li>
@@ -410,6 +417,7 @@
           <li xml:lang="sl">Jogijevsko dihanje</li>
           <li xml:lang="tr">Yoga Solunumu</li>
           <li xml:lang="uk">Йогічне дихання</li>
+          <li xml:lang="zh-CN">Yogic 呼吸</li>
           <li xml:lang="zh-TW">瑜伽呼吸法</li>
         </ul>
       </description>
