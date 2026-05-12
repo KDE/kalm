@@ -1,13 +1,13 @@
 # Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kalm package.
 #
-# SPDX-FileCopyrightText: 2024 Kisaragi Hiu <mail@kisaragi-hiu.com>
+# SPDX-FileCopyrightText: 2024, 2026 Kisaragi Hiu <mail@kisaragi-hiu.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-04-27 00:47+0000\n"
-"PO-Revision-Date: 2024-05-23 16:25+0900\n"
+"PO-Revision-Date: 2026-05-12 04:07+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 24.04.70\n"
+"X-Generator: Lokalize 26.07.70\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -66,8 +66,7 @@ msgstr ""
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
-#, fuzzy, kde-format
-#| msgid "in"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid "in"
 msgstr "吸入"
@@ -76,8 +75,7 @@ msgstr "吸入"
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
 #: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
 #: qml/NadiShodhanaPage.qml:86
-#, fuzzy, kde-format
-#| msgid "hold"
+#, kde-format
 msgctxt "Breathing instruction, as in 'hold your breath'"
 msgid "hold"
 msgstr "維持"
@@ -85,8 +83,7 @@ msgstr "維持"
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
-#, fuzzy, kde-format
-#| msgid "out"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid "out"
 msgstr "呼出"
@@ -334,10 +331,7 @@ msgstr ""
 "等）。"
 
 #: qml/YogicBreathingPage.qml:48
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -347,10 +341,7 @@ msgstr ""
 "（腹部）"
 
 #: qml/YogicBreathingPage.qml:59
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -360,10 +351,7 @@ msgstr ""
 "（軀幹中部）"
 
 #: qml/YogicBreathingPage.qml:70
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -373,10 +361,7 @@ msgstr ""
 "（上胸）"
 
 #: qml/YogicBreathingPage.qml:85
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -386,10 +371,7 @@ msgstr ""
 "（上胸）"
 
 #: qml/YogicBreathingPage.qml:96
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -399,10 +381,7 @@ msgstr ""
 "（軀幹中部）"
 
 #: qml/YogicBreathingPage.qml:107
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
