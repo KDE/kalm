@@ -34,6 +34,7 @@
   <name xml:lang="sl">Kalm</name>
   <name xml:lang="sv">Kalm</name>
   <name xml:lang="tr">Kalm</name>
+  <name xml:lang="ug">Kalm</name>
   <name xml:lang="uk">Kalm</name>
   <name xml:lang="zh-TW">Kalm</name>
   <summary>Breathing techniques</summary>
@@ -64,6 +65,7 @@
   <summary xml:lang="sl">Dihalne tehnike</summary>
   <summary xml:lang="sv">Andningstekniker</summary>
   <summary xml:lang="tr">Solunum Teknikleri</summary>
+  <summary xml:lang="ug">نەپەسلىنىش تېخنىكىسى</summary>
   <summary xml:lang="uk">Методики дихання</summary>
   <summary xml:lang="zh-TW">呼吸技巧</summary>
   <metadata_license>CC0-1.0</metadata_license>
@@ -137,6 +139,7 @@
       <caption xml:lang="sl">Splošno</caption>
       <caption xml:lang="sv">Allmänt</caption>
       <caption xml:lang="tr">Genel</caption>
+      <caption xml:lang="ug">ئادەتتىكى</caption>
       <caption xml:lang="uk">Загальне</caption>
       <caption xml:lang="zh-TW">一般</caption>
       <image>https://cdn.kde.org/screenshots/kalm/general.png</image>
@@ -170,6 +173,7 @@
       <caption xml:lang="sl">Informacije</caption>
       <caption xml:lang="sv">Information</caption>
       <caption xml:lang="tr">Bilgi</caption>
+      <caption xml:lang="ug">ئۇچۇر</caption>
       <caption xml:lang="uk">Відомості</caption>
       <caption xml:lang="zh-TW">資訊</caption>
       <image>https://cdn.kde.org/screenshots/kalm/info.png</image>
@@ -204,6 +208,7 @@
       <caption xml:lang="sl">Meni</caption>
       <caption xml:lang="sv">Meny</caption>
       <caption xml:lang="tr">Menü</caption>
+      <caption xml:lang="ug">تىزىملىك</caption>
       <caption xml:lang="uk">Меню</caption>
       <caption xml:lang="zh-TW">選單</caption>
       <image>https://cdn.kde.org/screenshots/kalm/menu.png</image>
