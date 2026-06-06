@@ -28,7 +28,7 @@ ecm_add_qml_module(kalm URI org.kde.kalm
 kconfig_add_kcfg_files(kalm KalmSettings.kcfgc GENERATE_MOC)
 
 target_include_directories(kalm PRIVATE ${CMAKE_BINARY_DIR})
-target_link_libraries(kalm PUBLIC Qt::Core Qt::Qml Qt::Quick Qt::QuickControls2 KF${QT_MAJOR_VERSION}::CoreAddons KF${QT_MAJOR_VERSION}::ConfigGui KF${QT_MAJOR_VERSION}::I18n)
+target_link_libraries(kalm PUBLIC Qt::Core Qt::Qml Qt::Quick Qt::QuickControls2 KF${QT_MAJOR_VERSION}::CoreAddons KF${QT_MAJOR_VERSION}::ConfigGui KF${QT_MAJOR_VERSION}::I18n KF${QT_MAJOR_VERSION}::I18nQml)
 
 if(ANDROID)
     target_link_libraries(kalm PUBLIC KF${QT_MAJOR_VERSION}::Kirigami2)
