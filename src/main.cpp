@@ -10,7 +10,7 @@
 #if HAVE_KCRASH
 #include <KCrash>
 #endif
-#include <KLocalizedContext>
+#include <KLocalizedQmlContext>
 #include <KLocalizedString>
 
 #include <QCommandLineParser>
@@ -75,7 +75,7 @@ int main(int argc, char *argv[])
 
     // setup engine
     QQmlApplicationEngine engine;
-    engine.rootContext()->setContextObject(new KLocalizedContext(&engine));
+    KLocalization::setupLocalizedContext(&engine);
 
     QObject::connect(&app, &QCoreApplication::aboutToQuit, KalmSettings::self(), &KalmSettings::save);
 
