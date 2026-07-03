@@ -262,6 +262,7 @@
         <p xml:lang="ru">Поддерживаемые техники дыхания:</p>
         <p xml:lang="sk">Dýchacie techniky</p>
         <p xml:lang="sl">Podprte dihalne tehnike:</p>
+        <p xml:lang="sv">Andningstekniker som stöds</p>
         <p xml:lang="tr">Desteklenen solunum teknikleri:</p>
         <p xml:lang="uk">Підтримувані методики дихання:</p>
         <p xml:lang="zh-CN">支持的呼吸技巧：</p>
@@ -285,6 +286,7 @@
           <li xml:lang="ru">Дыхание 4-7-8;</li>
           <li xml:lang="sk">Dýchanie 4-7-8</li>
           <li xml:lang="sl">Dihanje 4-7-8</li>
+          <li xml:lang="sv">4-7-8-andning</li>
           <li xml:lang="tr">4-7-8 Solunumu</li>
           <li xml:lang="uk">Дихання 4-7-8</li>
           <li xml:lang="zh-CN">4-7-8 呼吸</li>
@@ -307,6 +309,7 @@
           <li xml:lang="ru">Синхронизированное дыхание;</li>
           <li xml:lang="sk">Koordinované dýchanie</li>
           <li xml:lang="sl">Koordinirano dihanje</li>
+          <li xml:lang="sv">Koordinerad andning</li>
           <li xml:lang="tr">Koordine Solunum</li>
           <li xml:lang="uk">Координоване дихання</li>
           <li xml:lang="zh-CN">协调呼吸</li>
@@ -329,6 +332,7 @@
           <li xml:lang="ru">Дыхание по квадрату;</li>
           <li xml:lang="sk">Štvorcové dýchanie</li>
           <li xml:lang="sl">Škatlasto dihanje</li>
+          <li xml:lang="sv">Fyrkantsandning</li>
           <li xml:lang="tr">Kutu Solunumu</li>
           <li xml:lang="uk">Квадратне дихання</li>
           <li xml:lang="zh-CN">盒式呼吸</li>
@@ -351,6 +355,7 @@
           <li xml:lang="ru">Дыхание по квадрату (во сне);</li>
           <li xml:lang="sk">Štvorcové dýchanie (spánok)</li>
           <li xml:lang="sl">Škatlasto dihanje (spanje)</li>
+          <li xml:lang="sv">Fyrkantsandning (sömn)</li>
           <li xml:lang="tr">Kutu Solunumu (Uyku)</li>
           <li xml:lang="uk">Квадратне дихання (сон)</li>
           <li xml:lang="zh-CN">盒式呼吸 (睡眠) </li>
@@ -373,6 +378,7 @@
           <li xml:lang="ru">Резонансное дыхание;</li>
           <li xml:lang="sk">Rezonančné dýchanie</li>
           <li xml:lang="sl">Resonančno dihanje</li>
+          <li xml:lang="sv">Resonansandning</li>
           <li xml:lang="tr">Rezonans Solunum</li>
           <li xml:lang="uk">Резонансне дихання</li>
           <li xml:lang="zh-CN">共鸣呼吸</li>
@@ -395,6 +401,7 @@
           <li xml:lang="ru">Нади-шодхана</li>
           <li xml:lang="sk">Nadi Shodhana</li>
           <li xml:lang="sl">Nadi Shodhana</li>
+          <li xml:lang="sv">Nadi Shodhana</li>
           <li xml:lang="tr">Nadi Shodhana</li>
           <li xml:lang="uk">Наді Шодхана</li>
           <li xml:lang="zh-CN">Nadi Shodhana</li>
@@ -417,6 +424,7 @@
           <li xml:lang="ru">Дыхательная йога</li>
           <li xml:lang="sk">Jogové dýchanie</li>
           <li xml:lang="sl">Jogijevsko dihanje</li>
+          <li xml:lang="sv">Yoga-andning</li>
           <li xml:lang="tr">Yoga Solunumu</li>
           <li xml:lang="uk">Йогічне дихання</li>
           <li xml:lang="zh-CN">Yogic 呼吸</li>
