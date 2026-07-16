@@ -1,16 +1,16 @@
 # Translation for kalm.po to Euskara/Basque (eu).
-# Copyright (C) 2023-2024 This file is copyright:
+# Copyright (C) 2023-2026 This file is copyright:
 # This file is distributed under the same license as the kalm package.
-# SPDX-FileCopyrightText: 2023, 2024, 2026 KDE euskaratzeko proiektuko arduraduna <xalba@ni.eus>
+# SPDX-FileCopyrightText: 2023-2024, 2026 KDE euskaratzeko proiektuaren arduraduna <xalba@ni.eus>
 #
 # Translators:
-# SPDX-FileCopyrightText: 2023, 2024 Iñigo Salvador Azurmendi <xalba@ni.eus>
+# SPDX-FileCopyrightText: Iñigo Salvador Azurmendi <xalba@ni.eus>, 2023, 2024, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-04-27 00:47+0000\n"
-"PO-Revision-Date: 2026-03-01 13:34+0100\n"
+"PO-Revision-Date: 2026-07-16 00:06+0200\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
 "Language: eu\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 25.12.2\n"
+"X-Generator: Lokalize 26.04.3\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -72,8 +72,7 @@ msgstr ""
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
-#, fuzzy, kde-format
-#| msgid "in"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid "in"
 msgstr "hartu"
@@ -82,8 +81,7 @@ msgstr "hartu"
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
 #: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
 #: qml/NadiShodhanaPage.qml:86
-#, fuzzy, kde-format
-#| msgid "hold"
+#, kde-format
 msgctxt "Breathing instruction, as in 'hold your breath'"
 msgid "hold"
 msgstr "eutsi"
@@ -91,8 +89,7 @@ msgstr "eutsi"
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
-#, fuzzy, kde-format
-#| msgid "out"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid "out"
 msgstr "bota"
@@ -375,82 +372,64 @@ msgstr ""
 "arnasa botatzea etab.)."
 
 #: qml/YogicBreathingPage.qml:48
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
 "(belly)"
 msgstr ""
 "hartu\n"
-"(sabela)"
+"(sabeletik)"
 
 #: qml/YogicBreathingPage.qml:59
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
 "(mid-torso)"
 msgstr ""
 "hartu\n"
-"(gorputz-enbor erdia)"
+"(gorputz-enbor erditik)"
 
 #: qml/YogicBreathingPage.qml:70
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
 "(upper chest)"
 msgstr ""
 "hartu\n"
-"(bular goialdea)"
+"(bular goialdetik)"
 
 #: qml/YogicBreathingPage.qml:85
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
 "(upper chest)"
 msgstr ""
 "bota\n"
-"(bular goialdea)"
+"(bular goialdetik)"
 
 #: qml/YogicBreathingPage.qml:96
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
 "(mid-torso)"
 msgstr ""
 "bota\n"
-"(gorputz-enbor erdia)"
+"(gorputz-enbor erditik)"
 
 #: qml/YogicBreathingPage.qml:107
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
 "(belly)"
 msgstr ""
 "bota\n"
-"(sabela)"
+"(sabeletik)"
 
 #~ msgid "s"
 #~ msgstr "s"
