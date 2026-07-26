@@ -12,6 +12,7 @@
 #endif
 #include <KLocalizedQmlContext>
 #include <KLocalizedString>
+#include <KirigamiAddons/App/KirigamiAppDefaults>
 
 #include <QCommandLineParser>
 #include <QIcon>
@@ -35,12 +36,8 @@ int main(int argc, char *argv[])
 {
 #ifdef Q_OS_ANDROID
     QGuiApplication app(argc, argv);
-    QQuickStyle::setStyle(QStringLiteral("org.kde.breeze"));
 #else
     QApplication app(argc, argv);
-    if (qEnvironmentVariableIsEmpty("QT_QUICK_CONTROLS_STYLE")) {
-        QQuickStyle::setStyle(QStringLiteral("org.kde.desktop"));
-    }
 #endif
 
 #if HAVE_KCRASH
@@ -72,6 +69,8 @@ int main(int argc, char *argv[])
     about.setupCommandLine(&parser);
     parser.process(app);
     about.processCommandLine(&parser);
+
+    KirigamiAppDefaults::apply(&app);
 
     // setup engine
     QQmlApplicationEngine engine;
