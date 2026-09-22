@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-27 00:48+0000\n"
-"PO-Revision-Date: 2026-05-30 16:47-0400\n"
+"PO-Revision-Date: 2026-09-22 18:03+0900\n"
 "Last-Translator: Abduqadir Abliz <sahranbay@gmail.com>\n"
 "Language-Team: Uyghur <kde-i18n-doc@kde.org>\n"
 "Language: ug\n"
@@ -36,7 +36,7 @@ msgstr "نەپەسلىنىش تېخنىكىسى"
 #: main.cpp:53
 #, kde-format
 msgid "Kalm"
-msgstr "Kalm"
+msgstr ""
 
 #: main.cpp:57
 #, kde-format
@@ -267,7 +267,7 @@ msgstr ""
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr "%1s"
+msgstr ""
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
