@@ -1,13 +1,13 @@
 # Copyright (C) 2024 This file is copyright:
 # This file is distributed under the same license as the kalm package.
-# SPDX-FileCopyrightText: 2024 Shinjo Park <kde@peremen.name>
+# SPDX-FileCopyrightText: 2024, 2026 Shinjo Park <kde@peremen.name>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: kalm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-04-27 00:47+0000\n"
-"PO-Revision-Date: 2024-02-10 00:31+0100\n"
+"PO-Revision-Date: 2026-10-04 23:08+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 23.08.1\n"
+"X-Generator: Lokalize 25.12.3\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -46,7 +46,7 @@ msgstr "© 2023 KDE Community"
 #, kde-format
 msgctxt "@title"
 msgid "4-7-8 Breathing"
-msgstr ""
+msgstr "4-7-8 호흡"
 
 #: qml/478BreathingPage.qml:11
 #, kde-format
@@ -63,8 +63,7 @@ msgstr ""
 #: qml/478BreathingPage.qml:39 qml/BoxBreathingPage.qml:40
 #: qml/BoxBreathingSleepPage.qml:40 qml/CoordinatedBreathingPage.qml:58
 #: qml/NadiShodhanaPage.qml:49 qml/ResonantBreathingPage.qml:39
-#, fuzzy, kde-format
-#| msgid "in"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid "in"
 msgstr "들숨"
@@ -73,8 +72,7 @@ msgstr "들숨"
 #: qml/BoxBreathingPage.qml:70 qml/BoxBreathingSleepPage.qml:51
 #: qml/BoxBreathingSleepPage.qml:70 qml/NadiShodhanaPage.qml:60
 #: qml/NadiShodhanaPage.qml:86
-#, fuzzy, kde-format
-#| msgid "hold"
+#, kde-format
 msgctxt "Breathing instruction, as in 'hold your breath'"
 msgid "hold"
 msgstr "참기"
@@ -82,8 +80,7 @@ msgstr "참기"
 #: qml/478BreathingPage.qml:58 qml/BoxBreathingPage.qml:59
 #: qml/BoxBreathingSleepPage.qml:59 qml/NadiShodhanaPage.qml:74
 #: qml/ResonantBreathingPage.qml:50
-#, fuzzy, kde-format
-#| msgid "out"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid "out"
 msgstr "날숨"
@@ -128,7 +125,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title:dialog"
 msgid "Information"
-msgstr ""
+msgstr "정보"
 
 #: qml/CoordinatedBreathingPage.qml:11
 #, kde-format
@@ -154,7 +151,7 @@ msgstr ""
 #: qml/KalmGlobalDrawer.qml:12
 #, kde-format
 msgid "4-7-8 Breathing"
-msgstr ""
+msgstr "4-7-8 호흡"
 
 #: qml/KalmGlobalDrawer.qml:21
 #, kde-format
@@ -242,15 +239,13 @@ msgid ""
 msgstr ""
 
 #: qml/SettingsPage.qml:14
-#, fuzzy, kde-format
-#| msgid "General"
+#, kde-format
 msgctxt "@title:group"
 msgid "General"
 msgstr "일반"
 
 #: qml/SettingsPage.qml:19
-#, fuzzy, kde-format
-#| msgid "Show info button"
+#, kde-format
 msgctxt "@option:check"
 msgid "Show info button"
 msgstr "정보 단추 표시"
@@ -262,17 +257,16 @@ msgid "Coordinated Breathing"
 msgstr ""
 
 #: qml/SettingsPage.qml:34
-#, fuzzy, kde-format
-#| msgid "Breathe out duration"
+#, kde-format
 msgctxt "@label:spinbox"
 msgid "Breathe out duration:"
-msgstr "날숨 시간"
+msgstr "날숨 시간:"
 
 #: qml/SettingsPage.qml:44
 #, kde-format
 msgctxt "Number in seconds"
 msgid "%1s"
-msgstr ""
+msgstr "%1초"
 
 #: qml/YogicBreathingPage.qml:10
 #, kde-format
@@ -304,10 +298,7 @@ msgid ""
 msgstr ""
 
 #: qml/YogicBreathingPage.qml:48
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -317,10 +308,7 @@ msgstr ""
 "(복부)"
 
 #: qml/YogicBreathingPage.qml:59
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -330,10 +318,7 @@ msgstr ""
 "(몸통)"
 
 #: qml/YogicBreathingPage.qml:70
-#, fuzzy, kde-format
-#| msgid ""
-#| "in\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe in'"
 msgid ""
 "in\n"
@@ -343,10 +328,7 @@ msgstr ""
 "(가슴)"
 
 #: qml/YogicBreathingPage.qml:85
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(upper chest)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -356,10 +338,7 @@ msgstr ""
 "(가슴)"
 
 #: qml/YogicBreathingPage.qml:96
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(mid-torso)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
@@ -369,10 +348,7 @@ msgstr ""
 "(몸통)"
 
 #: qml/YogicBreathingPage.qml:107
-#, fuzzy, kde-format
-#| msgid ""
-#| "out\n"
-#| "(belly)"
+#, kde-format
 msgctxt "Breathing instruction, as in 'breathe out'"
 msgid ""
 "out\n"
