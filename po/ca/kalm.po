@@ -434,6 +434,3 @@ msgid ""
 msgstr ""
 "expireu\n"
 "(ventre)"
-
-#~ msgid "s"
-#~ msgstr "s"
